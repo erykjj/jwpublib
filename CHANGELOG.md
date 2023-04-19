@@ -6,6 +6,8 @@
 
 ### *KJS.jwpub*
 
+- formatting adjustments
+
 ### *Str.jwpub*
 
 ### *VED.jwpub*
