@@ -10,6 +10,8 @@
 
 ### *Str.jwpub*
 
+- embedded cross-references to Vine's
+
 ### *VED.jwpub*
 
 ____
