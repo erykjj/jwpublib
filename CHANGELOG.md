@@ -7,12 +7,18 @@
 ### *KJS.jwpub*
 
 - formatting adjustments
+- adjusted to 100 Strong's entries per page numbering
 
 ### *Str.jwpub*
 
+- reduced to 100 entries per page (from 250) for faster operation on slower devices
 - embedded cross-references to Vine's
+- fixed some links
 
 ### *VED.jwpub*
+
+- improved cross-linking with Strong's
+  - also adjusted to 100 Strong's entries per page numbering
 
 ____
 ## [VED_1.6] - 2023-04-05
