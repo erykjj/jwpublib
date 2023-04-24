@@ -25,8 +25,8 @@ ____
 ![preview](screenshots/Str.gif)
 
 * **Description**: Hebrew and Greek dictionaries + concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words))
-* **Latest release**: [*Str_1.6.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_1.6)
-* **Released**: [2023-02-19](CHANGELOG.md/#str_16---2023-02-19)
+* **Latest release**: [*Str_1.7.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_1.7)
+* **Released**: [2023-04-24](CHANGELOG.md/#str_17---2023-04-24)
 * **Note**: Searchable (limited)[^2]
 
 ____
