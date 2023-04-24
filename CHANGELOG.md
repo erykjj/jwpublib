@@ -13,10 +13,12 @@
 
 ### *VED.jwpub*
 
+____
+## [VED_1.7] - 2023-04-24
+
 - improved cross-linking with Strong's
   - also adjusted to 100 Strong's entries per page numbering
 
-____
 ## [Str_1.7] - 2023-04-24
 
 - reduced to 100 entries per page (from 250) for faster operation on slower devices
@@ -133,6 +135,7 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[VED_1.7]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.7
 [Str_1.7]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.7
 [VED_1.6]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.6
 [KJS_1.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.0
