@@ -36,8 +36,8 @@ ____
 ![preview](screenshots/VED.gif)
 
 * **Description**: More extensive Greek dictionary (with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament))
-* **Latest release**: [*VED_1.6.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/VED_1.6)
-* **Released**: [2023-04-05](CHANGELOG.md/#ved_16---2023-04-05)
+* **Latest release**: [*VED_1.7.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/VED_1.7)
+* **Released**: [2023-04-24](CHANGELOG.md/#ved_17---2023-04-24)
 * **Note**: Searchable (limited)[^2]
 
 ____
