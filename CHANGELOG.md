@@ -11,16 +11,18 @@
 
 ### *Str.jwpub*
 
-- reduced to 100 entries per page (from 250) for faster operation on slower devices
-- embedded cross-references to Vine's
-- fixed some links
-
 ### *VED.jwpub*
 
 - improved cross-linking with Strong's
   - also adjusted to 100 Strong's entries per page numbering
 
 ____
+## [Str_1.7] - 2023-04-24
+
+- reduced to 100 entries per page (from 250) for faster operation on slower devices
+- embedded cross-references to Vine's
+- fixed some links
+
 ## [VED_1.6] - 2023-04-05
 
 - more precise internal linking
@@ -131,6 +133,7 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Str_1.7]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.7
 [VED_1.6]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.6
 [KJS_1.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.0
 [BRS_1.4]:https://github.com/erykjj/jwpublib/releases/tag/BRS_1.4
