@@ -7,7 +7,8 @@
 ### *KJS.jwpub*
 
 - formatting adjustments
-- adjusted to 100 Strong's entries per page numbering
+- improved cross-linking with Strong's
+  - adjusted to 100 Strong's entries per page numbering
 
 ### *Str.jwpub*
 
