@@ -12,7 +12,13 @@
 
 ### *Str.jwpub*
 
+- more precise paragraph location data
+  - improved cross-linking
+
 ### *VED.jwpub*
+
+- more precise paragraph location data
+  - improved cross-linking
 
 ____
 ## [VED_1.7] - 2023-04-24
