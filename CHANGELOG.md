@@ -14,10 +14,12 @@
 
 ### *VED.jwpub*
 
+____
+## [VED_1.8] - 2023-05_04
+
 - more precise paragraph location data
   - improved cross-linking
 
-____
 ## [Str_1.8] - 2023-05-03
 
 - more precise paragraph location data
@@ -144,6 +146,7 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[VED_1.8]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.8
 [Str_1.8]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.8
 [VED_1.7]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.7
 [Str_1.7]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.7
