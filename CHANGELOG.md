@@ -6,16 +6,18 @@
 
 ### *KJS.jwpub*
 
-- formatting adjustments
-- improved cross-linking with Strong's
-  - adjusted to 100 Strong's entries per page numbering
-
 ### *Str.jwpub*
 
 ### *VED.jwpub*
 
 ____
-## [VED_1.8] - 2023-05_04
+## [KJS_1.1] - 2023-05-04
+
+- formatting adjustments
+- improved cross-linking with Strong's
+  - adjusted to 100 Strong's entries per page numbering
+
+## [VED_1.8] - 2023-05-04
 
 - more precise paragraph location data
   - improved cross-linking
@@ -146,6 +148,7 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[KJS_1.1]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.1
 [VED_1.8]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.8
 [Str_1.8]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.8
 [VED_1.7]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.7
