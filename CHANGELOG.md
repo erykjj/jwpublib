@@ -12,15 +12,17 @@
 
 ### *Str.jwpub*
 
-- more precise paragraph location data
-  - improved cross-linking
-
 ### *VED.jwpub*
 
 - more precise paragraph location data
   - improved cross-linking
 
 ____
+## [Str_1.8] - 2023-05-03
+
+- more precise paragraph location data
+  - improved cross-linking
+
 ## [VED_1.7] - 2023-04-24
 
 - improved cross-linking with Strong's
@@ -142,6 +144,7 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Str_1.8]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.8
 [VED_1.7]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.7
 [Str_1.7]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.7
 [VED_1.6]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.6
