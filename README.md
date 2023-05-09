@@ -1,6 +1,7 @@
 # JWPubLib
 
-This is a collection of **Public Domain** reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] by simply downloading the "Latest release" and tapping/double-clicking the downloaded file. It will appear in the "Guidelines" category (Library/DOWNLOADED).
+This is a collection of **Public Domain** reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] by simply downloading the "Latest release" and **tapping/double-clicking the downloaded file** (on Windows, you can also drag and drop the file into the "Library" section of the JW Library app). It will appear in the "Guidelines" category (Library > DOWNLOADED > Guidelines).
+
 
 ### Before you ask...
 
