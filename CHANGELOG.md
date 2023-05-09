@@ -6,13 +6,15 @@
 
 ### *KJS.jwpub*
 
-- adjusted for better cross-linking with Strong's
-
 ### *Str.jwpub*
 
 ### *VED.jwpub*
 
 ____
+## [KJS_1.2] - 2023-05-09
+
+- adjusted for better cross-linking with Strong's
+
 ## [VED_1.9] - 2023-05-09
 
 - adjusted for better cross-linking with Strong's
@@ -158,6 +160,7 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[KJS_1.2]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.2
 [VED_1.9]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.9
 [Str_1.9]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.9
 [KJS_1.1]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.1
