@@ -16,7 +16,7 @@ ____
 * **Latest release**: [*BRS_1.4.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/BRS_1.4)
 * **Released**: [2023-03-04](CHANGELOG.md/#brs_14---2023-03-04)
 * **Languages**: English (E), French (F), Italian (I), Polish (P), Portuguese (T) and Spanish (S). Let me know if you would like this in another major language (eg., German)
-* **Note**: If upgrading from a previous version, take note of your progress in case you need to re-tick some boxes
+* **Note**: 
 
 ____
 ## Strong's *Hebrew and Chaldee Dictionary* + Strong's *Greek Dictionary of the New Testament*
@@ -25,8 +25,8 @@ ____
 ![preview](screenshots/Str.gif)
 
 * **Description**: Hebrew and Greek dictionaries + concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words))
-* **Latest release**: [*Str_1.8.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_1.8)
-* **Released**: [2023-05-03](CHANGELOG.md/#str_18---2023-05-03)
+* **Latest release**: [*Str_1.9.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_1.9)
+* **Released**: [2023-05-09](CHANGELOG.md/#str_19---2023-05-09)
 * **Note**: Searchable (limited)[^2]
 
 ____
