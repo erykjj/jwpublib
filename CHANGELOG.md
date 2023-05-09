@@ -6,9 +6,15 @@
 
 ### *KJS.jwpub*
 
+- adjusted for better cross-linking with Strong's
+
 ### *Str.jwpub*
 
+- fixed some internal links
+
 ### *VED.jwpub*
+
+- adjusted for better cross-linking with Strong's
 
 ____
 ## [KJS_1.1] - 2023-05-04
