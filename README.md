@@ -39,7 +39,7 @@ ____
 * **Description**: More extensive Greek dictionary (with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament))
 * **Latest release**: [*VED_1.9.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/VED_1.9)
 * **Released**: [2023-05-09](CHANGELOG.md/#ved_19---2023-05-09)
-* **Note**: Searchable (limited)[^2]
+* **Note**: Searchable[^2]
 
 ____
 ## KJV and Strong's Interlinear
@@ -48,8 +48,8 @@ ____
 ![preview](screenshots/KJS.gif)
 
 * **Description**: Interlinear *King James Version* with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
-* **Latest release**: [*KJS_1.1.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/KJS_1.1)
-* **Released**: [2023-05-04](CHANGELOG.md/#kjs_11---2023-05-04)
+* **Latest release**: [*KJS_1.2.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/KJS_1.2)
+* **Released**: [2023-05-09](CHANGELOG.md/#kjs_12---2023-05-09)
 * **Note**: This needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it (Bible → Languages → Delete); for updates, the older version needs to be removed in the same way; also, search context needs fine-tuning[^2]
 
 ____
