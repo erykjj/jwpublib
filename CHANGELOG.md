@@ -10,13 +10,15 @@
 
 ### *Str.jwpub*
 
-- fixed some internal links
-
 ### *VED.jwpub*
 
 - adjusted for better cross-linking with Strong's
 
 ____
+## [Str_1.9] - 2023-05-09
+
+- fixed some internal links
+
 ## [KJS_1.1] - 2023-05-04
 
 - formatting adjustments
@@ -154,6 +156,7 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Str_1.9]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.9
 [KJS_1.1]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.1
 [VED_1.8]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.8
 [Str_1.8]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.8
