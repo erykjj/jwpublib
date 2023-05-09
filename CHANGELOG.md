@@ -12,9 +12,11 @@
 
 ### *VED.jwpub*
 
+____
+## [VED_1.9] - 2023-05-09
+
 - adjusted for better cross-linking with Strong's
 
-____
 ## [Str_1.9] - 2023-05-09
 
 - fixed some internal links
@@ -156,6 +158,7 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[VED_1.9]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.9
 [Str_1.9]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.9
 [KJS_1.1]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.1
 [VED_1.8]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.8
