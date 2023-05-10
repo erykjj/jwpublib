@@ -8,7 +8,11 @@
 
 ### *Str.jwpub*
 
+- fixed offset calculations for search contexts
+
 ### *VED.jwpub*
+
+- fixed offset calculations for search contexts
 
 ____
 ## [KJS_1.2] - 2023-05-09
