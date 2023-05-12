@@ -6,12 +6,16 @@
 
 ### *KJS.jwpub*
 
+- formatting improvements and corrections
+
 ### *Str.jwpub*
 
+- formatting improvements and corrections
 - fixed offset calculations for search contexts
 
 ### *VED.jwpub*
 
+- formatting improvements and corrections
 - fixed offset calculations for search contexts
 
 ____
