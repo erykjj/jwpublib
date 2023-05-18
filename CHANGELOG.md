@@ -10,6 +10,7 @@
 
 ### *Str.jwpub*
 
+- source corrections for compound names
 - formatting improvements and corrections
 - fixed offset calculations for search contexts
 
