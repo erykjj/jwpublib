@@ -16,6 +16,7 @@
 
 ### *VED.jwpub*
 
+- corrected some internal linking key-words in source
 - formatting improvements and corrections
 - fixed offset calculations for search contexts
 
