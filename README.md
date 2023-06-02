@@ -15,7 +15,7 @@ ____
 
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
 * **Latest release**: [*BRS_1.4.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/BRS_1.4)
-* **Released**: [2023-03-04](CHANGELOG.md/#brs_14---2023-03-04)
+* **Released**: [2023-03-04](CHANGELOG.md/#brs_14---2023-03-04) [Upcoming changes](CHANGELOG.md#brsjwpub)
 * **Languages**: English (E), French (F), German (X), Italian (I), Polish (P), Portuguese (T) and Spanish (S). Let me know if you would like this in another language
 * **Note**: 
 
@@ -27,7 +27,7 @@ ____
 
 * **Description**: Hebrew and Greek dictionaries + concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words))
 * **Latest release**: [*Str_1.9.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_1.9)
-* **Released**: [2023-05-09](CHANGELOG.md/#str_19---2023-05-09)
+* **Released**: [2023-05-09](CHANGELOG.md/#str_19---2023-05-09) [Upcoming changes](CHANGELOG.md#strjwpub)
 * **Note**: Searchable[^2]
 
 ____
@@ -38,7 +38,7 @@ ____
 
 * **Description**: More extensive Greek dictionary (with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament))
 * **Latest release**: [*VED_1.9.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/VED_1.9)
-* **Released**: [2023-05-09](CHANGELOG.md/#ved_19---2023-05-09)
+* **Released**: [2023-05-09](CHANGELOG.md/#ved_19---2023-05-09) [Upcoming changes](CHANGELOG.md#vedjwpub)
 * **Note**: Searchable[^2]
 
 ____
@@ -49,7 +49,7 @@ ____
 
 * **Description**: Interlinear *King James Version* with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
 * **Latest release**: [*KJS_1.2.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/KJS_1.2)
-* **Released**: [2023-05-09](CHANGELOG.md/#kjs_12---2023-05-09)
+* **Released**: [2023-05-09](CHANGELOG.md/#kjs_12---2023-05-09) [Upcoming changes](CHANGELOG.md#kjsjwpub)
 * **Note**: This needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it (Bible → Languages → Delete); for updates, the older version needs to be removed in the same way; also, search context needs fine-tuning[^2]
 
 ____
