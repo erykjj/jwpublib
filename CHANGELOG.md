@@ -12,13 +12,14 @@
 
 - source corrections for compound names
 - formatting improvements and corrections
-- resolved search highlighting and context issues
+- **resolved search highlighting and context issues**
 
 ### *VED.jwpub*
 
 - corrected some internal linking key-words in source
 - numerous formatting improvements and corrections
-- resolved search highlighting and context issues
+- **resolved search highlighting and context issues**
+- spelling corrections in source
 
 ____
 ## [KJS_1.2] - 2023-05-09
