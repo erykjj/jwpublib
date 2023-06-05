@@ -11,15 +11,18 @@
 ### *Str.jwpub*
 
 - source corrections for compound names
-- formatting improvements and corrections
+- formatting improvements and layout corrections
 - **resolved search highlighting and context issues**
 
 ### *VED.jwpub*
 
 - corrected some internal linking key-words in source
-- numerous formatting improvements and corrections
+- formatting improvements and layout corrections
+  - removed cross-linking to same entry
 - **resolved search highlighting and context issues**
-- spelling corrections in source
+- source corrections
+  - spelling corrections
+  - italicise foreign terms
 
 ____
 ## [KJS_1.2] - 2023-05-09
