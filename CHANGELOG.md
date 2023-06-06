@@ -17,6 +17,7 @@
 ### *VED.jwpub*
 
 - corrected some internal linking key-words in source
+- corrected some scriptures that were not being linked
 - formatting improvements and layout corrections
   - removed cross-linking to same entry
 - **resolved search highlighting and context issues**
