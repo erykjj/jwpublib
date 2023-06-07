@@ -8,6 +8,7 @@
 
 - formatting improvements and corrections
 - updated excerpts from Str
+- updated title page
 
 ### *Str.jwpub*
 
@@ -15,6 +16,7 @@
 - formatting improvements and layout corrections
 - resolved search highlighting and context issues
 - updated excerpts from VED
+- updated title page
 
 ### *VED.jwpub*
 
@@ -27,6 +29,7 @@
   - spelling corrections
   - italicise foreign terms
 - updated excerpts from Str
+- updated title pages
 
 ____
 ## [KJS_1.2] - 2023-05-09
