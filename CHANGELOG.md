@@ -7,12 +7,13 @@
 ### *KJS.jwpub*
 
 - formatting improvements and corrections
+- updated excerpts from Str
 
 ### *Str.jwpub*
 
 - source corrections for compound names
 - formatting improvements and layout corrections
-- **resolved search highlighting and context issues**
+- resolved search highlighting and context issues
 - updated excerpts from VED
 
 ### *VED.jwpub*
