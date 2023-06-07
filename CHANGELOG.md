@@ -13,6 +13,7 @@
 - source corrections for compound names
 - formatting improvements and layout corrections
 - **resolved search highlighting and context issues**
+- updated excerpts from VED
 
 ### *VED.jwpub*
 
@@ -20,10 +21,11 @@
 - corrected some scriptures that were not being linked
 - formatting improvements and layout corrections
   - removed cross-linking to same entry
-- **resolved search highlighting and context issues**
+- resolved search highlighting and context issues (mostly)
 - source corrections
   - spelling corrections
   - italicise foreign terms
+- updated excerpts from Str
 
 ____
 ## [KJS_1.2] - 2023-05-09
