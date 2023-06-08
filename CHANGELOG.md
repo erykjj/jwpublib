@@ -9,6 +9,7 @@
 - formatting improvements and corrections
 - updated excerpts from Str
 - updated title page
+- removed inexact search (for now)
 
 ### *Str.jwpub*
 
