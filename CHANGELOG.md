@@ -10,6 +10,9 @@
 
 ### *VED.jwpub*
 
+____
+## [VED_2.0] - 2023-06-08
+
 - corrected some internal linking key-words in source
 - corrected some scriptures that were not being linked
 - formatting improvements and layout corrections
@@ -18,16 +21,15 @@
 - source corrections
   - spelling corrections
   - italicise foreign terms
-- updated excerpts from Str
+- updated excerpts from Strong's
 - updated title pages
 
-____
 ## [Str_2.0] - 2023-06-08
 
 - source corrections for compound names
 - formatting improvements and layout corrections
 - resolved search highlighting and context issues
-- updated excerpts from VED
+- updated excerpts from Vine's
 - updated title page
 
 ## [KJS_1.3] - 2023-06-08
@@ -186,6 +188,7 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[VED_2.0]:https://github.com/erykjj/jwpublib/releases/tag/VED_2.0
 [Str_2.0]:https://github.com/erykjj/jwpublib/releases/tag/Str_2.0
 [KJS_1.3]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.3
 [KJS_1.2]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.2
