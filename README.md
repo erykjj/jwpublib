@@ -26,9 +26,8 @@ ____
 ![preview](screenshots/Str.gif)
 
 * **Description**: Hebrew and Greek dictionaries + concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words))
-* **Latest release**: [*Str_1.9.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_1.9)
-* **Released**: [2023-05-09](CHANGELOG.md/#str_19---2023-05-09) ([Upcoming changes](CHANGELOG.md#unreleased))
-* **Note**: Searchable[^2]
+* **Latest release**: [*Str_2.0.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_2.0)
+* **Released**: [2023-06-08](CHANGELOG.md/#str_20---2023-06-08) ([Upcoming changes](CHANGELOG.md#unreleased))
 
 ____
 ## Vine's *Expository Dictionary of New Testament Words*
@@ -61,4 +60,3 @@ Feel free to [get in touch](https://github.com/erykjj/jwpublib/issues) and post 
 [![RSS of releases](screenshots/rss-36.png)](https://github.com/erykjj/jwpublib/releases.atom)
 
 [^1]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.
-[^2]: Search results may not be highlighted in the JW Library app on Windows and search result contexts may be off; I am working on a solution. Please report any other issues you discover.
