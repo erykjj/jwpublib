@@ -1,6 +1,6 @@
 # JWPubLib
 
-This is a collection of **Public Domain** reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] by simply downloading the "Latest release" and **tapping/double-clicking the downloaded file** (on Windows, you can also drag and drop the file into the "Library" section of the JW Library app). It will appear in the "Guidelines" category (Library > DOWNLOADED > Guidelines).
+This is a collection of **Public Domain** reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] by simply downloading the "Latest release" and **tapping/double-clicking the downloaded file** (on Windows, you can also drag and drop the file into the "Library" section of the JW Library app). It will appear in the "Guidelines" category (Library → DOWNLOADED → Guidelines).
 
 
 ### Before you ask...
@@ -20,12 +20,12 @@ ____
 * **Note**: 
 
 ____
-## Strong's *Hebrew and Chaldee Dictionary* + Strong's *Greek Dictionary of the New Testament*
+## Strong's *Hebrew and Chaldee Dictionary* and Strong's *Greek Dictionary of the New Testament*
 <img src="screenshots/Strongs.jpg" width="100px">
 
 ![preview](screenshots/Str.gif)
 
-* **Description**: Hebrew and Greek dictionaries + concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words))
+* **Description**: Hebrew and Greek dictionaries and concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words))
 * **Latest release**: [*Str_2.0.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_2.0)
 * **Released**: [2023-06-08](CHANGELOG.md/#str_20---2023-06-08) ([Upcoming changes](CHANGELOG.md#unreleased))
 
@@ -45,7 +45,7 @@ ____
 
 ![preview](screenshots/KJS.gif)
 
-* **Description**: Interlinear *King James Version* with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
+* **Description**: *King James Version* with interlinear links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
 * **Latest release**: [*KJS_1.3.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/KJS_1.3)
 * **Released**: [2023-06-08](CHANGELOG.md/#kjs_13---2023-06-08) ([Upcoming changes](CHANGELOG.md#unreleased))
 * **Note**: This needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it (Bible → Languages → Delete); for updates, the older version needs to be removed in the same way
