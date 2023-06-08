@@ -20,7 +20,7 @@ ____
 * **Note**: 
 
 ____
-## Strong's *Hebrew and Chaldee Dictionary* and Strong's *Greek Dictionary of the New Testament*
+## Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 <img src="screenshots/Strongs.jpg" width="100px">
 
 ![preview](screenshots/Str.gif)
@@ -40,7 +40,7 @@ ____
 * **Released**: [2023-06-08](CHANGELOG.md/#ved_20---2023-06-08) ([Upcoming changes](CHANGELOG.md#unreleased))
 
 ____
-## KJV and Strong's Interlinear
+## *KJV* and *Strong's* interlinear
 <img src="screenshots/KJS.jpg" width="100px">
 
 ![preview](screenshots/KJS.gif)
