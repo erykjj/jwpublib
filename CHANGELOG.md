@@ -6,11 +6,6 @@
 
 ### *KJS.jwpub*
 
-- formatting improvements and corrections
-- updated excerpts from Str
-- updated title page
-- removed inexact search (for now)
-
 ### *Str.jwpub*
 
 - source corrections for compound names
@@ -33,6 +28,13 @@
 - updated title pages
 
 ____
+## [KJS_1.3] - 2023-06-08
+
+- formatting improvements and corrections
+- updated excerpts from Str
+- updated title page
+- removed search
+
 ## [KJS_1.2] - 2023-05-09
 
 - adjusted for better cross-linking with Strong's
@@ -182,6 +184,7 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[KJS_1.3]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.3
 [KJS_1.2]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.2
 [VED_1.9]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.9
 [Str_1.9]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.9
