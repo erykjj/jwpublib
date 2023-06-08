@@ -8,12 +8,6 @@
 
 ### *Str.jwpub*
 
-- source corrections for compound names
-- formatting improvements and layout corrections
-- resolved search highlighting and context issues
-- updated excerpts from VED
-- updated title page
-
 ### *VED.jwpub*
 
 - corrected some internal linking key-words in source
@@ -28,6 +22,14 @@
 - updated title pages
 
 ____
+## [Str_2.0] - 2023-06-08
+
+- source corrections for compound names
+- formatting improvements and layout corrections
+- resolved search highlighting and context issues
+- updated excerpts from VED
+- updated title page
+
 ## [KJS_1.3] - 2023-06-08
 
 - formatting improvements and corrections
@@ -184,6 +186,7 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Str_2.0]:https://github.com/erykjj/jwpublib/releases/tag/Str_2.0
 [KJS_1.3]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.3
 [KJS_1.2]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.2
 [VED_1.9]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.9
