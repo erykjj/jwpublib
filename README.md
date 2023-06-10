@@ -1,11 +1,9 @@
 # JWPubLib
 
-This is a collection of **Public Domain** reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] by simply downloading the "Latest release" and **tapping/double-clicking the downloaded file** (on Windows, you can also drag and drop the file into the "Library" section of the JW Library app). It will appear in the "Guidelines" category (Library → DOWNLOADED → Guidelines).
+This is a collection of reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] by simply downloading the "Latest release" and **tapping/double-clicking the downloaded file** (on Windows, you can also drag and drop the file into the "Library" section of the JW Library app). It will appear in the "Guidelines" category (Library → DOWNLOADED → Guidelines).
 
+<small>The material provided here is <i><strong>not</i> copyrighted</strong>; it is in the <strong>Public Domain</strong>. However, the production code/methods <i>cannot</i> be shared; the same goes for the source material — you can find it all online. Thanks for understanding and for not insisting.</small>
 
-### Before you ask...
-
-If you are looking for the **production code/methods**, that *cannot* be shared. The same goes for the source material. Thanks for understanding and for not insisting.
 ____
 ____
 ## Bible Reading Schedules
