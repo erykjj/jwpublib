@@ -4,6 +4,8 @@
 
 ### *BRS.jwpub*
 
+- fixed many missing chapters/verses in the **6-month chronological** schedule
+
 ### *KJS.jwpub*
 
 ### *Str.jwpub*
