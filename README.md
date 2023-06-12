@@ -15,7 +15,7 @@ ____
 * **Latest release**: [*BRS_1.4.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/BRS_1.4)
 * **Released**: [2023-03-04](CHANGELOG.md/#brs_14---2023-03-04) ([Upcoming changes](CHANGELOG.md#unreleased))
 * **Languages**: English (E), French (F), German (X), Italian (I), Polish (P), Portuguese (T) and Spanish (S). Let me know if you would like this in another language
-* **Note**: I am LOOKING for the SOURCE for the 2- and 4-YEAR CHRONOLOGICAL SCHEDULES to include in the program, if anyone can contribute. The ones I have are the same as the 1-year schedule, except with empty days in between to stretch them out :no_mouth:
+* **Note**: The sources for the **chronological schedules** are very buggy/incomplete and need much correcting before being usable. The 1-year and 6-month ones have many chapters and verses missing. And the 2- and 4-year ones are the same as the 1-year schedule, except with empty days in between to stretch them out :no_mouth: If anyone has any more reliable ones to contribute, that would be appreciated.
 
 ____
 ## Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
