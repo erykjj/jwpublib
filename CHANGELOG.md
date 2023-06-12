@@ -4,6 +4,7 @@
 
 ### *BRS.jwpub*
 
+- **Note** the chronological schedule sources are very buggy/incomplete and need much correcting before being usable
 - fixed some missing chapters/verses in the **6-month chronological** schedule
 
 ### *KJS.jwpub*
