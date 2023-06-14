@@ -4,8 +4,10 @@
 
 ### *BRS.jwpub*
 
-- **Note** the chronological schedule sources are very buggy/incomplete and need much correcting before being usable
-- fixed some missing chapters/verses in the **6-month chronological** schedule
+- **Note**: the chronological schedule sources are very buggy/incomplete and need much correcting before being usable
+  - fixed some missing chapters/verses in the **6-month chronological** schedule
+- **Note**: the canonical schedules also have bugs
+  - for example, spurious John 8:1-11 is included and produces error when trying to open the Bible to that passage for reading
 
 ### *KJS.jwpub*
 
