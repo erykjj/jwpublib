@@ -6,7 +6,7 @@ The material provided here is ***not* copyrighted**; it is in the **Public Domai
 
 ____
 ____
-## Bible Reading Schedules - TO BE REVISED SOON
+## Bible Reading Schedules - VERSION 2 IN THE WORKS
 <img src="screenshots/BRS.jpg" width="100px">
 
 ![preview](screenshots/BRS.gif)
