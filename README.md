@@ -7,7 +7,7 @@ The material provided here is ***not* copyrighted**; it is in the **Public Domai
 ____
 ____
 ## Bible Reading Schedules v2
-<img src="screenshots/BRS2.jpg" width="100px">
+<img src="screenshots/BRS2.png" width="100px">
 
 ![preview](screenshots/BRS2.gif)
 
