@@ -6,7 +6,19 @@ The material provided here is ***not* copyrighted**; it is in the **Public Domai
 
 ____
 ____
-## Bible Reading Schedules - VERSION 2 IN THE WORKS
+## Bible Reading Schedules v2
+<img src="screenshots/BRS2.jpg" width="100px">
+
+![preview](screenshots/BRS2.gif)
+
+* **Description**: Personal project with Bible reading schedules of varying sequences and lengths
+* **Latest release**: N/A
+* **Released**: In development
+* **Languages**: English (E), French (F), German (X), Italian (I), Polish (P), Portuguese (T) and Spanish (S) should be supported and are in translation stage right now. Let me know if you would like this in another language. See [here.](https://github.com/erykjj/jwpublib/issues/21)
+* **Note**: These are all new schedules: more extensive, more complete and, hopefully, more balanced. Because they are different from the ones in BRS, they would not coincide in what is to be read on each day and would cause problems for those who are in the middle of a schedule. Therefore, if you do wish to make a switch half-way, you'll need to transfer your progress personally to this *new* archive.
+
+____
+## Bible Reading Schedules
 <img src="screenshots/BRS.jpg" width="100px">
 
 ![preview](screenshots/BRS.gif)
