@@ -19,7 +19,7 @@ ____
 * **Note**: These are all new schedules: more extensive, more complete and, hopefully, more balanced. Because they are different from the ones in BRS, they would not coincide in what is to be read on each day and would cause problems for those who are in the middle of a schedule. Therefore, if you do wish to make a switch half-way, you'll need to transfer your progress personally to this *new* archive.
 
 ____
-## Bible Reading Schedules
+## Bible Reading Schedules (DEPRECATED)
 <img src="screenshots/BRS.jpg" width="100px">
 
 ![preview](screenshots/BRS.gif)
