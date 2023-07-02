@@ -1,6 +1,6 @@
 # JWPubLib
 
-This is a collection of reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] by simply downloading the "Latest release" and **tapping/double-clicking the downloaded file** (on Windows, you can also drag and drop the file into the "Library" section of the JW Library app). It will appear in the "Guidelines" category (Library → DOWNLOADED → Guidelines).
+This is a collection of reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] by simply downloading the "Latest release" and **tapping/double-clicking the downloaded file** (on Windows, you can also drag and drop the file into the "Library" section of the JW Library app). It will appear in the "Guidelines" section (*Library* → *DOWNLOADED* tab → *Guidelines* section, or *Library* → *PUBLICATIONS* tab → *Guidelines* section → *PERSONAL* category).
 
 The material provided here is ***not* copyrighted**; it is in the **Public Domain**. However, the production code/methods *cannot* be shared; the same goes for the source material — you can find it all online. Thanks for understanding and for not insisting.
 
@@ -15,7 +15,7 @@ ____
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
 * **Latest release**: N/A
 * **Released**: Almost ready - only waiting for translations
-* **Languages**: English (E), French (F), German (X), Italian (I), Polish (P), Portuguese (T) and Spanish (S) should be supported and are in translation stage right now. Let me know if you would like this in another language. See [here.](https://github.com/erykjj/jwpublib/issues/21)
+* **Languages**: Dutch (O), English (E), French (F), German (X), Italian (I), Polish (P), Portuguese (T) and Spanish (S). Let me know if you would like this in another language. See [here.](https://github.com/erykjj/jwpublib/issues/21)
 * **Note**: These are all new schedules: more extensive, more complete and, hopefully, more balanced. Because they are different from the ones in BRS, they would not coincide in what is to be read on each day and would cause problems for those who are in the middle of a schedule. Therefore, if you do wish to make a switch half-way, you'll need to transfer your progress personally to this *new* archive.
 
 ____
