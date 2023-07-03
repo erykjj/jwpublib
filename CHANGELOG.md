@@ -4,15 +4,19 @@
 
 ### *BRS.jwpub*
 
-- **Note**
+- **Deprecation of Version 1:**
   - the chronological schedule sources are very buggy/incomplete and need much correcting before being usable
   - the canonical schedules also have bugs
     - for example, spurious John 8:1-11 is included and produces error when trying to open the Bible to that passage for reading
 
 - **Version 2**
   - redesigned/modern style
-  - removed chronological schedules
+    - special thanks for support with icons and design suggestions
+  - available in more languages
+    - special thanks to all translators - specifically @Dosojin1 @ferrarantonio @Goykew @Radieserlbrot
+  - removed chronological schedules (difficult to implement for whole Bible (eg., Psalms)
   - more balanced canonical and time-of-completion schedules for 3, 6, 9, 12, 18, 24, 36 and 48 months
+  - added thematic schedules
 
 ### *KJS.jwpub*
 
