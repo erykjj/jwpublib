@@ -15,7 +15,7 @@ ____
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
 * **Latest release**: N/A
 * **Released**: Almost ready - only waiting for translations
-* **Languages**: Dutch (O), English (E), French (F), German (X), Italian (I), Polish (P), Portuguese (T) and Spanish (S). Let me know if you would like this in another language. See [here.](https://github.com/erykjj/jwpublib/issues/21)
+* **Languages**: Dutch (O), English (E), French (F), German (X), Italian (I), Polish (P), Portuguese (T), Russian (U) and Spanish (S). Let me know if you would like this in another language. See [here.](https://github.com/erykjj/jwpublib/issues/21)
 * **Note**: These are all new schedules: more extensive, more complete and, hopefully, more balanced. Because they are different from the ones in BRS, they would not coincide in what is to be read on each day and would cause problems for those who are in the middle of a schedule. Therefore, if you do wish to make a switch half-way, you'll need to transfer your progress personally to this *new* archive.
 
 ____
@@ -26,7 +26,7 @@ ____
 
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
 * **Latest release**: [*BRS_1.4.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/BRS_1.4)
-* **Released**: [2023-03-04](CHANGELOG.md/#brs_14---2023-03-04) ([Upcoming changes](CHANGELOG.md#unreleased))
+* **Released**: [2023-03-04](CHANGELOG.md/#brs_14---2023-03-04)
 * **Languages**: English (E), French (F), German (X), Italian (I), Polish (P), Portuguese (T) and Spanish (S). Let me know if you would like this in another language
 * **Note**: The sources for the **chronological schedules** are very buggy/incomplete and need much correcting before being usable. The 1-year and 6-month ones have many chapters and verses missing. And the 2- and 4-year ones are the same as the 1-year schedule, except with empty days in between to stretch them out :no_mouth: If anyone has any more reliable ones to contribute, that would be appreciated.
 
