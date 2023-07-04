@@ -11,9 +11,9 @@
 
 - **Version 2**
   - redesigned/modern style
-    - special thanks for support with icons and design suggestions
+    - special thanks to one anonymous colaborator for help with icons, design suggestions and iOS testing
   - available in more languages
-    - special thanks to all translators - specifically @Dosojin1 @ferrarantonio @Goykew @Radieserlbrot
+    - special thanks to all translators - specifically @aemb77 @Dosojin1 @ferrarantonio @Goykew @Radieserlbrot
   - removed chronological schedules (difficult to implement for whole Bible - eg., Psalms)
   - more balanced canonical and time-of-completion schedules for 3, 6, 9, 12, 18, 24, 36 and 48 months
   - added thematic schedules
