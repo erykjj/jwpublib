@@ -15,7 +15,7 @@ ____
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
 * **Latest release**: N/A
 * **Released**: Almost ready - only waiting for translations
-* **Languages**: Dutch (O), English (E), French (F), German (X), Italian (I), Polish (P), Portuguese (T), Russian (U) and Spanish (S). Let me know if you would like this in another language. See [here.](https://github.com/erykjj/jwpublib/issues/21)
+* **Languages**: Chinese (simplified) (CHS), Dutch (O), English (E), French (F), German (X), Italian (I), Polish (P), Portuguese (T), Russian (U) and Spanish (S). Let me know if you would like this in another language. See [here.](https://github.com/erykjj/jwpublib/issues/21)
 * **Note**: These are all new schedules: more extensive, more complete and, hopefully, more balanced. Because they are different from the ones in BRS, they would not coincide in what is to be read on each day and would cause problems for those who are in the middle of a schedule. Therefore, if you do wish to make a switch half-way, you'll need to transfer your progress personally to this *new* archive.
 
 ____
