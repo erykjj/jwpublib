@@ -13,7 +13,7 @@
 ____
 ## [BRS_2.0] - 2023-07-05
 
-- **Version 2**
+**Version 2**
 - redesigned/modern style
   - special thanks to one anonymous colaborator for help with icons, design suggestions and iOS testing
 - available in more languages
