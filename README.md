@@ -1,34 +1,22 @@
 # JWPubLib
 
-This is a collection of reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] by simply downloading the "Latest release" and **tapping/double-clicking the downloaded file** (on Windows, you can also drag and drop the file into the "Library" section of the JW Library app). It will appear in the "Guidelines" section (*Library* → *DOWNLOADED* tab → *Guidelines* section, or *Library* → *PUBLICATIONS* tab → *Guidelines* section → *PERSONAL* category).
+This is a collection of reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] by simply downloading the "Latest release" and **tapping/double-clicking the downloaded file** (on Windows, you can also drag and drop the file into the "Library" section of the JW Library app). It will appear in the "Guidelines" section (*Library* → *DOWNLOADED* tab → *Guidelines* section).
 
 The material provided here is ***not* copyrighted**; it is in the **Public Domain**. However, the production code/methods *cannot* be shared; the same goes for the source material — you can find it all online. Thanks for understanding and for not insisting.
 
 ____
 ____
-## Bible Reading Schedules v2
+## Bible Reading Schedules
 <img src="screenshots/BRS2.png" width="100px">
 
 ![preview on Android](screenshots/BRS2A.gif)
 ![preview on Windows](screenshots/BRS2W.gif)
 
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
-* **Latest release**: N/A
-* **Released**: Almost ready - only waiting for translations
-* **Languages**: Chinese (simplified) (CHS), Dutch (O), English (E), French (F), German (X), Italian (I), Polish (P), Portuguese (T), Russian (U) and Spanish (S). Let me know if you would like this in another language. See [here.](https://github.com/erykjj/jwpublib/issues/21)
-* **Note**: These are all new schedules: more extensive, more complete and, hopefully, more balanced. Because they are different from the ones in BRS, they would not coincide in what is to be read on each day and would cause problems for those who are in the middle of a schedule. Therefore, if you do wish to make a switch half-way, you'll need to transfer your progress personally to this *new* archive.
-
-____
-## Bible Reading Schedules (DEPRECATED)
-<img src="screenshots/BRS.jpg" width="100px">
-
-![preview](screenshots/BRS.gif)
-
-* **Description**: Personal project with Bible reading schedules of varying sequences and lengths
-* **Latest release**: [*BRS_1.4.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/BRS_1.4)
-* **Released**: [2023-03-04](CHANGELOG.md/#brs_14---2023-03-04)
-* **Languages**: English (E), French (F), German (X), Italian (I), Polish (P), Portuguese (T) and Spanish (S). Let me know if you would like this in another language
-* **Note**: The sources for the **chronological schedules** are very buggy/incomplete and need much correcting before being usable. The 1-year and 6-month ones have many chapters and verses missing. And the 2- and 4-year ones are the same as the 1-year schedule, except with empty days in between to stretch them out :no_mouth: If anyone has any more reliable ones to contribute, that would be appreciated.
+* **Latest release**: [*BRS2_2.0.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/BRS_2.0)
+* **Released**: [2023-07-05](CHANGELOG.md/#brs_20---2023-07-05)
+* **Languages**: Chinese (simplified) (CHS), Dutch (O), English (E), French (F), German (X), Italian (I), Polish (P), Portuguese (T), Russian (U) and Spanish (S). Let me know if you would like this in another language or if you notice any errors in the current translations. See [here.](https://github.com/erykjj/jwpublib/issues/21)
+* **Note**: These are all new schedules: more varied, more complete and, hopefully, more balanced. Because they are different from the ones in BRS v1, they would not coincide in what is to be read on each day and would cause problems for those who are in the middle of a schedule. Therefore, if you do wish to make a switch half-way, you'll need to transfer your progress personally to this *new* archive.
 
 ____
 ## Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
