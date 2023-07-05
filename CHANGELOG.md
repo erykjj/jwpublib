@@ -4,20 +4,6 @@
 
 ### *BRS.jwpub*
 
-- **Deprecation of Version 1:**
-  - the chronological schedule sources are very buggy/incomplete and need much correcting before being usable
-  - the canonical schedules also have bugs
-    - for example, spurious John 8:1-11 is included and produces error when trying to open the Bible to that passage for reading
-
-- **Version 2**
-  - redesigned/modern style
-    - special thanks to one anonymous colaborator for help with icons, design suggestions and iOS testing
-  - available in more languages
-    - special thanks to all translators - specifically @aemb77 @Dosojin1 @ferrarantonio @Goykew @Radieserlbrot
-  - removed chronological schedules (difficult to implement for whole Bible - eg., Psalms)
-  - more balanced canonical and time-of-completion schedules for 3, 6, 9, 12, 18, 24, 36 and 48 months
-  - added thematic schedules
-
 ### *KJS.jwpub*
 
 ### *Str.jwpub*
@@ -25,6 +11,18 @@
 ### *VED.jwpub*
 
 ____
+## [BRS_2.0] - 2023-07-05
+
+- **Version 2**
+- redesigned/modern style
+  - special thanks to one anonymous colaborator for help with icons, design suggestions and iOS testing
+- available in more languages
+  - special thanks to all translators (including anonymous ones)
+    - @aemb77 @Dosojin1 @ferrarantonio @Goykew @Radieserlbrot
+- removed chronological schedules (difficult to implement for whole Bible - eg., Psalms)
+- more balanced canonical and time-of-completion schedules for 3, 6, 9, 12, 18, 24, 36 and 48 months
+- added thematic schedules
+
 ## [VED_2.0] - 2023-06-08
 
 - corrected some internal linking key-words in source
@@ -200,8 +198,10 @@ ____
 ## [BRS_1.0] - 2022-08-09
 
 - initial release
+
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BRS_2.0]:https://github.com/erykjj/jwpublib/releases/tag/BRS_2.0
 [VED_2.0]:https://github.com/erykjj/jwpublib/releases/tag/VED_2.0
 [Str_2.0]:https://github.com/erykjj/jwpublib/releases/tag/Str_2.0
 [KJS_1.3]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.3
