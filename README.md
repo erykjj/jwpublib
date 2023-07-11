@@ -15,7 +15,7 @@ ____
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
 * **Latest release**: [*BRS_2.0.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/BRS_2.0)
 * **Released**: [2023-07-05](CHANGELOG.md/#brs_20---2023-07-05)
-* **Languages**: Chinese (simplified) (CHS), Dutch (O), English (E), French (F), German (X), Italian (I), Polish (P), Portuguese (T), Russian (U) and Spanish (S). Let me know if you would like this in another language or if you notice any errors in the current translations. See [here.](https://github.com/erykjj/jwpublib/wiki/BRS-Translation)
+* **Languages**: Cebuano (CV), Chinese (simplified) (CHS), Dutch (O), English (E), French (F), German (X), Italian (I), Polish (P), Portuguese (T), Russian (U) and Spanish (S). Let me know if you would like this in another language or if you notice any errors in the current translations. See [here.](https://github.com/erykjj/jwpublib/wiki/BRS-Translation)
 * **Note**: These are all new schedules: more varied, more complete and, hopefully, more balanced. Because they are different from the ones in [BRS v1](https://github.com/erykjj/jwpublib/releases/tag/BRS_1.4), they would not coincide in what is to be read on each day and would cause problems for those who are in the middle of a schedule. Therefore, if you do wish to make a switch half-way, you'll need to transfer your progress personally to this *new* archive.
 
 ____
