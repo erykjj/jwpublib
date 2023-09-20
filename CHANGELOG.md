@@ -6,6 +6,8 @@
 
 ### *KJS.jwpub*
 
+- small source corrections
+
 ### *Str.jwpub*
 
 ### *VED.jwpub*
