@@ -10,6 +10,8 @@
 
 ### *Str.jwpub*
 
+- formatting adjustments
+
 ### *VED.jwpub*
 
 ____
