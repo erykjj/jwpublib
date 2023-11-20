@@ -24,7 +24,7 @@ ____
 ![preview](screenshots/Str.gif)
 
 * **Description**: Hebrew and Greek dictionaries and concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words))
-* **Latest release**: [*Str_2.0.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_2.0)
+* **Latest release**: [*Str_2.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/Str_2.0/Str_2.0.jwpub)
 * **Released**: [2023-06-08](CHANGELOG.md/#str_20---2023-06-08) ([Upcoming changes](CHANGELOG.md#unreleased))
 
 ____
@@ -34,7 +34,7 @@ ____
 ![preview](screenshots/VED.gif)
 
 * **Description**: More extensive Greek dictionary (with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament))
-* **Latest release**: [*VED_2.0.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/VED_2.0)
+* **Latest release**: [*VED_2.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/VED_2.0/VED_2.0.jwpub)
 * **Released**: [2023-06-08](CHANGELOG.md/#ved_20---2023-06-08) ([Upcoming changes](CHANGELOG.md#unreleased))
 
 ____
@@ -44,7 +44,7 @@ ____
 ![preview](screenshots/KJS.gif)
 
 * **Description**: *King James Version* with interlinear links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
-* **Latest release**: [*KJS_1.3.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/KJS_1.3)
+* **Latest release**: [*KJS_1.3.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_1.3/KJS_1.3.jwpub)
 * **Released**: [2023-06-08](CHANGELOG.md/#kjs_13---2023-06-08) ([Upcoming changes](CHANGELOG.md#unreleased))
 * **Note**: This needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it (Bible → Languages → Delete)
 
@@ -56,4 +56,4 @@ Feel free to [get in touch](https://github.com/erykjj/jwpublib/issues) and post 
 
 [![RSS of releases](screenshots/rss-36.png)](https://github.com/erykjj/jwpublib/releases.atom)
 
-[^1]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.
+[^1]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.
