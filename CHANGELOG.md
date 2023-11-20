@@ -2,17 +2,21 @@
 
 ## UNRELEASED
 
-### *BRS.jwpub*
+### **BRS**: Bible Reading Schedules
 
-### *KJS.jwpub*
+### **KJS**: *KJV* and *Strong's* interlinear
 
 - small source corrections
 
-### *Str.jwpub*
+### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
 - formatting adjustments
 
-### *VED.jwpub*
+### **ThL**: Thayer's *Greek-English Lexicon of the New Testament*
+
+- work in progress
+
+### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
 ## [BRS_2.0] - 2023-07-05
