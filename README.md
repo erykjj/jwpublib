@@ -13,9 +13,9 @@ ____
 ![preview on Windows](screenshots/BRS2W.gif)
 
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
-* **Latest release**: [*BRS_2.0.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/BRS_2.0)
+* **Latest release**: *BRS_2.0.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_CV.jwpub), [Chinese (simplified)](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_CHS.jwpub), [Dutch](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_O.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_F.jwpub), [German](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_X.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0a_I.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_T.jwpub), [Russian](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_U.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_S.jwpub), [Tagalog](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_TG.jwpub)
 * **Released**: [2023-07-05](CHANGELOG.md/#brs_20---2023-07-05)
-* **Languages**: Cebuano (CV), Chinese (simplified) (CHS), Dutch (O), English (E), French (F), German (X), Italian (I), Polish (P), Portuguese (T), Russian (U), Spanish (S) and Tagalog (TG). Let me know if you would like this in another language or if you notice any errors in the current translations. See [here.](https://github.com/erykjj/jwpublib/wiki/BRS-Translation)
+* **Note**: Let me know if you would like this in another language or if you notice any errors in the current translations. See [here.](https://github.com/erykjj/jwpublib/wiki/BRS-Translation)
 
 ____
 ## Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
