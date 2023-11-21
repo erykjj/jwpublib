@@ -10,8 +10,6 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
-- formatting adjustments
-
 ### **ThL**: Thayer's *Greek-English Lexicon of the New Testament*
 
 - work in progress
@@ -19,6 +17,16 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [VED_2.1] - 2023-11-21
+
+- formatting adjustments
+- fix for crashes in Windows
+
+## [Str_2.1] - 2023-11-21
+
+- formatting adjustments
+- fix for crashes in Windows
+
 ## [BRS_2.0] - 2023-07-05
 
 **Version 2**
@@ -209,6 +217,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Str_2.1]:https://github.com/erykjj/jwpublib/releases/tag/Str_2.1
 [BRS_2.0]:https://github.com/erykjj/jwpublib/releases/tag/BRS_2.0
 [VED_2.0]:https://github.com/erykjj/jwpublib/releases/tag/VED_2.0
 [Str_2.0]:https://github.com/erykjj/jwpublib/releases/tag/Str_2.0
