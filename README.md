@@ -1,6 +1,6 @@
 # JWPubLib
 
-This is a collection of reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] by simply downloading the "Latest release" and **tapping/double-clicking the downloaded file** (on Windows, you can also drag and drop the file into the "Library" section of the JW Library app). It will appear in the "Guidelines" section (*Library* → *DOWNLOADED* tab → *Guidelines* section).
+This is a collection of reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] by simply downloading the "Latest release" and **tapping/double-clicking the downloaded file** (on Windows, you can also drag and drop the file into the "Library" section of the JW Library app). It will appear in the *DOWNLOADED* tab.
 
 The material provided here is ***not* copyrighted**; it is in the **Public Domain**. However, the production code/methods *cannot* be shared; the same goes for the source material — you can find it all online. Thanks for understanding and for not insisting.
 
@@ -26,8 +26,8 @@ ____
 ![preview](screenshots/Str.gif)
 
 * **Description**: Hebrew and Greek dictionaries and concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words))
-* **Latest release**: [*Str_2.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/Str_2.0/Str_2.0.jwpub)
-* **Released**: [2023-06-08](CHANGELOG.md/#str_20---2023-06-08)
+* **Latest release**: [*Str_2.1.jwpub*](https://github.com/erykjj/jwpublib/releases/download/Str_2.1/Str_2.1.jwpub)
+* **Released**: [2023-11-21](CHANGELOG.md/#str_21---2023-11-21)
 
 ____
 ## Vine's *Expository Dictionary of New Testament Words*
