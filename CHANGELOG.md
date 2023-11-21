@@ -217,6 +217,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[VED_2.1]:https://github.com/erykjj/jwpublib/releases/tag/VED_2.1
 [Str_2.1]:https://github.com/erykjj/jwpublib/releases/tag/Str_2.1
 [BRS_2.0]:https://github.com/erykjj/jwpublib/releases/tag/BRS_2.0
 [VED_2.0]:https://github.com/erykjj/jwpublib/releases/tag/VED_2.0
