@@ -10,10 +10,6 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
-### **ThL**: Thayer's *Greek-English Lexicon of the New Testament*
-
-- work in progress
-
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
