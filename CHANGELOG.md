@@ -4,6 +4,11 @@
 
 ### **BRS**: Bible Reading Schedules
 
+- adjusted all schedules to align with chapter breaks as much as possible
+- added new thematic reading plans:
+  - Combined prophets (in chronological order)
+  - Combined letters (in order of completion)
+
 ### **KJS**: *KJV* and *Strong's* interlinear
 
 - small source corrections
