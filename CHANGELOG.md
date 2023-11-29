@@ -4,13 +4,6 @@
 
 ### **BRS**: Bible Reading Schedules
 
-- **adjusted many of the schedules** to align with chapter breaks as much as possible
-- added **new thematic reading plans**:
-  - Combined prophets (in chronological order)
-  - Combined letters (in order of completion)
-- some **cosmetic changes** (tile icon, column widths, etc.)
-- **NOTE**: because of internal differences, this new version will appear as a different publication; in other words, the dates and checkmarks from `BRS2` *will not* be transferred to `BRS`. If you want to transition in the middle of a plan, simply take note where you are and carry on from there.
-
 ### **KJS**: *KJV* and *Strong's* interlinear
 
 - small source corrections
@@ -20,6 +13,15 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [BRS_3.0] - 2023-11-29
+
+- **adjusted many of the schedules** to align with chapter breaks as much as possible
+- added **new thematic reading plans**:
+  - combined prophets (in chronological order)
+  - combined letters (in order of completion)
+- some **cosmetic changes** (tile icon, column widths, etc.)
+- **NOTE**: because of internal differences, this new version will appear as a different publication; in other words, the dates and checkmarks from `BRS2` *will not* be transferred to `BRS`. If you want to transition in the middle of a plan, simply take note where you are and carry on from there.
+
 ## [VED_2.1] - 2023-11-21
 
 - formatting adjustments
@@ -220,6 +222,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BRS_3.0]:https://github.com/erykjj/jwpublib/releases/tag/BRS_3.0
 [VED_2.1]:https://github.com/erykjj/jwpublib/releases/tag/VED_2.1
 [Str_2.1]:https://github.com/erykjj/jwpublib/releases/tag/Str_2.1
 [BRS_2.0]:https://github.com/erykjj/jwpublib/releases/tag/BRS_2.0
