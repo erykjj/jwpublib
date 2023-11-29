@@ -9,15 +9,16 @@ The material provided here is ***not* copyrighted**; it is in the **Public Domai
 ____
 ____
 ## Bible Reading Schedules
-<img src="screenshots/BRS2.png" width="100px">
+<img src="screenshots/BRS.png" width="100px">
 
 ![preview on Android](screenshots/BRS2A.gif)
 ![preview on Windows](screenshots/BRS2W.gif)
 
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
-* **Latest release**: *BRS_2.0.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_CV.jwpub), [Chinese (simplified)](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_CHS.jwpub), [Dutch](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_O.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_F.jwpub), [German](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_X.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0a_I.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_T.jwpub), [Russian](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_U.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_S.jwpub), [Tagalog](https://github.com/erykjj/jwpublib/releases/download/BRS_2.0/BRS_2.0_TG.jwpub)
-* **Released**: [2023-07-05](CHANGELOG.md/#brs_20---2023-07-05)
-* **Note**: Let me know if you would like this in another language or if you notice any errors in the current translations. See [here](https://github.com/erykjj/jwpublib/wiki/BRS-Translation) for strings that need to be translated.
+* **Latest release**: *BRS_3.0.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_CV.jwpub), [Chinese (simplified)](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_CHS.jwpub), [Dutch](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_O.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_F.jwpub), [German](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_X.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0a_I.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_T.jwpub), [Russian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_U.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_S.jwpub), [Tagalog](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_TG.jwpub)
+* **Released**: [2023-11-29](CHANGELOG.md/#brs_30---2023-11-29)
+* **Note**: Because of internal differences, this new version (v3) will appear as a different publication; in other words, the dates and checkmarks from `BRS2` *will not* be transferred to `BRS`. If you want to transition in the middle of a plan, simply take note where you are and carry on from there.
+* **Translations**: Let me know if you would like this in another language or if you notice any errors in the current translations. See [here](https://github.com/erykjj/jwpublib/wiki/BRS-Translation) for strings that need to be translated.
 
 ____
 ## Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
