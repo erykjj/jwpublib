@@ -4,8 +4,6 @@ This is a collection of reference works packaged as *.jwpub* archives that can b
 
 The material provided here is ***not* copyrighted**; it is in the **Public Domain**. However, the production code/methods *cannot* be shared; the same goes for the source material — you can find it all online. Thanks for understanding and for not insisting.
 
-[UPCOMING CHANGES](CHANGELOG.md#unreleased)
-
 ____
 ____
 ## Bible Reading Schedules
@@ -29,6 +27,7 @@ ____
 * **Description**: Hebrew and Greek dictionaries and concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words))
 * **Latest release**: [*Str_2.1.jwpub*](https://github.com/erykjj/jwpublib/releases/download/Str_2.1/Str_2.1.jwpub)
 * **Released**: [2023-11-21](CHANGELOG.md/#str_21---2023-11-21)
+* **Note**: I have to redo the search indexes. For now, the search feature doesn't work.
 
 ____
 ## Vine's *Expository Dictionary of New Testament Words*
@@ -39,6 +38,7 @@ ____
 * **Description**: More extensive Greek dictionary (with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament))
 * **Latest release**: [*VED_2.1.jwpub*](https://github.com/erykjj/jwpublib/releases/download/VED_2.1/VED_2.1.jwpub)
 * **Released**: [2023-11-21](CHANGELOG.md/#ved_21---2023-11-21)
+* **Note**: I have to redo the search indexes. For now, the search feature doesn't work.
 
 ____
 ## *KJV* and *Strong's* interlinear
