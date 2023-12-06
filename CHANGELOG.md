@@ -10,6 +10,8 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
+- source corrections
+
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
