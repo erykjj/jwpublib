@@ -10,9 +10,12 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
+- **fixed search**
 - source corrections
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
+
+- **fixed search**
 
 ____
 ## [BRS_3.0] - 2023-11-29
