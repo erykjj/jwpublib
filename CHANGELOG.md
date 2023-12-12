@@ -12,9 +12,12 @@
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
+____
+## [VED_2.2] - 2023-12-12
+
 - added (imprecise) search
 - small source corrections
-____
+
 ## [Str_2.2] - 2023-12-12
 
 - added (imprecise) search
@@ -229,6 +232,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[VED_2.2]:https://github.com/erykjj/jwpublib/releases/tag/VED_2.2
 [Str_2.2]:https://github.com/erykjj/jwpublib/releases/tag/Str_2.2
 [BRS_3.0]:https://github.com/erykjj/jwpublib/releases/tag/BRS_3.0
 [VED_2.1]:https://github.com/erykjj/jwpublib/releases/tag/VED_2.1
