@@ -6,13 +6,15 @@
 
 ### **KJS**: *KJV* and *Strong's* interlinear
 
-- small source corrections
-
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [KJS_1.4] - 2023-12-12
+
+- small source corrections
+
 ## [VED_2.2] - 2023-12-12
 
 - added (imprecise) search
@@ -232,6 +234,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[KJS_1.4]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.4
 [VED_2.2]:https://github.com/erykjj/jwpublib/releases/tag/VED_2.2
 [Str_2.2]:https://github.com/erykjj/jwpublib/releases/tag/Str_2.2
 [BRS_3.0]:https://github.com/erykjj/jwpublib/releases/tag/BRS_3.0
