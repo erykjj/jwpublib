@@ -51,7 +51,7 @@ ____
 
 ____
 ____
-## Feedback
+## Feedback, etc.
 
 Feel free to [get in touch](https://github.com/erykjj/jwpublib/issues) and post any issues, suggestions, ideas, etc.
 
