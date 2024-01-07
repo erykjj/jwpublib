@@ -8,9 +8,15 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
+### **TBH**: Timeline of Bible History
+
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [TBH_1.0] - 2024-01-07
+
+- initial release
+
 ## [KJS_1.4] - 2023-12-12
 
 - small source corrections
@@ -234,6 +240,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[TBH_1.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_1.0
 [KJS_1.4]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.4
 [VED_2.2]:https://github.com/erykjj/jwpublib/releases/tag/VED_2.2
 [Str_2.2]:https://github.com/erykjj/jwpublib/releases/tag/Str_2.2
