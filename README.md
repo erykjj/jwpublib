@@ -6,7 +6,7 @@ The material provided here is ***not* copyrighted**; it is in the **Public Domai
 
 ____
 ____
-## Timeline of Bible History   [!NEW]
+## Timeline of Bible History
 <img src="screenshots/TBH.png" width="100px">
 
 ![preview on Android](screenshots/TBH.gif)
