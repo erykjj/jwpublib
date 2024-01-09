@@ -14,7 +14,7 @@ ____
 * **Description**: Personal research project: a chronological compilation of events (mostly) related to Bible history
 * **Latest release**: [*TBH_1.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/TBH_1.0/TBH_1.0.jwpub)
 * **Released**: [2024-01-07](CHANGELOG.md/#tbh_10---2024-01-07)
-* **Note**: Please report any errors. All suggestions and feedback appreciated. Search functionality planned.
+* **Note**: Keep in mind that notes and highlights are linked to paragraph *numbers*, so **if you annotate in any way and a future release includes additional historical events (paragraphs), your notes and highlights will no longer match up**. Please report any discrepancies. All suggestions and feedback appreciated. Search functionality planned.
 
 ____
 ## Bible Reading Schedules
