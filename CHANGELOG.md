@@ -10,6 +10,9 @@
 
 ### **TBH**: Timeline of Bible History
 
+- Added more historical data taken from Wikipedia
+- Added some more Bible translations to events list
+
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
