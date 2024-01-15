@@ -21,8 +21,8 @@ ____
 ## Bible Reading Schedules
 <img src="screenshots/BRS.png" width="100px">
 
-![preview on Android](screenshots/BRS2A.gif)
-![preview on Windows](screenshots/BRS2W.gif)
+![preview on Android](screenshots/BRSA.gif)
+![preview on Windows](screenshots/BRSW.gif)
 
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
 * **Latest release**: *BRS_3.0.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_CV.jwpub), [Chinese (simplified)](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_CHS.jwpub), [Dutch](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_O.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_F.jwpub), [German](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_X.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0a_I.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_T.jwpub), [Russian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_U.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_S.jwpub), [Tagalog](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_TG.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.0/BRS_3.0_K.jwpub)
