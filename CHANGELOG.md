@@ -10,15 +10,17 @@
 
 ### **TBH**: Timeline of Bible History
 
-- Source additions
-  - Historical events from wikipedia.org
-  - Bible translations
-- Formatting improvements
-- Added "Famous People" category
-
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [TBH_2.0] - 2024-01-15
+
+- source additions
+  - historical events from wikipedia.org
+  - Bible translations
+- formatting improvements
+- added "Famous People" category
+
 ## [TBH_1.0] - 2024-01-07
 
 - initial release
@@ -246,6 +248,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[TBH_2.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_2.0
 [TBH_1.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_1.0
 [KJS_1.4]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.4
 [VED_2.2]:https://github.com/erykjj/jwpublib/releases/tag/VED_2.2
