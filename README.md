@@ -12,9 +12,10 @@ ____
 ![preview on Android](screenshots/TBH.gif)
 
 * **Description**: Personal research project: a chronological compilation of events (mostly) related to Bible history
-* **Latest release**: [*TBH_1.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/TBH_1.0/TBH_1.0.jwpub)
-* **Released**: [2024-01-07](CHANGELOG.md/#tbh_10---2024-01-07)
+* **Latest release**: [*TBH_2.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/TBH_2.0/TBH_2.0.jwpub)
+* **Released**: [2024-01-15](CHANGELOG.md/#tbh_20---2024-01-15)
 * **Note**: Keep in mind that notes and highlights are linked to paragraph *numbers*, so **if you annotate in any way and a future release includes additional historical events (paragraphs), your notes and highlights will no longer match up**. Please report any discrepancies. All suggestions and feedback appreciated. Search functionality planned.
+* **Help wanted**: Looking for **volunteers to add scriptural references to events that haven't got them yet, and others to verify**. If interested, see [here](https://github.com/erykjj/jwpublib/issues/29).
 
 ____
 ## Bible Reading Schedules
