@@ -10,6 +10,9 @@
 
 ### **TBH**: Timeline of Bible History
 
+- enabled search
+- adjusted event formatting
+
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
