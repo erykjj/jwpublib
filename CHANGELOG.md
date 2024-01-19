@@ -10,12 +10,14 @@
 
 ### **TBH**: Timeline of Bible History
 
-- enabled search
-- adjusted event formatting
-
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [TBH_3.0] - 2024-01-19
+
+- enabled search
+- adjusted event formatting
+
 ## [TBH_2.0] - 2024-01-15
 
 - source additions
@@ -251,6 +253,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[TBH_3.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_3.0
 [TBH_2.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_2.0
 [TBH_1.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_1.0
 [KJS_1.4]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.4
