@@ -74,3 +74,5 @@ My other *JW Library* project: [**JWLManager**](https://github.com/erykjj/jwlman
 ____
 #### Footnotes:
 [^1]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.
+
+⠗⠑⠑⠝⠊⠛⠝⠑
