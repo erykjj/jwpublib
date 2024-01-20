@@ -8,9 +8,15 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
+- improved search indexing
+- improved formatting
+
 ### **TBH**: Timeline of Bible History
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
+
+- improved search indexing
+- improved formatting
 
 ____
 ## [TBH_3.0] - 2024-01-19
