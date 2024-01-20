@@ -47,8 +47,8 @@ ____
 ![preview](screenshots/VED.gif)
 
 * **Description**: More extensive Greek dictionary (with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament))
-* **Latest release**: [*VED_2.2.jwpub*](https://github.com/erykjj/jwpublib/releases/download/VED_2.2/VED_2.2.jwpub)
-* **Released**: [2023-12-12](CHANGELOG.md/#ved_22---2023-12-12)
+* **Latest release**: [*VED_3.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/VED_3.0/VED_3.0.jwpub)
+* **Released**: [2024-01-20](CHANGELOG.md/#ved_30---2024-01-20)
 
 ____
 ## *KJV* and *Strong's* interlinear
