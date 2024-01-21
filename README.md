@@ -57,9 +57,9 @@ ____
 ![preview](screenshots/KJS.gif)
 
 * **Description**: *King James Version* with interlinear links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
-* **Latest release**: [*KJS_1.4.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_1.4/KJS_1.4.jwpub)
-* **Released**: [2023-12-12](CHANGELOG.md/#kjs_14---2023-12-12)
-* **Note**: This needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it (and any previous versions): Bible → Languages → Delete
+* **Latest release**: [*KJS_2.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_2.0/KJS_2.0.jwpub)
+* **Released**: [2024-01-20](CHANGELOG.md/#kjs_20---2024-01-20)
+* **Note**: This needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it (and any previous version of this archive): Bible → Languages → Delete. Add it to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries.
 
 ____
 ____
