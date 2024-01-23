@@ -4,6 +4,8 @@
 
 ### **BRS**: Bible Reading Schedules
 
+- adjusted formatting to better handle text zooming
+
 ### **KJS**: *KJV* and *Strong's* interlinear
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
