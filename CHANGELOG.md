@@ -10,6 +10,11 @@
 
 ### **TBH**: Timeline of Bible History
 
+- Added some additional events
+- Adjusted formatting:
+  - Showing start and end ranges for both birth and death year
+  - Highlighting (bold) only main text of important events (not ranges, etc.)
+
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
