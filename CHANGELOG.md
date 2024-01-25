@@ -4,8 +4,6 @@
 
 ### **BRS**: Bible Reading Schedules
 
-- adjusted formatting to better handle text zooming
-
 ### **KJS**: *KJV* and *Strong's* interlinear
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
@@ -15,6 +13,10 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [BRS_3.1] - 2024-01-25
+
+- adjusted formatting to better handle text zooming
+
 ## [KJS_2.0] - 2024-01-20
 
 - minor adjustments
@@ -269,6 +271,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BRS_3.1]:https://github.com/erykjj/jwpublib/releases/tag/BRS_3.1
 [KJS_2.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_2.0
 [VED_3.0]:https://github.com/erykjj/jwpublib/releases/tag/VED_3.0
 [Str_3.0]:https://github.com/erykjj/jwpublib/releases/tag/Str_3.0
