@@ -15,6 +15,7 @@
 - Adjusted formatting:
   - Showing start and end ranges for both birth and death year
   - Highlighting (bold) only main text of important events (not ranges, etc.)
+  - Bullets and hanging indent to better distinguish individual events
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
