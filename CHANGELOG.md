@@ -10,9 +10,10 @@
 
 ### **TBH**: Timeline of Bible History
 
-- Added some additional events
+- Added some **additional events**
+- Added **scriptural references** to more events
 - Adjusted some categories and refined some descriptions
-- Adjusted formatting:
+- Adjusted **formatting**:
   - Showing start and end ranges for both birth and death year
   - Highlighting (bold) only main text of important events (not ranges, etc.)
   - Bullets and hanging indent to better distinguish individual events
