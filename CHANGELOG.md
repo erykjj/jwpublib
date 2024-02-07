@@ -11,7 +11,7 @@
 ### **TBH**: Timeline of Bible History
 
 - Added some **additional events**
-- Added **scriptural references** to more events
+- Added **scriptural references** to more events (thank you to @jeremy-j-t & @chessurisme)
 - Adjusted some categories and refined some descriptions
 - Adjusted **formatting**:
   - Showing start and end ranges for both birth and death year
