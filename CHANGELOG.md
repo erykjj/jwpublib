@@ -10,17 +10,19 @@
 
 ### **TBH**: Timeline of Bible History
 
+### **VED**: Vine's *Expository Dictionary of New Testament Words*
+
+____
+## [TBH_4.0] - 2024-02-14
+
 - Added some **additional events**
-- Added **scriptural references** to more events (thank you to @jeremy-j-t & @chessurisme)
+- Added **scriptural references** to more events (thank you to @chessurisme)
 - Adjusted some categories and refined some descriptions
 - Adjusted **formatting**:
   - Showing start and end ranges for both birth and death year
   - Highlighting (bold) only main text of important events (not ranges, etc.)
   - Bullets and hanging indent to better distinguish individual events
 
-### **VED**: Vine's *Expository Dictionary of New Testament Words*
-
-____
 ## [BRS_3.1] - 2024-01-25
 
 - adjusted formatting to better handle text zooming
@@ -279,6 +281,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[TBH_4.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_4.0
 [BRS_3.1]:https://github.com/erykjj/jwpublib/releases/tag/BRS_3.1
 [KJS_2.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_2.0
 [VED_3.0]:https://github.com/erykjj/jwpublib/releases/tag/VED_3.0
