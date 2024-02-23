@@ -10,6 +10,8 @@
 
 ### **TBH**: Timeline of Bible History
 
+- Added tile images and new cover image
+
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
