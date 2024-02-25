@@ -4,6 +4,10 @@
 
 ### **BRS**: Bible Reading Schedules
 
+### **Jph**: *The Works of Flavius Josephus*
+
+- In the works
+
 ### **KJS**: *KJV* and *Strong's* interlinear
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
