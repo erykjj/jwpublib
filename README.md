@@ -6,6 +6,16 @@ The material provided here is ***not* copyrighted**; it is in the **Public Domai
 
 ____
 ____
+## *The Works of Flavius Josephus*
+<img src="screenshots/Jph.png" width="100px">
+
+![preview](screenshots/Jph.gif)
+
+* **Description**: *Antiquities of the Jews*, *Jewish War* and *The Life of Flavius Josephus*
+* **Note**: This adaptation is in the works
+
+____
+____
 ## Timeline of Bible History
 <img src="screenshots/TBH.png" width="100px">
 
