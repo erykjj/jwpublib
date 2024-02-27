@@ -14,13 +14,15 @@
 
 ### **TBH**: Timeline of Bible History
 
-- Added tile images and new cover image
-- Improved event descriptions
-- More Bible references added (@jeremy-j-t & @chessurisme)
-
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [TBH_5.0] - 2024-02-27
+
+- Added **tile images** and new cover image
+- Improved event **descriptions**
+- More **Bible references** added (@jeremy-j-t & @chessurisme)
+
 ## [TBH_4.0] - 2024-02-14
 
 - Added some **additional events**
@@ -289,6 +291,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[TBH_5.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_5.0
 [TBH_4.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_4.0
 [BRS_3.1]:https://github.com/erykjj/jwpublib/releases/tag/BRS_3.1
 [KJS_2.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_2.0
