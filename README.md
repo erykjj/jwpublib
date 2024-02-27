@@ -22,8 +22,8 @@ ____
 ![preview on Android](screenshots/TBH.gif)
 
 * **Description**: Personal research project: a chronological compilation of events (mostly) related to Bible history
-* **Latest release**: [*TBH_4.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/TBH_4.0/TBH_4.0.jwpub)
-* **Released**: [2024-02-14](CHANGELOG.md/#tbh_40---2024-02-14)
+* **Latest release**: [*TBH_5.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/TBH_5.0/TBH_5.0.jwpub)
+* **Released**: [2024-02-27](CHANGELOG.md/#tbh_50---2024-02-27)
 * **Note**: **Search is enabled**. Keep in mind that notes and highlights are linked to paragraph *numbers*, so **if you annotate in any way and a future release includes additional historical events (paragraphs), your notes and highlights will no longer match up**. Please report any discrepancies.
 
 ____
