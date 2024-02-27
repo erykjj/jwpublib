@@ -15,6 +15,8 @@
 ### **TBH**: Timeline of Bible History
 
 - Added tile images and new cover image
+- Improved event descriptions
+- More Bible references added (@jeremy-j-t & @chessurisme)
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
