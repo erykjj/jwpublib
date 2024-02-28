@@ -2,9 +2,17 @@
 
 This is a collection of reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] by simply downloading the "Latest release" and **tapping/double-clicking the downloaded file** (on Windows, you can also drag and drop the file into the "Library" section of the JW Library app). It will appear in the **"Guidelines"** section (*Library* → *DOWNLOADED* tab → *Guidelines* section).
 
-The material provided here is ***not* copyrighted**; it is in the **Public Domain**. However, the production code/methods *cannot* be shared; the same goes for the source material — you can find it all online. Thanks for understanding and for not insisting.
+The material provided here is ***not* copyrighted**; it is in the **Public Domain**. However, the production code/methods **cannot* be shared**; the same goes for the source material — you can find it all online. Thanks for understanding and for not insisting.
 
 ____
+____
+* [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus)
+* [Timeline of Bible History](#timeline-of-bible-history)
+* [Bible Reading Schedules](#bible-reading-schedules)
+* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament)
+* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words)
+* [*KJV* and *Strong's* interlinear](#kjv-and-strongs-interlinear)
+
 ____
 ## *The Works of Flavius Josephus*
 <img src="screenshots/Jph.png" width="100px">
@@ -14,7 +22,6 @@ ____
 * **Description**: *Antiquities of the Jews*, *Jewish War* and *The Life of Flavius Josephus*
 * **Note**: This adaptation is in the works
 
-____
 ____
 ## Timeline of Bible History
 <img src="screenshots/TBH.png" width="100px">
