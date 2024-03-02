@@ -1,6 +1,8 @@
 # JWPubLib
 
-This is a collection of reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] by simply downloading the "Latest release" and **tapping/double-clicking the downloaded file** (on Windows, you can also drag and drop the file into the "Library" section of the JW Library app). It will appear in the **"Guidelines"** section (*Library* → *DOWNLOADED* tab → *Guidelines* section).
+This is a collection of reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] - in the same spirit as you would supplement/complement a personal or Kingdom Hall library with... an atlas, dictionaries, and other such secular reference works.
+
+Simply download the "Latest release" and **tap/double-click the downloaded file** (on Windows, you can also drag and drop the file into the "Library" section of the JW Library app). It will appear in the **"Guidelines"** section (*Library* → *DOWNLOADED* tab → *Guidelines* section).
 
 The material provided here is ***not* copyrighted**; it is in the **Public Domain**. However, the production code/methods ***cannot* be shared**; the same goes for the source material — you can find it all online. Thanks for understanding and for not insisting.
 
@@ -31,7 +33,7 @@ ____
 * **Description**: Personal research project: a chronological compilation of events (mostly) related to Bible history
 * **Latest release**: [*TBH_5.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/TBH_5.0/TBH_5.0.jwpub)
 * **Released**: [2024-02-27](CHANGELOG.md/#tbh_50---2024-02-27)
-* **Note**: **Search is enabled**. Keep in mind that notes and highlights are linked to paragraph *numbers*, so **if you annotate in any way and a future release includes additional historical events (paragraphs), your notes and highlights will no longer match up**. Please report any discrepancies.
+* **Note**: Keep in mind that notes and highlights are linked to paragraph *numbers*, so **if you annotate in any way and a future release includes additional historical events (paragraphs), your notes and highlights will no longer match up**.
 
 ____
 ## Bible Reading Schedules
@@ -43,8 +45,7 @@ ____
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
 * **Latest release**: *BRS_3.1.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BRS_3.1/BRS_3.1_CV.jwpub), [Chinese (simplified)](https://github.com/erykjj/jwpublib/releases/download/BRS_3.1/BRS_3.1_CHS.jwpub), [Dutch](https://github.com/erykjj/jwpublib/releases/download/BRS_3.1/BRS_3.1_O.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BRS_3.1/BRS_3.1_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/BRS_3.1/BRS_3.1_F.jwpub), [German](https://github.com/erykjj/jwpublib/releases/download/BRS_3.1/BRS_3.1_X.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.1/BRS_3.1a_I.jwpub), [Hungarian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.1/BRS_3.1a_H.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.1/BRS_3.1a_I.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.1/BRS_3.1_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BRS_3.1/BRS_3.1_T.jwpub), [Russian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.1/BRS_3.1_U.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.1/BRS_3.1_S.jwpub), [Tagalog](https://github.com/erykjj/jwpublib/releases/download/BRS_3.1/BRS_3.1_TG.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.1/BRS_3.1_K.jwpub)
 * **Released**: [2024-01-25](CHANGELOG.md/#brs_31---2024-01-25)
-* **Note**: Because of internal differences, this new version (v3) will appear as a different publication; in other words, the dates and checkmarks from `BRS_2.0` *will not* be transferred to `BRS`. If you want to transition in the middle of a plan, simply take note where you are and carry on from there.
-* **Translations**: Let me know if you would like this in another language or if you notice any errors in the current translations. See [here](https://github.com/erykjj/jwpublib/wiki/BRS-Translation) for strings that need to be translated.
+* **Note**: Let me know if you would like this in another language or if you notice any errors in the current translations. See [here](https://github.com/erykjj/jwpublib/wiki/BRS-Translation) for strings that need to be translated.
 
 ____
 ## Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
