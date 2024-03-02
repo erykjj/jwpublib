@@ -33,7 +33,7 @@ ____
 * **Description**: Personal research project: a chronological compilation of events (mostly) related to Bible history
 * **Latest release**: [*TBH_5.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/TBH_5.0/TBH_5.0.jwpub)
 * **Released**: [2024-02-27](CHANGELOG.md/#tbh_50---2024-02-27)
-* **Note**: Keep in mind that notes and highlights are linked to paragraph *numbers*, so **if you annotate in any way and a future release includes additional historical events (paragraphs), your notes and highlights will no longer match up**.
+* **Note**: Keep in mind that if you annotate in any way and a future release includes additional historical events (paragraphs), your notes and highlights will no longer match up.
 
 ____
 ## Bible Reading Schedules
@@ -76,7 +76,7 @@ ____
 * **Description**: *King James Version* with interlinear links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
 * **Latest release**: [*KJS_2.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_2.0/KJS_2.0.jwpub)
 * **Released**: [2024-01-20](CHANGELOG.md/#kjs_20---2024-01-20)
-* **Note**: This needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it (and any previous version of this archive): Bible → Languages → Delete. Add it to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries.
+* **Note**: This needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it (and any previous version of this archive): *Bible* → *Languages* → *Delete*. Add it to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries.
 
 ____
 ____
