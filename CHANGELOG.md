@@ -4,11 +4,9 @@
 
 ### **BRS**: Bible Reading Schedules
 
-- Small fix for combined letters (day 35): 1 John 1 moved to day 45
-
 ### **Jph**: *The Works of Flavius Josephus*
 
-- In the works
+- in the works
 
 ### **KJS**: *KJV* and *Strong's* interlinear
 
@@ -19,21 +17,25 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [BRS_3.2] - 2024-03-13
+
+- small fix for combined letters (day 35): 1 John 1 moved to day 45
+
 ## [TBH_5.0] - 2024-02-27
 
-- Added **tile images** and new cover image
-- Improved event **descriptions**
-- More **Bible references** added (@jeremy-j-t & @chessurisme)
+- added **tile images** and new cover image
+- improved event **descriptions**
+- more **Bible references** added (@jeremy-j-t & @chessurisme)
 
 ## [TBH_4.0] - 2024-02-14
 
-- Added some **additional events**
-- Added **scriptural references** to more events (thank you to @chessurisme)
-- Adjusted some categories and refined some descriptions
-- Adjusted **formatting**:
-  - Showing start and end ranges for both birth and death year
-  - Highlighting (bold) only main text of important events (not ranges, etc.)
-  - Bullets and hanging indent to better distinguish individual events
+- added some **additional events**
+- added **scriptural references** to more events (thank you to @chessurisme)
+- adjusted some categories and refined some descriptions
+- adjusted **formatting**:
+  - showing start and end ranges for both birth and death year
+  - highlighting (bold) only main text of important events (not ranges, etc.)
+  - bullets and hanging indent to better distinguish individual events
 
 ## [BRS_3.1] - 2024-01-25
 
@@ -293,6 +295,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BRS_3.2]:https://github.com/erykjj/jwpublib/releases/tag/BRS_3.2
 [TBH_5.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_5.0
 [TBH_4.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_4.0
 [BRS_3.1]:https://github.com/erykjj/jwpublib/releases/tag/BRS_3.1
