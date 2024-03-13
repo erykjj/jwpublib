@@ -4,6 +4,8 @@
 
 ### **BRS**: Bible Reading Schedules
 
+- Small fix for combined letters (day 35): 1 John 1 moved to day 45
+
 ### **Jph**: *The Works of Flavius Josephus*
 
 - In the works
