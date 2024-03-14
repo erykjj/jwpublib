@@ -17,6 +17,10 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [Jph_1.0] - 2024-03-13
+
+- initial release
+
 ## [BRS_3.2] - 2024-03-13
 
 - small fix for combined letters (day 35): 1 John 1 moved to day 45
@@ -295,6 +299,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Jph_1.0]:https://github.com/erykjj/jwpublib/releases/tag/Jph_1.0
 [BRS_3.2]:https://github.com/erykjj/jwpublib/releases/tag/BRS_3.2
 [TBH_5.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_5.0
 [TBH_4.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_4.0
