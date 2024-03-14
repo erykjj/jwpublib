@@ -22,7 +22,9 @@ ____
 ![preview](screenshots/Jph.gif)
 
 * **Description**: *Antiquities of the Jews*, *Jewish War* and *The Life of Flavius Josephus*
-* **Note**: This adaptation is in the works
+* **Latest release**: [*Jph_1.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/Jph_1.0/Jph_1.0.jwpub)
+* **Released**: [2024-03-13](CHANGELOG.md/#jph_10---2024-03-13)
+* **Note**: Please report any issues.
 
 ____
 ## Timeline of Bible History
