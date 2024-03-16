@@ -6,8 +6,6 @@
 
 ### **Jph**: *The Works of Flavius Josephus*
 
-- in the works
-
 ### **KJS**: *KJV* and *Strong's* interlinear
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
