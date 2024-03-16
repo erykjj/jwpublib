@@ -17,6 +17,11 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [TBH_5.1] - 2024-03-16
+
+- corrected some spelling mistakes
+- added specific dates to some events
+
 ## [Jph_1.0] - 2024-03-13
 
 - initial release
@@ -299,6 +304,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[TBH_5.1]:https://github.com/erykjj/jwpublib/releases/tag/TBH_5.1
 [Jph_1.0]:https://github.com/erykjj/jwpublib/releases/tag/Jph_1.0
 [BRS_3.2]:https://github.com/erykjj/jwpublib/releases/tag/BRS_3.2
 [TBH_5.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_5.0
