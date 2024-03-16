@@ -38,6 +38,7 @@ ____
 * **Latest release**: [*TBH_5.1.jwpub*](https://github.com/erykjj/jwpublib/releases/download/TBH_5.1/TBH_5.1.jwpub)
 * **Released**: [2024-03-16](CHANGELOG.md/#tbh_51---2024-03-16)
 * **Note**: Keep in mind that if you annotate in any way and a future release includes additional historical events, your notes and highlights will no longer match up.
+* **Note**: If you are interested in helping with translating this timeline, see [this issue](https://github.com/erykjj/jwpublib/issues/37).
 
 ____
 ## Bible Reading Schedules
