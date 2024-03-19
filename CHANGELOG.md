@@ -12,6 +12,10 @@
 
 ### **TBH**: Timeline of Bible History
 
+- refined and corrected many event descriptions
+- added framework for multiple language releases
+  - Spanish and Danish in the works
+
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
