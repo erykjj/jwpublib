@@ -18,6 +18,8 @@
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
+- some source corrections
+
 ____
 ## [TBH_5.1] - 2024-03-16
 
