@@ -4,6 +4,8 @@
 
 ### **BRS**: Bible Reading Schedules
 
+- minor translation corrections
+
 ### **Jph**: *The Works of Flavius Josephus*
 
 ### **KJS**: *KJV* and *Strong's* interlinear
