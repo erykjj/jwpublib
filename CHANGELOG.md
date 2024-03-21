@@ -13,8 +13,11 @@
 ### **TBH**: Timeline of Bible History
 
 - refined and corrected many event descriptions
-- added framework for multiple language releases
-  - Spanish and Danish in the works
+- added more events
+- added **back-links** from thematic timelines to main timeline
+- added framework for **multiple language** releases
+  - Spanish completed
+  - Cebuano, Danish, French, Italian in the works
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
