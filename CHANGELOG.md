@@ -16,6 +16,8 @@
 
 - refined and corrected many event descriptions
 - added more events
+- added section for **geographic regions**
+- added thematic timelines for each **kingdom/world power**
 - added **back-links** from thematic timelines to main timeline
 - added framework for **multiple language** releases
   - Spanish completed
