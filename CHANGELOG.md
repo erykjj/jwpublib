@@ -14,20 +14,20 @@
 
 ### **TBH**: Timeline of Bible History
 
-- refined and corrected many event descriptions
-- added more events
-- added section for **geographic regions**
-- added thematic timelines for each **kingdom/world power**
-- added **side-/study-pane overview of whole year** from thematic timelines (tap on triangle bullet)
-- added framework for **multiple language** releases
-  - Spanish completed
-  - Cebuano, Danish, French, Italian in the works
-
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 - some source corrections
 
 ____
+## [TBH_6.0] - 2024-03-23
+
+- refined and corrected many event descriptions
+- added more events
+- added section for **geographic regions**
+- added thematic timelines for each **kingdom/world power**
+- added **side-/study-pane overview of whole year** from thematic timelines
+- added framework for **multiple language** releases
+
 ## [TBH_5.1] - 2024-03-16
 
 - corrected some spelling mistakes
