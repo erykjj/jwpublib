@@ -10,8 +10,8 @@ The material provided here is ***not* copyrighted**; it is in the **Public Domai
 
 ____
 ____
-* [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus) - **NEW**
-* [Timeline of Bible History](#timeline-of-bible-history)
+* [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus)
+* [Timeline of Bible History](#timeline-of-bible-history) - **UPDATED**
 * [Bible Reading Schedules](#bible-reading-schedules)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words)
@@ -35,10 +35,10 @@ ____
 ![preview on Android](screenshots/TBH.gif)
 
 * **Description**: Personal research project: a chronological compilation of events (mostly) related to Bible history
-* **Latest release**: [*TBH_5.1.jwpub*](https://github.com/erykjj/jwpublib/releases/download/TBH_5.1/TBH_5.1.jwpub)
-* **Released**: [2024-03-16](CHANGELOG.md/#tbh_51---2024-03-16)
-* **Note**: Keep in mind that if you annotate in any way and a future release includes additional historical events, your notes and highlights will no longer match up.
-* **Note**: If you are interested in helping with **translating** this timeline, see this [issue](https://github.com/erykjj/jwpublib/issues/37) and this [wiki page](https://github.com/erykjj/jwpublib/wiki/TBH-Translation).
+* **Latest release**: *TBH_6.0.jwpub* - [English](https://github.com/erykjj/jwpublib/releases/download/TBH_6.0/TBH_6.0_E.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/TBH_6.0/TBH_6.0_S.jwpub)
+* **Released**: [2024-03-23](CHANGELOG.md/#tbh_60---2024-03-23)
+* **Note**: Tapping on a year in any of the thematic timelines, will give you an overview of the whole year in the side/study pane. Keep in mind that if you annotate in any way and a future release includes additional historical events, your notes and highlights will no longer match up.
+* **Traslations**: If you are interested in helping with translating this timeline, see this [issue](https://github.com/erykjj/jwpublib/issues/37) and this [wiki page](https://github.com/erykjj/jwpublib/wiki/TBH-Translation). Cebuano, Danish, French and Italian translations are already in progress - thanks to some willing collaborators!
 
 ____
 ## Bible Reading Schedules
@@ -50,7 +50,7 @@ ____
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
 * **Latest release**: *BRS_3.2.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_CV.jwpub), [Chinese (simplified)](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_CHS.jwpub), [Danish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_D.jwpub), [Dutch](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_O.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_F.jwpub), [German](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_X.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2a_I.jwpub), [Hungarian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2a_H.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2a_I.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_T.jwpub), [Russian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_U.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_S.jwpub), [Tagalog](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_TG.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_K.jwpub)
 * **Released**: [2024-03-13](CHANGELOG.md/#brs_32---2024-03-13)
-* **Note**: Let me know if you would like this in another language or if you notice any errors in the current translations. See [here](https://github.com/erykjj/jwpublib/wiki/BRS-Translation) for strings that need to be translated.
+* **Traslations**: Let me know if you would like this in another language or if you notice any errors in the current translations. See [here](https://github.com/erykjj/jwpublib/wiki/BRS-Translation) for strings that need to be translated.
 
 ____
 ## Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
