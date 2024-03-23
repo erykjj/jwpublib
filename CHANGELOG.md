@@ -18,7 +18,7 @@
 - added more events
 - added section for **geographic regions**
 - added thematic timelines for each **kingdom/world power**
-- added **back-links** from thematic timelines to main timeline
+- added **side-/study-pane overview of whole year** from thematic timelines (tap on triangle bullet)
 - added framework for **multiple language** releases
   - Spanish completed
   - Cebuano, Danish, French, Italian in the works
