@@ -14,6 +14,8 @@
 
 ### **TBH**: Timeline of Bible History
 
+- improved classification of some events
+
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 - some source corrections
