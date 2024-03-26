@@ -17,6 +17,7 @@
 - improved classification of some events
 - minor description adjustments
 - added links on kingdom and region tags to corresponding thematic timelines
+- Spanish translation corrections
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
