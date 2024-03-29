@@ -18,6 +18,7 @@
 - minor description adjustments
 - added links on kingdom and region tags to corresponding thematic timelines
 - Spanish translation corrections
+- added French translation (@shonind)
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
