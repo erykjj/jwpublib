@@ -14,6 +14,7 @@
 
 ### **TBH**: Timeline of Bible History
 
+- added some more world history events
 - improved classification of some events
 - minor description adjustments
 - added links on kingdom and region tags to corresponding thematic timelines
