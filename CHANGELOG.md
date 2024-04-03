@@ -17,6 +17,8 @@
 - added some more world history events
 - improved classification of some events
 - minor description adjustments
+- added thematic outline for Anglo-America
+- added thematic outline for Europe, Far East and Americas regions
 - added links on kingdom and region tags to corresponding thematic timelines
 - Spanish translation corrections
 - added French translation (@shonind)
