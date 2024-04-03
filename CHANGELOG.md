@@ -10,7 +10,11 @@
 
 ### **KJS**: *KJV* and *Strong's* interlinear
 
+- repackaged with higher build number (to prevent *int* update)
+
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
+
+- refined search index
 
 ### **TBH**: Timeline of Bible History
 
@@ -23,7 +27,8 @@
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
-- some source corrections
+- minor source corrections
+- refined search index
 
 ____
 ## [TBH_6.0] - 2024-03-23
