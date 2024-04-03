@@ -15,7 +15,7 @@ ____
 * [Bible Reading Schedules](#bible-reading-schedules)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament) - **UPDATED**
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words) - **UPDATED**
-* [*KJV* and *Strong's* interlinear](#kjv-and-strongs-interlinear)
+* [*KJV* and *Strong's* interlinear](#kjv-and-strongs-interlinear) - **UPDATED**
 
 ____
 ## *The Works of Flavius Josephus*
@@ -79,9 +79,9 @@ ____
 ![preview](screenshots/KJS.gif)
 
 * **Description**: *King James Version* with interlinear links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
-* **Latest release**: [*KJS_2.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_2.0/KJS_2.0.jwpub)
-* **Released**: [2024-01-20](CHANGELOG.md/#kjs_20---2024-01-20)
-* **Note**: This needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it (and any previous version of this archive): *Bible* → *Languages* → *Delete*. Add it to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries.
+* **Latest release**: [*KJS_2.1.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_2.1/KJS_2.1.jwpub)
+* **Released**: [2024-04-03](CHANGELOG.md/#kjs_21---2024-04-03)
+* **Note**: This needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it: *Bible* → *Languages* → *Delete*. Add it to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries.
 
 ____
 ____
