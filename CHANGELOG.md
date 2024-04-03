@@ -25,10 +25,12 @@
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
+____
+## [VED_3.1] - 2024-04-03
+
 - minor source corrections
 - refined search index
 
-____
 ## [Str_3.1] - 2024-04-03
 
 - refined search index
@@ -329,6 +331,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[VED_3.1]:https://github.com/erykjj/jwpublib/releases/tag/VED_3.1
 [Str_3.1]:https://github.com/erykjj/jwpublib/releases/tag/Str_3.1
 [TBH_6.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_6.0
 [TBH_5.1]:https://github.com/erykjj/jwpublib/releases/tag/TBH_5.1
