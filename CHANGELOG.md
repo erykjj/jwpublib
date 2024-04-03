@@ -14,8 +14,6 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
-- refined search index
-
 ### **TBH**: Timeline of Bible History
 
 - added some more world history events
@@ -31,6 +29,10 @@
 - refined search index
 
 ____
+## [Str_3.1] - 2024-04-03
+
+- refined search index
+
 ## [TBH_6.0] - 2024-03-23
 
 - refined and corrected many event descriptions
@@ -327,6 +329,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Str_3.1]:https://github.com/erykjj/jwpublib/releases/tag/Str_3.1
 [TBH_6.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_6.0
 [TBH_5.1]:https://github.com/erykjj/jwpublib/releases/tag/TBH_5.1
 [Jph_1.0]:https://github.com/erykjj/jwpublib/releases/tag/Jph_1.0
