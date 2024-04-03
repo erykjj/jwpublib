@@ -14,7 +14,7 @@ ____
 * [Timeline of Bible History](#timeline-of-bible-history)
 * [Bible Reading Schedules](#bible-reading-schedules)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament) - **UPDATED**
-* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words)
+* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words) - **UPDATED**
 * [*KJV* and *Strong's* interlinear](#kjv-and-strongs-interlinear)
 
 ____
@@ -69,8 +69,8 @@ ____
 ![preview](screenshots/VED.gif)
 
 * **Description**: More extensive Greek dictionary (with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament))
-* **Latest release**: [*VED_3.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/VED_3.0/VED_3.0.jwpub)
-* **Released**: [2024-01-20](CHANGELOG.md/#ved_30---2024-01-20)
+* **Latest release**: [*VED_3.1.jwpub*](https://github.com/erykjj/jwpublib/releases/download/VED_3.1/VED_3.1.jwpub)
+* **Released**: [2024-04-03](CHANGELOG.md/#ved_31---2024-04-03)
 
 ____
 ## *KJV* and *Strong's* interlinear
