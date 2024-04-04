@@ -20,7 +20,9 @@
 - added thematic outline for Anglo-America
 - added thematic outline for Europe, Far East and Americas regions
 - added links on kingdom and region tags to corresponding thematic timelines
+- added a touch of color
 - Spanish translation corrections
+- added Danish translation (@JohnDoeDK)
 - added French translation (@shonind)
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
