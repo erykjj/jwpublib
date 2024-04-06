@@ -14,16 +14,21 @@
 
 ### **TBH**: Timeline of Bible History
 
-- added some more world history events
-- improved classification of some events
-- minor description adjustments
-- added thematic outline for Anglo-America
-- added thematic outline for Europe, Far East and Americas regions
-- added links on kingdom and region tags to corresponding thematic timelines
+- events
+  - added some more world history events
+  - improved classification of some events
+  - minor description adjustments
+- thematic outlines
+  - added thematic outline for **Anglo-America**
+  - added thematic outline for **Europe, Far East and Americas** regions
+- cross-links
+  - added **links on kingdom and region tags** to corresponding thematic timelines
+  - added **links on Hebrew month names** to additional info and further links
 - added a touch of color
-- Spanish translation corrections
-- added Danish translation (@JohnDoeDK)
-- added French translation (@shonind)
+- translations
+  - **Spanish** translation corrections
+  - added **Danish** translation (@JohnDoeDK)
+  - added **French** translation (@shonind)
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
