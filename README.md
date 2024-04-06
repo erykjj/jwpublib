@@ -1,8 +1,8 @@
 # JWPubLib
 
-This is a collection of reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] - as one would supplement/complement a physical library (personal or in a Kingdom Hall) with... an atlas, dictionaries, and other such secular reference works.
+This is a collection of reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] - as one would supplement/complement a physical library (personal or in a Kingdom Hall) with an atlas, dictionaries, and other such secular reference works.
 
-Simply download the "Latest release" and **tap/double-click the downloaded file** (on Windows, you can also drag and drop the file into the "Library" section of the JW Library app). It will appear in the **"Guidelines"** section (*Library* → *DOWNLOADED* tab → *Guidelines* section).
+Simply download the "Latest release" and **tap/double-click the downloaded file** (on Windows, you can also drag and drop the file into the "Library" section of the JW Library app). It will appear in the **"Guidelines"** section (*Library* → *DOWNLOADED* tab → *Guidelines*).
 
 These publications ***will not* update** automatically. You will need to check for updates here, and if a newer release is available, download and install it.
 
