@@ -44,6 +44,7 @@ Israel
 Judah
 Persia
 Rome
+Anglo-America
 Timeline of Bible History
 Oustanding Events
 Famous People
@@ -62,4 +63,44 @@ Prophecy
 The Messiah
 Christianity
 Christendom
+Americas
+Europe
+Far East
+Nisan
+Iyyar
+Sivan
+Tammuz
+Ab
+Elul
+Tishri
+Heshvan
+Chislev
+Tebeth
+Shebat
+Adar
+Veadar
+Abib
+Ziv
+Ethanim
+Bul
+March/April
+April/May
+May/June
+June/July
+July/August
+August/September
+September/October
+October/November
+November/December
+December/January
+January/February
+February/March
+March
+Month
+Name
+Alternate name
+Corresponds with
+Order in secular calendar
+Order in sacred calendar
+Names of hebrew months, region and kingdom tags, and years are linked to provide more specific information
 ```
