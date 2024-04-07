@@ -14,9 +14,14 @@
 
 ### **TBH**: Timeline of Bible History
 
+### **VED**: Vine's *Expository Dictionary of New Testament Words*
+
+____
+## [TBH_7.0] - 2024-04-07
+
 - events
   - added some more world history events
-  - improved classification of some events
+  - improved classification of many events
   - minor description adjustments
 - thematic outlines
   - added thematic outline for **Anglo-America**
@@ -30,9 +35,6 @@
   - added **Danish** translation (@JohnDoeDK)
   - added **French** translation (@shonind)
 
-### **VED**: Vine's *Expository Dictionary of New Testament Words*
-
-____
 ## [KJS_2.1] - 2024-04-03
 
 - repackaged with higher build number (to prevent *int* update)
@@ -342,6 +344,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[TBH_7.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_7.0
 [KJS_2.1]:https://github.com/erykjj/jwpublib/releases/tag/KJS_2.1
 [VED_3.1]:https://github.com/erykjj/jwpublib/releases/tag/VED_3.1
 [Str_3.1]:https://github.com/erykjj/jwpublib/releases/tag/Str_3.1
