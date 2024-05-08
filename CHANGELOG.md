@@ -21,6 +21,10 @@
 - minor source corrections
 
 ____
+## [KJS_3.0] - 2024-05-08
+
+- released in two different layouts: **interlinear** (as Kingdom Interlinear replacement) and **inline** (independent)
+
 ## [KJS_2.2] - 2024-05-08
 
 - repackaged (again) to prevent *int* update
