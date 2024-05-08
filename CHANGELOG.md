@@ -23,7 +23,7 @@
 ____
 ## [KJS_3.0] - 2024-05-08
 
-- released in two different layouts: **interlinear** (as Kingdom Interlinear replacement) and **inline** (independent)
+- released in two different layouts: **interlinear** (as *Kingdom Interlinear* replacement) and **inline** (independent)
 
 ## [KJS_2.2] - 2024-05-08
 
