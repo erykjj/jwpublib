@@ -21,6 +21,10 @@
 - minor source corrections
 
 ____
+## [KJS_2.2] - 2024-05-08
+
+- repackaged (again) to prevent *int* update
+
 ## [TBH_7.0] - 2024-04-07
 
 - events
@@ -348,6 +352,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[KJS_2.2]:https://github.com/erykjj/jwpublib/releases/tag/KJS_2.2
 [TBH_7.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_7.0
 [KJS_2.1]:https://github.com/erykjj/jwpublib/releases/tag/KJS_2.1
 [VED_3.1]:https://github.com/erykjj/jwpublib/releases/tag/VED_3.1
