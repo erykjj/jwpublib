@@ -14,7 +14,7 @@ ____
 * [Timeline of Bible History](#timeline-of-bible-history)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words)
-* [*KJV* and *Strong's* interlinear](#kjv-and-strongs-interlinear)
+* [*KJV* and *Strong's* interlinear](#kjv-and-strongs-interlinear) **SEE NOTE**
 * [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus)
 
 ____
@@ -70,7 +70,7 @@ ____
 * **Description**: *King James Version* with interlinear links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
 * **Latest release**: [*KJS_2.1.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_2.1/KJS_2.1.jwpub)
 * **Released**: [2024-04-03](CHANGELOG.md/#kjs_21---2024-04-03)
-* **Note**: This needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it: *Bible* → *Languages* → *Delete*. Add it to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries.
+* **Note**: This needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it: *Bible* → *Languages* → *Delete*. Add it to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries. **DO NOT UPDATE via the JW Library app, or you will have to download and reinstall.**
 
 ____
 ## *The Works of Flavius Josephus*
