@@ -10,6 +10,7 @@ The material provided here is ***not* copyrighted**; it is in the **Public Domai
 
 ____
 ____
+## Bookshelf
 * [Bible Reading Schedules](#bible-reading-schedules)
 * [Timeline of Bible History](#timeline-of-bible-history)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament)
@@ -18,7 +19,7 @@ ____
 * [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus)
 
 ____
-## Bible Reading Schedules
+## Bible Reading Schedules [⇧](#bookshelf)
 <img src="screenshots/BRS.png" width="100px">
 
 ![preview on Android](screenshots/BRSA.gif)
@@ -30,7 +31,7 @@ ____
 * **Traslations**: Let me know if you would like this in another language or if you notice any errors in the current translations. See [here](https://github.com/erykjj/jwpublib/wiki/BRS-Translation) for strings that need to be translated.
 
 ____
-## Timeline of Bible History
+## Timeline of Bible History [⇧](#bookshelf)
 <img src="screenshots/TBH.png" width="100px">
 
 ![preview on Android](screenshots/TBH.gif)
@@ -42,7 +43,7 @@ ____
 * **Traslations**: If you are interested translating this timeline, see this [issue](https://github.com/erykjj/jwpublib/issues/37) and this [wiki page](https://github.com/erykjj/jwpublib/wiki/TBH-Translation). Cebuano and Italian translations are already in progress - thanks to some willing collaborators!
 
 ____
-## Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
+## Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* [⇧](#bookshelf)
 <img src="screenshots/Strongs.jpg" width="100px">
 
 ![preview](screenshots/Str.gif)
@@ -52,7 +53,7 @@ ____
 * **Released**: [2024-04-03](CHANGELOG.md/#str_31---2024-04-03)
 
 ____
-## Vine's *Expository Dictionary of New Testament Words*
+## Vine's *Expository Dictionary of New Testament Words* [⇧](#bookshelf)
 <img src="screenshots/Vines.jpg" width="100px">
 
 ![preview](screenshots/VED.gif)
@@ -62,7 +63,7 @@ ____
 * **Released**: [2024-04-03](CHANGELOG.md/#ved_31---2024-04-03)
 
 ____
-## *KJV* and *Strong's* Inline/Interlinear
+## *KJV* and *Strong's* Inline/Interlinear [⇧](#bookshelf)
 <img src="screenshots/KJS.jpg" width="100px">
 
 ![preview](screenshots/KJS.gif)
@@ -75,7 +76,7 @@ ____
 ![versions](screenshots/KJS-versions.png)
 
 ____
-## *The Works of Flavius Josephus*
+## *The Works of Flavius Josephus* [⇧](#bookshelf)
 <img src="screenshots/Jph.png" width="100px">
 
 ![preview](screenshots/Jph.gif)
