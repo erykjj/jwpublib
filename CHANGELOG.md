@@ -10,9 +10,6 @@
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
 
-- fixed line-break in inline edition
-- highlighted tetragrammaton
-
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
 - minor source corrections
@@ -24,6 +21,12 @@
 - minor source corrections
 
 ____
+## [KJS_3.1] - 2024-05-09
+
+- fixed line-break in inline edition
+- **highlighted tetragrammaton**
+- you will need to **DELETE** the previous version(s): *Bible* → *Languages* → *Delete*
+
 ## [KJS_3.0] - 2024-05-08
 
 - released in two different layouts: **interlinear** (as *Kingdom Interlinear* replacement) and **inline** (independent)
@@ -359,6 +362,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[KJS_3.1]:https://github.com/erykjj/jwpublib/releases/tag/KJS_3.1
 [KJS_3.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_3.0
 [KJS_2.2]:https://github.com/erykjj/jwpublib/releases/tag/KJS_2.2
 [TBH_7.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_7.0
