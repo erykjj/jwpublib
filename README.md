@@ -40,7 +40,7 @@ ____
 * **Latest release**: *TBH_7.0.jwpub* - [Danish](https://github.com/erykjj/jwpublib/releases/download/TBH_7.0/TBH_7.0_D.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/TBH_7.0/TBH_7.0b_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/TBH_7.0/TBH_7.0_F.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/TBH_7.0/TBH_7.0_S.jwpub)
 * **Released**: [2024-04-07](CHANGELOG.md/#tbh_70---2024-04-07)
 * **Note**: Tapping on a year in any of the thematic timelines, will give you an overview of the whole year in the side/study pane; tapping on a kindgom or region tag will take you to the corresponding thematic timeline; and tapping the name of a Hebrew month, will point you to more information. Keep in mind that if you annotate in any way and a future release includes additional historical events, your notes and highlights will no longer match up.
-* **Traslations**: If you are interested translating this timeline, see this [issue](https://github.com/erykjj/jwpublib/issues/37) and this [wiki page](https://github.com/erykjj/jwpublib/wiki/TBH-Translation). Cebuano and Italian translations are already in progress - thanks to some willing collaborators!
+* **Traslations**: If you are interested translating this timeline, see this [issue](https://github.com/erykjj/jwpublib/issues/37) and this [wiki page](https://github.com/erykjj/jwpublib/wiki/TBH-Translation).
 
 ____
 ## Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* [⇧](#bookshelf)
@@ -84,7 +84,6 @@ ____
 * **Description**: *Antiquities of the Jews*, *Jewish War* and *The Life of Flavius Josephus*
 * **Latest release**: [*Jph_1.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/Jph_1.0/Jph_1.0.jwpub)
 * **Released**: [2024-03-13](CHANGELOG.md/#jph_10---2024-03-13)
-* **Note**: Please report any issues.
 
 ____
 ____
