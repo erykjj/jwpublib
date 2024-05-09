@@ -71,6 +71,7 @@ ____
 * **Latest releases**: [*KJS_3.1-inline.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_3.1/KJS_3.1-inline.jwpub) & [*KJS_3.0-interlinear.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_3.1/KJS_3.1-interlinear.jwpub)
 * **Released**: [2024-05-09](CHANGELOG.md/#kjs_31---2024-05-09)
 * **Note**: The *interlinear* version needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it: *Bible* → *Languages* → *Delete*. The *inline* version can co-exist with the *Kingdom Interlinear* or the *KJS-interlinear*. Add to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries.
+
 ![versions](screenshots/KJS-versions.png)
 
 ____
