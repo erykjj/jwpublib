@@ -8,7 +8,10 @@
 
 ### **Jph**: *The Works of Flavius Josephus*
 
-### **KJS**: *KJV* and *Strong's* interlinear
+### **KJS**: *KJV* and *Strong's* Inline/Interlinear
+
+- fixed line-break in inline edition
+- highlighted tetragrammaton
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
