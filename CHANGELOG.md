@@ -24,7 +24,7 @@ ____
 ## [KJS_3.1] - 2024-05-09
 
 - fixed line-break in inline edition
-- **highlighted tetragrammaton**
+- **highlighted the Tetragrammaton**
 - you will need to **DELETE** the previous version(s): *Bible* → *Languages* → *Delete*
 
 ## [KJS_3.0] - 2024-05-08
