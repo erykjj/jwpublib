@@ -14,7 +14,7 @@ ____
 * [Timeline of Bible History](#timeline-of-bible-history)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words)
-* [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-interlinear)    **NEW FORMAT available**
+* [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-interlinear)    **UPDATED**
 * [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus)
 
 ____
@@ -68,8 +68,8 @@ ____
 ![preview](screenshots/KJS.gif)
 
 * **Description**: *King James Version* with inline/interlinear links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
-* **Latest releases**: [*KJS_3.0-inline.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_3.0/KJS_3.0-inline.jwpub) & [*KJS_3.0-interlinear.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_3.0/KJS_3.0-interlinear.jwpub)
-* **Released**: [2024-05-08](CHANGELOG.md/#kjs_30---2024-05-08)
+* **Latest releases**: [*KJS_3.1-inline.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_3.1/KJS_3.1-inline.jwpub) & [*KJS_3.0-interlinear.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_3.1/KJS_3.1-interlinear.jwpub)
+* **Released**: [2024-05-09](CHANGELOG.md/#kjs_31---2024-05-09)
 * **Note**: The *interlinear* version needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it: *Bible* → *Languages* → *Delete*. The *inline* version can co-exist with the *Kingdom Interlinear* or the *KJS-interlinear*. Add to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries.
 ![versions](screenshots/KJS-versions.png)
 
