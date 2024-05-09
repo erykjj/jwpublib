@@ -11,12 +11,12 @@ The material provided here is ***not* copyrighted**; it is in the **Public Domai
 ____
 ____
 ## Bookshelf
-* [Bible Reading Schedules](#bible-reading-schedules)
-* [Timeline of Bible History](#timeline-of-bible-history)
-* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament)
-* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words)
-* [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear)    **UPDATED**
-* [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus)
+* [Bible Reading Schedules](#bible-reading-schedules-)
+* [Timeline of Bible History](#timeline-of-bible-history-)
+* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
+* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
+* [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)    **UPDATED**
+* [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)
 
 ____
 ## Bible Reading Schedules [⇧](#bookshelf)
