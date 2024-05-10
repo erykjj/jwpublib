@@ -1,3 +1,5 @@
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/erykjj/jwpublib/total?style=plastic)
+
 # JWPubLib
 
 This is a collection of reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] - as one would supplement/complement a physical library (personal or in a Kingdom Hall) with an atlas, dictionaries, and other such secular reference works.
@@ -91,7 +93,7 @@ ____
 
 Feel free to [get in touch](https://github.com/erykjj/jwpublib/issues) and post any issues, suggestions, ideas, etc.
 
-[![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwpublib/releases.atom) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/erykjj/jwpublib/total?style=plastic)
+[![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwpublib/releases.atom)
 
 My other *JW Library* project: [**JWLManager**](https://github.com/erykjj/jwlmanager)
 
