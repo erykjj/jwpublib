@@ -6,6 +6,10 @@
 
 - minor translation corrections
 
+### **GPW**: God's Prophetic Word
+
+- to be revealed
+
 ### **Jph**: *The Works of Flavius Josephus*
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
