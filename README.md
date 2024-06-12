@@ -14,6 +14,7 @@ ____
 ____
 ## Bookshelf
 * [Bible Reading Schedules](#bible-reading-schedules-)
+* [God's Prophetic Word](#gods-prophetic-word-)     **NEW PROJECT**
 * [Timeline of Bible History](#timeline-of-bible-history-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
@@ -31,6 +32,17 @@ ____
 * **Latest release**: *BRS_3.2.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_CV.jwpub), [Chinese (simplified)](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_CHS.jwpub), [Danish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_D.jwpub), [Dutch](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_O.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_F.jwpub), [German](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_X.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2a_I.jwpub), [Hungarian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2a_H.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2a_I.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_T.jwpub), [Russian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_U.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_S.jwpub), [Tagalog](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_TG.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_K.jwpub)
 * **Released**: [2024-03-13](CHANGELOG.md/#brs_32---2024-03-13)
 * **Traslations**: Let me know if you would like this in another language or if you notice any errors in the current translations. See [here](https://github.com/erykjj/jwpublib/wiki/BRS-Translation) for strings that need to be translated.
+
+____
+## God's Prophetic Word [⇧](#bookshelf)
+<img src="screenshots/GPW.png" width="100px">
+
+![preview on Android](screenshots/GPW.gif)
+
+* **Description**: A compilation of Bible prophecies *with fulfillment registered in the Scriptures*
+* **Latest release**: N/A
+* **Released**: Soon to be revealed.
+* **Traslations**: Once the dataset has stabilized, I will make it available for translation.
 
 ____
 ## Timeline of Bible History [⇧](#bookshelf)
