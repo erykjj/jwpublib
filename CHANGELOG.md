@@ -8,8 +8,6 @@
 
 ### **GPW**: God's Prophetic Word
 
-- to be revealed
-
 ### **Jph**: *The Works of Flavius Josephus*
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
@@ -25,6 +23,10 @@
 - minor source corrections
 
 ____
+## [GPW_1.0] - 2024-06-14
+
+- initial release
+
 ## [KJS_3.1] - 2024-05-09
 
 - fixed line-break in inline edition
@@ -366,6 +368,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[GPW_1.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_1.0
 [KJS_3.1]:https://github.com/erykjj/jwpublib/releases/tag/KJS_3.1
 [KJS_3.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_3.0
 [KJS_2.2]:https://github.com/erykjj/jwpublib/releases/tag/KJS_2.2
