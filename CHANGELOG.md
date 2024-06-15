@@ -9,6 +9,7 @@
 ### **GPW**: God's Prophetic Word
 
 - minor (attribution) corrections
+- minor description corrections (tenses)
 
 ### **Jph**: *The Works of Flavius Josephus*
 
