@@ -8,6 +8,8 @@
 
 ### **GPW**: God's Prophetic Word
 
+- minor (attribution) corrections
+
 ### **Jph**: *The Works of Flavius Josephus*
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
