@@ -10,6 +10,7 @@
 
 - minor (attribution) corrections
 - minor description corrections (tenses)
+- added more prophecies (thank you @jeremy-j-t)
 
 ### **Jph**: *The Works of Flavius Josephus*
 
