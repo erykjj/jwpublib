@@ -11,6 +11,8 @@
 - minor (attribution) corrections
 - minor description corrections (tenses)
 - added more prophecies (thank you @jeremy-j-t)
+- added two more "views": by prophet and a timeline
+- Spanish translation
 
 ### **Jph**: *The Works of Flavius Josephus*
 
