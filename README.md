@@ -14,7 +14,7 @@ ____
 ____
 ## Bookshelf
 * [Bible Reading Schedules](#bible-reading-schedules-)
-* [God's Prophetic Word](#gods-prophetic-word-)   **NEW**
+* [God's Prophetic Word](#gods-prophetic-word-)   
 * [Timeline of Bible History](#timeline-of-bible-history-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
@@ -42,8 +42,8 @@ ____
 * **Description**: A compilation of Bible prophecies *with fulfillment registered in the Scriptures*
 * **Latest release**: [*GPW_1.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/GPW_1.0/GPW_1.0.jwpub)
 * **Released**: [2024-06-14](CHANGELOG.md/#gpw_10---2024-06-14)
-* **Note**: Because of the advanced functional implementation, annotations and search in this publication have been disabled. I will add additional "views" in the future. In the mean time, if you spot any discrepancies or can suggest prophecies that have not been included and should be, please [submit an issue](https://github.com/erykjj/jwpublib/issues).
-* **Traslations**: Once the dataset has stabilized, I will make it available for translation. If interested, please [let me know](https://github.com/erykjj/jwpublib/issues/42).
+* **Note**: Because of the advanced functional implementation, annotations and search in this publication have been disabled. Screenshot above is from the upcoming v2. In the mean time, if you spot any discrepancies or can suggest prophecies that have not been included and should be, please [submit an issue](https://github.com/erykjj/jwpublib/issues).
+* **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/issues/42).
 
 ____
 ## Timeline of Bible History [⇧](#bookshelf)
