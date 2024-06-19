@@ -12,7 +12,9 @@
 - minor description corrections (tenses)
 - added more prophecies (thank you @jeremy-j-t)
 - added two more "views": by prophet and a timeline
+- included more items in the spans "view"
 - Spanish translation
+- new tile images
 
 ### **Jph**: *The Works of Flavius Josephus*
 
