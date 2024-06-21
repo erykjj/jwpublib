@@ -15,7 +15,7 @@
 - included more items in the spans "view"
 - **Spanish translation**
 - new tile images
-- various small appearance adjustments
+- various appearance adjustments
 
 ### **Jph**: *The Works of Flavius Josephus*
 
