@@ -13,7 +13,10 @@
 - added **more prophecies** (thank you @jeremy-j-t)
 - added **two more "views"**: by prophet and a timeline
 - included more items in the spans "view"
-- **Spanish translation**
+- available in additional languages:
+  - **Polish** (thank you @LukaKru & @Goykew)
+  - **Portuguese** (thank you @BokuWaRamirezDa)
+  - **Spanish** (thank you @MisaelArciniega)
 - new tile images
 - various appearance adjustments
 
