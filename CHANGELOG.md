@@ -7,6 +7,7 @@
 - minor translation corrections
 
 ### **GPW**: God's Prophetic Word
+
 - available in additional languages:
   - **Polish** (thank you @LukaKru & @Goykew)
 
@@ -20,15 +21,17 @@
 
 ### **TBH**: Timeline of Bible History
 
-- added more events
-- added detail to timeline bar itself
-- minor translation corrections
-
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 - minor source corrections
 
 ____
+## [TBH_8.0] - 2024-06-25
+
+- added more events
+- added detail to timeline bar itself
+- minor translation corrections
+
 ## [GPW_2.0] - 2024-06-25
 
 - minor (attribution) corrections
@@ -389,6 +392,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[TBH_8.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_8.0
 [GPW_2.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_2.0
 [GPW_1.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_1.0
 [KJS_3.1]:https://github.com/erykjj/jwpublib/releases/tag/KJS_3.1
