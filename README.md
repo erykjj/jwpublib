@@ -15,7 +15,7 @@ ____
 ## Bookshelf
 * [Bible Reading Schedules](#bible-reading-schedules-)
 * [God's Prophetic Word](#gods-prophetic-word-)   **UPDATE**
-* [Timeline of Bible History](#timeline-of-bible-history-)
+* [Timeline of Bible History](#timeline-of-bible-history-)   **UPDATE**
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
 * [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)
@@ -52,8 +52,8 @@ ____
 ![preview on Android](screenshots/TBH.gif)
 
 * **Description**: Personal research project: a chronological compilation of events (mostly) related to Bible history
-* **Latest release**: *TBH_7.0.jwpub* - [Danish](https://github.com/erykjj/jwpublib/releases/download/TBH_7.0/TBH_7.0_D.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/TBH_7.0/TBH_7.0b_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/TBH_7.0/TBH_7.0_F.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/TBH_7.0/TBH_7.0_S.jwpub)
-* **Released**: [2024-04-07](CHANGELOG.md/#tbh_70---2024-04-07)
+* **Latest release**: *TBH_8.0.jwpub* - [Danish](https://github.com/erykjj/jwpublib/releases/download/TBH_8.0/TBH_8.0_D.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/TBH_8.0/TBH_8.0b_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/TBH_8.0/TBH_8.0_F.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/TBH_8.0/TBH_8.0_S.jwpub)
+* **Released**: [2024-06-25](CHANGELOG.md/#tbh_80---2024-06-25)
 * **Note**: Tapping on a year in any of the thematic timelines, will give you an overview of the whole year in the side/study pane; tapping on a kindgom or region tag will take you to the corresponding thematic timeline; and tapping the name of a Hebrew month, will point you to more information. Keep in mind that if you annotate in any way and a future release includes additional historical events, your notes and highlights will no longer match up.
 * **Traslations**: If you are interested translating this timeline, see this [issue](https://github.com/erykjj/jwpublib/issues/37) and this [wiki page](https://github.com/erykjj/jwpublib/wiki/TBH-Translation).
 
