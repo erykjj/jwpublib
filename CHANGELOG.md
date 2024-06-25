@@ -13,6 +13,8 @@
 - added **more prophecies** (thank you @jeremy-j-t)
 - added **two more "views"**: by prophet and a timeline
 - included more items in the spans "view"
+- **removed text-area from categories**
+  - enabled text selection in the detail to add study notes instead
 - available in additional languages:
   - **Polish** (thank you @LukaKru & @Goykew)
   - **Portuguese** (thank you @BokuWaRamirezDa)
