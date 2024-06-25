@@ -46,7 +46,7 @@ Persia
 Rome
 Anglo-America
 Timeline of Bible History
-Oustanding Events
+Outstanding Events
 Famous People
 Power Struggle
 Kings of Israel
