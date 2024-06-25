@@ -8,20 +8,6 @@
 
 ### **GPW**: God's Prophetic Word
 
-- minor (attribution) corrections
-- minor description corrections (tenses)
-- added **more prophecies** (thank you @jeremy-j-t)
-- added **two more "views"**: by prophet and a timeline
-- included more items in the spans "view"
-- **removed text-area from categories**
-  - enabled text selection in the detail to add study notes instead
-- available in additional languages:
-  - **Polish** (thank you @LukaKru & @Goykew)
-  - **Portuguese** (thank you @BokuWaRamirezDa)
-  - **Spanish** (thank you @MisaelArciniega)
-- new tile images
-- various appearance adjustments
-
 ### **Jph**: *The Works of Flavius Josephus*
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
@@ -41,6 +27,22 @@
 - minor source corrections
 
 ____
+## [GPW_2.0] - 2024-06-25
+
+- minor (attribution) corrections
+- minor description corrections (tenses)
+- added **more prophecies** (thank you @jeremy-j-t)
+- added **two more "views"**: by prophet and a timeline
+- included more items in the spans "view"
+- **removed text-area from categories**
+  - enabled text selection in the detail to add study notes instead
+- available in additional languages:
+  - **Polish** (thank you @LukaKru & @Goykew)
+  - **Portuguese** (thank you @BokuWaRamirezDa)
+  - **Spanish** (thank you @MisaelArciniega)
+- new tile images
+- various appearance adjustments
+
 ## [GPW_1.0] - 2024-06-14
 
 - initial release
@@ -386,6 +388,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[GPW_2.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_2.0
 [GPW_1.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_1.0
 [KJS_3.1]:https://github.com/erykjj/jwpublib/releases/tag/KJS_3.1
 [KJS_3.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_3.0
