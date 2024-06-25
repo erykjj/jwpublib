@@ -7,6 +7,8 @@
 - minor translation corrections
 
 ### **GPW**: God's Prophetic Word
+- available in additional languages:
+  - **Polish** (thank you @LukaKru & @Goykew)
 
 ### **Jph**: *The Works of Flavius Josephus*
 
@@ -37,7 +39,6 @@ ____
 - **removed text-area from categories**
   - enabled text selection in the detail to add study notes instead
 - available in additional languages:
-  - **Polish** (thank you @LukaKru & @Goykew)
   - **Portuguese** (thank you @BokuWaRamirezDa)
   - **Spanish** (thank you @MisaelArciniega)
 - new tile images
