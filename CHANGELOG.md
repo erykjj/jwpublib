@@ -8,6 +8,8 @@
 
 ### **GPW**: God's Prophetic Word
 
+- minor spelling corrections
+- minor display adjustments
 - available in additional languages:
   - **Polish** (thank you @LukaKru & @Goykew)
 
