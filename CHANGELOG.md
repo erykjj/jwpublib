@@ -10,6 +10,8 @@
 
 - minor spelling corrections
 - minor display adjustments
+- added more prophecies
+- added another category
 - available in additional languages:
   - **Polish** (thank you @LukaKru & @Goykew)
 
