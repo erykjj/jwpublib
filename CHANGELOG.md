@@ -19,10 +19,6 @@
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
 
-- fixes of inconsistencies on iDevices
-- minor changes to keep up with JW Library development
-- Tetragrammaton highlighted in gold :-)
-
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
 ### **TBH**: Timeline of Bible History
@@ -30,6 +26,12 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [KJS_4.0] - 2024-06-30
+
+- fixes of inconsistencies on iDevices
+- minor changes to keep up with JW Library development
+- Tetragrammaton highlighted in gold :-)
+
 ## [VED_4.0] - 2024-06-30
 
 - minor source corrections
@@ -407,6 +409,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[KJS_4.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_4.0
 [VED_4.0]:https://github.com/erykjj/jwpublib/releases/tag/VED_4.0
 [Str_4.0]:https://github.com/erykjj/jwpublib/releases/tag/Str_4.0
 [TBH_8.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_8.0
