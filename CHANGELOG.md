@@ -19,15 +19,22 @@
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
 
+- fixes of inconsistencies on iDevices
+- minor changes to keep up with JW Library development
+- Tetragrammaton highlighted in gold :-)
+
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
 - minor source corrections
+- fixes of inconsistencies on iDevices
+- minor changes to keep up with JW Library development
 
 ### **TBH**: Timeline of Bible History
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 - minor source corrections
+- minor changes to keep up with JW Library development
 
 ____
 ## [TBH_8.0] - 2024-06-25
