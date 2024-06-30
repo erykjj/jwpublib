@@ -29,10 +29,12 @@
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
+____
+## [VED_4.0] - 2024-06-30
+
 - minor source corrections
 - minor changes to keep up with JW Library development
 
-____
 ## [Str_4.0] - 2024-06-30
 
 - minor source corrections
@@ -405,6 +407,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[VED_4.0]:https://github.com/erykjj/jwpublib/releases/tag/VED_4.0
 [Str_4.0]:https://github.com/erykjj/jwpublib/releases/tag/Str_4.0
 [TBH_8.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_8.0
 [GPW_2.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_2.0
