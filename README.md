@@ -17,7 +17,7 @@ ____
 * [God's Prophetic Word](#gods-prophetic-word-)
 * [Timeline of Bible History](#timeline-of-bible-history-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATE**
-* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
+* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)   **UPDATE**
 * [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)
 * [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)
 
@@ -74,8 +74,8 @@ ____
 ![preview](screenshots/VED.gif)
 
 * **Description**: More extensive Greek dictionary (with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament))
-* **Latest release**: [*VED_3.1.jwpub*](https://github.com/erykjj/jwpublib/releases/download/VED_3.1/VED_3.1.jwpub)
-* **Released**: [2024-04-03](CHANGELOG.md/#ved_31---2024-04-03)
+* **Latest release**: [*VED_4.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/VED_4.0/VED_4.0.jwpub)
+* **Released**: [2024-06-30](CHANGELOG.md/#ved_40---2024-06-30)
 
 ____
 ## *KJV* and *Strong's* Inline/Interlinear [⇧](#bookshelf)
