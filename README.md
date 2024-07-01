@@ -14,7 +14,7 @@ ____
 ____
 ## Bookshelf
 * [Bible Reading Schedules](#bible-reading-schedules-)
-* [God's Prophetic Word](#gods-prophetic-word-)
+* [God's Prophetic Word](#gods-prophetic-word-)   **UPDATE**
 * [Timeline of Bible History](#timeline-of-bible-history-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATE**
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)   **UPDATE**
@@ -40,8 +40,8 @@ ____
 ![preview on Android](screenshots/GPW.gif)
 
 * **Description**: A compilation of Bible prophecies *with fulfillment registered in the Scriptures*
-* **Latest release**: *GPW_2.0.jwpub* - [English](https://github.com/erykjj/jwpublib/releases/download/GPW_2.0/GPW_2.0_E.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/GPW_2.0/GPW_2.0_S.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/GPW_2.0/GPW_2.0_T.jwpub)
-* **Released**: [2024-06-25](CHANGELOG.md/#gpw_20---2024-06-25)
+* **Latest release**: *GPW_3.0.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/GPW_3.0/GPW_3.0_CV.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/GPW_3.0/GPW_3.0_E.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/GPW_3.0/GPW_3.0_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/GPW_3.0/GPW_3.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/GPW_3.0/GPW_3.0_S.jwpub)
+* **Released**: [2024-07-01](CHANGELOG.md/#gpw_30---2024-07-01)
 * **Note**: Because of the advanced functional implementation,  search and annotations in (most sections of) this publication have been disabled. If you spot any discrepancies or can suggest prophecies that have not been included and should be, please see [wiki page](https://github.com/erykjj/jwpublib/wiki/GPW-Events) and [submit an issue](https://github.com/erykjj/jwpublib/issues).
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/issues/42).
 
