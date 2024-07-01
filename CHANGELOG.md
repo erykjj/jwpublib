@@ -8,14 +8,6 @@
 
 ### **GPW**: God's Prophetic Word
 
-- minor spelling corrections
-- minor display adjustments
-- added more prophecies
-- added another category
-- available in additional languages:
-  - **Polish** (thank you @LukaKru & @Goykew)
-  - **Cebuano** (thank you @chessurisme)
-
 ### **Jph**: *The Works of Flavius Josephus*
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
@@ -27,6 +19,16 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [GPW_3.0] - 2024-07-01
+
+- minor spelling corrections
+- minor display adjustments
+- added more prophecies
+- added another category
+- available in additional languages:
+  - **Polish** (thank you @LukaKru & @Goykew)
+  - **Cebuano** (thank you @chessurisme)
+
 ## [KJS_4.0] - 2024-06-30
 
 - fixes of inconsistencies on iDevices
@@ -410,6 +412,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[GPW_3.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_3.0
 [KJS_4.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_4.0
 [VED_4.0]:https://github.com/erykjj/jwpublib/releases/tag/VED_4.0
 [Str_4.0]:https://github.com/erykjj/jwpublib/releases/tag/Str_4.0
