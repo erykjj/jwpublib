@@ -14,6 +14,7 @@
 - added another category
 - available in additional languages:
   - **Polish** (thank you @LukaKru & @Goykew)
+  - **Cebuano** (thank you @chessurisme)
 
 ### **Jph**: *The Works of Flavius Josephus*
 
