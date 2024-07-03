@@ -42,7 +42,7 @@ ____
 * **Description**: A compilation of Bible prophecies *with fulfillment registered in the Scriptures*
 * **Latest release**: *GPW_3.0.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/GPW_3.0/GPW_3.0_CV.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/GPW_3.0/GPW_3.0_E.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/GPW_3.0/GPW_3.0_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/GPW_3.0/GPW_3.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/GPW_3.0/GPW_3.0_S.jwpub)
 * **Released**: [2024-07-01](CHANGELOG.md/#gpw_30---2024-07-01)
-* **Note**: Because of the advanced functional implementation,  search and annotations in (most sections of) this publication have been disabled. If you spot any discrepancies or can suggest prophecies that have not been included and should be, please see [wiki page](https://github.com/erykjj/jwpublib/wiki/GPW-Events) and [submit an issue](https://github.com/erykjj/jwpublib/issues).
+* **Note**: Because of the advanced functional implementation,  search and annotations in (most sections of) this publication have been disabled. If you spot any discrepancies or can suggest prophecies that have not been included and should be, please do so [here](https://github.com/erykjj/jwpublib/issues/45).
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/issues/42).
 
 ____
