@@ -8,6 +8,8 @@
 
 ### **GPW**: God's Prophetic Word
 
+- add missing color definition (minor)
+
 ### **Jph**: *The Works of Flavius Josephus*
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
@@ -15,6 +17,8 @@
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
 ### **TBH**: Timeline of Bible History
+
+* minor accuracy corrections
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
