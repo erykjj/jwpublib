@@ -14,11 +14,11 @@ ____
 ____
 ## Bookshelf
 * [Bible Reading Schedules](#bible-reading-schedules-)
-* [God's Prophetic Word](#gods-prophetic-word-)   **UPDATE**
+* [God's Prophetic Word](#gods-prophetic-word-)
 * [Timeline of Bible History](#timeline-of-bible-history-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATE**
-* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)   **UPDATE**
-* [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)   **UPDATE**
+* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
+* [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)
 * [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)
 
 ____
