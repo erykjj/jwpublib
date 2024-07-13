@@ -21,6 +21,7 @@
 ### **TBH**: Timeline of Bible History
 
 - minor accuracy corrections
+- added some more events
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
