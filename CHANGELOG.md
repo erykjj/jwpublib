@@ -9,6 +9,8 @@
 ### **GPW**: God's Prophetic Word
 
 - add missing color definition (minor)
+- some category assignment changes
+- minor accuracy corrections
 
 ### **Jph**: *The Works of Flavius Josephus*
 
@@ -18,7 +20,7 @@
 
 ### **TBH**: Timeline of Bible History
 
-* minor accuracy corrections
+- minor accuracy corrections
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
