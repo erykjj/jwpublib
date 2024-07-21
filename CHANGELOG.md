@@ -8,10 +8,6 @@
 
 ### **GPW**: God's Prophetic Word
 
-- add missing color definition (minor)
-- some category assignment changes
-- minor accuracy corrections
-
 ### **Jph**: *The Works of Flavius Josephus*
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
@@ -26,6 +22,13 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [GPW_4.0] - 2024-07-21
+
+- added **more prophecies**
+- fixed missing color definition (minor)
+- some category assignment changes
+- minor accuracy corrections
+
 ## [GPW_3.0] - 2024-07-01
 
 - minor spelling corrections
@@ -419,6 +422,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[GPW_4.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_4.0
 [GPW_3.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_3.0
 [KJS_4.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_4.0
 [VED_4.0]:https://github.com/erykjj/jwpublib/releases/tag/VED_4.0
