@@ -8,13 +8,13 @@ Simply download and **tap/double-click the downloaded file** (on Windows, you ca
 
 These publications ***will not* update** automatically. You will need to check for updates here, and if a newer release is available, download and install it.
 
-The material provided here is ***not* copyrighted**; it is in the **Public Domain**. However, the production code/methods ***cannot* be shared**; the same goes for the source material — you can find it all online. Thanks for understanding and for not insisting.
+The material provided here is ***not* copyrighted**; it is in the **Public Domain**. However, the production code/methods ***cannot* be shared**; the same goes for the source material. Thanks for understanding and for not insisting.
 
 ____
 ____
 ## Bookshelf
 * [Bible Reading Schedules](#bible-reading-schedules-)
-* [God's Prophetic Word](#gods-prophetic-word-)
+* [God's Prophetic Word](#gods-prophetic-word-)   **UPDATE**
 * [Timeline of Bible History](#timeline-of-bible-history-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
@@ -31,7 +31,7 @@ ____
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
 * **Latest release**: *BRS_3.2.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_CV.jwpub), [Chinese (simplified)](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_CHS.jwpub), [Danish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_D.jwpub), [Dutch](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_O.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_F.jwpub), [German](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_X.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2a_I.jwpub), [Hungarian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2a_H.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2a_I.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_T.jwpub), [Russian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_U.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_S.jwpub), [Tagalog](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_TG.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_K.jwpub)
 * **Released**: [2024-03-13](CHANGELOG.md/#brs_32---2024-03-13)
-* **Traslations**: Let me know if you would like this in another language or if you notice any errors in the current translations. See [here](https://github.com/erykjj/jwpublib/wiki/BRS-Translation) for strings that need to be translated.
+* **Traslations**: Let me know if you would like this in another language or if you notice any errors in the current translations. See [here](https://github.com/erykjj/jwpublib/wiki/BRS-Translation) for strings that need to be translated
 
 ____
 ## God's Prophetic Word [⇧](#bookshelf)
@@ -40,10 +40,10 @@ ____
 ![preview on Android](screenshots/GPW.gif)
 
 * **Description**: A compilation of Bible prophecies *with fulfillment registered in the Scriptures*
-* **Latest release**: *GPW_3.0.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/GPW_3.0/GPW_3.0_CV.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/GPW_3.0/GPW_3.0_E.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/GPW_3.0/GPW_3.0_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/GPW_3.0/GPW_3.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/GPW_3.0/GPW_3.0_S.jwpub)
-* **Released**: [2024-07-01](CHANGELOG.md/#gpw_30---2024-07-01)
-* **Note**: Because of the advanced functional implementation,  search and annotations in (most sections of) this publication have been disabled. If you spot any discrepancies or can suggest prophecies that have not been included and should be, please do so [here](https://github.com/erykjj/jwpublib/issues/45).
-* **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/issues/42).
+* **Latest release**: *GPW_4.0.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_CV.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_E.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_S.jwpub)
+* **Released**: [2024-07-21](CHANGELOG.md/#gpw_40---2024-07-21)
+* **Note**: If you spot any discrepancies or can suggest prophecies that have not been included and should be, please do so [here](https://github.com/erykjj/jwpublib/issues/45)
+* **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/issues/42)
 
 ____
 ## Timeline of Bible History [⇧](#bookshelf)
@@ -54,8 +54,8 @@ ____
 * **Description**: Personal research project: a chronological compilation of events (mostly) related to Bible history
 * **Latest release**: *TBH_8.0.jwpub* - [Danish](https://github.com/erykjj/jwpublib/releases/download/TBH_8.0/TBH_8.0_D.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/TBH_8.0/TBH_8.0_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/TBH_8.0/TBH_8.0_F.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/TBH_8.0/TBH_8.0_S.jwpub)
 * **Released**: [2024-06-25](CHANGELOG.md/#tbh_80---2024-06-25)
-* **Note**: Tapping on a year in any of the thematic timelines, will give you an overview of the whole year in the side/study pane; tapping on a kindgom or region tag will take you to the corresponding thematic timeline; and tapping the name of a Hebrew month, will point you to more information. Keep in mind that if you annotate in any way and a future release includes additional historical events, your notes and highlights will no longer match up.
-* **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/issues/37).
+* **Note**: Tapping on a year in any of the thematic timelines, will give you an overview of the whole year in the side/study pane; tapping on a kindgom or region tag will take you to the corresponding thematic timeline; and tapping the name of a Hebrew month, will point you to more information. Keep in mind that if you annotate in any way and a future release includes additional historical events, your notes and highlights will no longer match up
+* **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/issues/37)
 
 ____
 ## Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* [⇧](#bookshelf)
@@ -86,7 +86,7 @@ ____
 * **Description**: *King James Version* with inline/interlinear links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
 * **Latest releases**: [*KJS_4.0-inline.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.0/KJS_4.0-inline.jwpub) & [*KJS_4.0-interlinear.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.0/KJS_4.0-interlinear.jwpub)
 * **Released**: [2024-06-30](CHANGELOG.md/#kjs_40---2024-06-30)
-* **Note**: The *interlinear* version needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it: *Bible* → *Languages* → *Delete*. The *inline* version can co-exist with the *Kingdom Interlinear* or the *KJS-interlinear*. Add to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries.
+* **Note**: The *interlinear* version needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it: *Bible* → *Languages* → *Delete*. The *inline* version can co-exist with the *Kingdom Interlinear* or the *KJS-interlinear*. Add to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries
 
 ![versions](screenshots/KJS-versions.png)
 
@@ -112,4 +112,4 @@ ____
 ⠗⠑⠑⠝⠊⠛⠝⠑
 
 #### Footnotes:
-[^1]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.
+[^1]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*
