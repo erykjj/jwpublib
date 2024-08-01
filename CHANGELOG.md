@@ -2,6 +2,16 @@
 
 ## UNRELEASED
 
+### **BaM**: Who Wants to Be a Missionary?
+
+- initial release
+- translations:
+  - **Cebuano** (thank you, @chessurisme)
+  - **Danish** (thank you, @JohnDoeDK)
+  - **Portuguese** (thank you, @BokuWaRamirezDa)
+  - **Polish** (thank you, @Goykew)
+  - **Spanish**
+
 ### **BRS**: Bible Reading Schedules
 
 - minor translation corrections
