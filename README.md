@@ -16,6 +16,7 @@ ____
 * [Bible Reading Schedules](#bible-reading-schedules-)
 * [God's Prophetic Word](#gods-prophetic-word-)
 * [Timeline of Bible History](#timeline-of-bible-history-)
+* [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)   **SOON**
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
 * [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)
@@ -56,6 +57,15 @@ ____
 * **Released**: [2024-06-25](CHANGELOG.md/#tbh_80---2024-06-25)
 * **Note**: Tapping on a year in any of the thematic timelines, will give you an overview of the whole year in the side/study pane; tapping on a kindgom or region tag will take you to the corresponding thematic timeline; and tapping the name of a Hebrew month, will point you to more information. Keep in mind that if you annotate in any way and a future release includes additional historical events, your notes and highlights will no longer match up
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/issues/37)
+
+____
+## Who Wants to Be a Missionary? [⇧](#bookshelf)
+<img src="screenshots/BaM.png" width="100px">
+
+* **Description**: A quiz game to test your knowledge of the Scriptures — and to improve it while having fun
+* **Latest release**: In preparation
+* **Released**: Soon
+* **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/issues/47)
 
 ____
 ## Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* [⇧](#bookshelf)
