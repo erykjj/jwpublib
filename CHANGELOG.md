@@ -4,13 +4,8 @@
 
 ### **BaM**: Who Wants to Be a Missionary?
 
-- initial release
 - translations:
-  - **Cebuano** (thank you, @chessurisme)
-  - **Danish** (thank you, @JohnDoeDK)
-  - **Portuguese** (thank you, @BokuWaRamirezDa)
   - **Polish** (thank you, @Goykew)
-  - **Spanish**
 
 ### **BRS**: Bible Reading Schedules
 
@@ -32,6 +27,15 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [BaM_1.0] - 2024-08-05
+
+- initial release
+- translations:
+  - **Cebuano** (thank you, @chessurisme)
+  - **Danish** (thank you, @JohnDoeDK)
+  - **Portuguese** (thank you, @BokuWaRamirezDa)
+  - **Spanish**
+
 ## [GPW_4.0] - 2024-07-21
 
 - added **more prophecies**
@@ -432,6 +436,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BaM_1.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_1.0
 [GPW_4.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_4.0
 [GPW_3.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_3.0
 [KJS_4.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_4.0
