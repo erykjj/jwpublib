@@ -6,7 +6,11 @@
 
 - added more scriptures
 - translations:
+  - **Chinese**
+  - **French** (thank you, @shonind)
+  - **Italian** (thank you, @ferrarantonio and @andy5489)
   - **Polish** (thank you, @Goykew)
+  - **Russian**
 
 ### **BRS**: Bible Reading Schedules
 
