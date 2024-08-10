@@ -4,8 +4,9 @@
 
 ### **BaM**: Who Wants to Be a Missionary?
 
-- added more scriptures
-- translations:
+- added many more scriptures
+- improved random distribution
+- additional translations:
   - **Chinese**
   - **French** (thank you, @shonind)
   - **Italian** (thank you, @ferrarantonio and @andy5489)
