@@ -28,6 +28,10 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [BaM_2.1] - 2024-08-13
+
+- minor bug fixes
+
 ## [BaM_2.0] - 2024-08-13
 
 - added many more scriptures
@@ -448,6 +452,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BaM_2.1]:https://github.com/erykjj/jwpublib/releases/tag/BaM_2.1
 [BaM_2.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_2.0
 [BaM_1.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_1.0
 [GPW_4.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_4.0
