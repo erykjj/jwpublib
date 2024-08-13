@@ -63,8 +63,8 @@ ____
 <img src="screenshots/BaM.png" width="100px">
 
 * **Description**: A quiz game to test your knowledge of the Scriptures — and to improve it while having fun
-* **Latest release**: *BaM_2.0.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_CV.jwpub), [Chinese (simplified)](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_CHS.jwpub), [Danish](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_D.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_F.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_I.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_T.jwpub), [Russian](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_U.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_S.jwpub)
-* **Released**: [2024-08-13](CHANGELOG.md/#bam_20---2024-08-13)
+* **Latest release**: *BaM_2.1.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_CV.jwpub), [Chinese (simplified)](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_CHS.jwpub), [Danish](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_D.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_F.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_I.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_T.jwpub), [Russian](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_U.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_S.jwpub)
+* **Released**: [2024-08-13](CHANGELOG.md/#bam_21---2024-08-13)
 * **Note**: All games have been reshuffled
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/issues/47)
 
