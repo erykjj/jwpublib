@@ -16,7 +16,7 @@ ____
 * [Bible Reading Schedules](#bible-reading-schedules-)
 * [God's Prophetic Word](#gods-prophetic-word-)
 * [Timeline of Bible History](#timeline-of-bible-history-)
-* [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)   **NEW**
+* [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)   **UPDATED**
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
 * [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)
@@ -63,8 +63,9 @@ ____
 <img src="screenshots/BaM.png" width="100px">
 
 * **Description**: A quiz game to test your knowledge of the Scriptures — and to improve it while having fun
-* **Latest release**: *BaM_1.0.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BaM_1.0/BaM_1.0_CV.jwpub), [Danish](https://github.com/erykjj/jwpublib/releases/download/BaM_1.0/BaM_1.0_D.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BaM_1.0/BaM_1.0_E.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BaM_1.0/BaM_1.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BaM_1.0/BaM_1.0_S.jwpub)
-* **Released**: [2024-08-05](CHANGELOG.md/#bam_10---2024-08-05)
+* **Latest release**: *BaM_2.0.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_CV.jwpub), [Chinese (simplified)](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_CHS.jwpub), [Danish](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_D.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_F.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_I.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_T.jwpub), [Russian](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_U.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BaM_2.0/BaM_2.0_S.jwpub)
+* **Released**: [2024-08-13](CHANGELOG.md/#bam_20---2024-08-13)
+* **Note**: All games have been reshuffled
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/issues/47)
 
 ____
