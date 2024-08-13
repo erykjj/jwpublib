@@ -32,6 +32,7 @@ ____
 
 - added many more scriptures
 - improved random distribution
+- translation corrections
 - additional translations:
   - **Chinese** (thank you, omt71 & 韩明)
   - **French** (thank you, @shonind)
