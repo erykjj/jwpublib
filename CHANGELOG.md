@@ -11,6 +11,8 @@
 ### **BRS**: Bible Reading Schedules
 
 - minor translation corrections
+- additional translations:
+  - **Korean**
 
 ### **GPW**: God's Prophetic Word
 
