@@ -102,6 +102,14 @@ ____
 ![versions](screenshots/KJS-versions.png)
 
 ____
+## *Faith on the March* [⇧](#bookshelf)
+<img src="screenshots/Faith.jpg" width="100px">
+
+* **Description**: By A. H. Macmillan; originally published in 1957
+* **Latest release**: N/A
+* **Released**: Soon
+
+____
 ## *The Works of Flavius Josephus* [⇧](#bookshelf)
 <img src="screenshots/Jph.png" width="100px">
 
