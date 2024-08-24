@@ -16,7 +16,7 @@
 
 ### **Fth**: Faith on the March
 
-- preparing source
+- proofreading
 
 ### **GPW**: God's Prophetic Word
 
