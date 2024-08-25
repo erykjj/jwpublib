@@ -16,7 +16,7 @@
 
 ### **Fth**: Faith on the March
 
-- proofreading
+- proofreading (thank you, @NewTasana)
 
 ### **GPW**: God's Prophetic Word
 
