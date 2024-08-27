@@ -12,7 +12,7 @@
 
 - minor translation corrections
 - additional translations:
-  - **Korean**
+  - **Korean** (thank you, @kaniza459)
 
 ### **Fth**: Faith on the March
 
