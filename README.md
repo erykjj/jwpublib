@@ -27,7 +27,6 @@ ____
 <img src="screenshots/BRS.png" width="100px">
 
 ![preview on Android](screenshots/BRSA.gif)
-![preview on Windows](screenshots/BRSW.gif)
 
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
 * **Latest release**: *BRS_3.2.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_CV.jwpub), [Chinese (simplified)](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_CHS.jwpub), [Danish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_D.jwpub), [Dutch](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_O.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_F.jwpub), [German](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_X.jwpub), [Hungarian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2a_H.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2a_I.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_T.jwpub), [Russian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_U.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_S.jwpub), [Tagalog](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_TG.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_K.jwpub)
@@ -43,7 +42,7 @@ ____
 * **Description**: A compilation of Bible prophecies *with fulfillment registered in the Scriptures*
 * **Latest release**: *GPW_4.0.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_CV.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_E.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_S.jwpub)
 * **Released**: [2024-07-21](CHANGELOG.md/#gpw_40---2024-07-21)
-* **Note**: If you spot any discrepancies or can suggest prophecies that have not been included and should be, please do so [here](https://github.com/erykjj/jwpublib/issues/45)
+* **Note**: Ensure your JW Library app is up-to-date. If you spot any discrepancies or can suggest prophecies that have not been included and should be, please do so [here](https://github.com/erykjj/jwpublib/issues/45)
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/issues/42)
 
 ____
@@ -65,7 +64,7 @@ ____
 * **Description**: A quiz game to test your knowledge of the Scriptures — and to improve it while having fun
 * **Latest release**: *BaM_2.1.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_CV.jwpub), [Chinese (simplified)](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_CHS.jwpub), [Danish](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_D.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_F.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_I.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_T.jwpub), [Russian](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_U.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BaM_2.1/BaM_2.1_S.jwpub)
 * **Released**: [2024-08-13](CHANGELOG.md/#bam_21---2024-08-13)
-* **Note**: All games have been reshuffled
+* **Note**: Ensure your JW Library app is up-to-date
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/issues/47)
 
 ____
