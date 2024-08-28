@@ -4,6 +4,7 @@
 
 ### **BaM**: Who Wants to Be a Missionary?
 
+- added more scriptures
 - additional translations:
   - **Polish** (thank you, @Goykew)
   - **Tagalog**
