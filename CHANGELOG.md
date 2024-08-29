@@ -8,6 +8,8 @@
 - additional translations:
   - **Polish** (thank you, @Goykew)
   - **Tagalog**
+- additional translations:
+  - **Ukrainian** (thank you, @korotkiyYurii)
 
 ### **BRS**: Bible Reading Schedules
 
@@ -29,15 +31,17 @@
 
 ### **TBH**: Timeline of Bible History
 
+### **VED**: Vine's *Expository Dictionary of New Testament Words*
+
+____
+## [TBH_9.0] - 2024-08-29
+
 - minor accuracy corrections
 - added some more events
 - adjusted some event categories
 - additional translations:
   - **Ukrainian** (thank you, @korotkiyYurii)
 
-### **VED**: Vine's *Expository Dictionary of New Testament Words*
-
-____
 ## [BaM_2.1] - 2024-08-13
 
 - minor bug fixes
@@ -462,6 +466,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[TBH_9.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_9.0
 [BaM_2.1]:https://github.com/erykjj/jwpublib/releases/tag/BaM_2.1
 [BaM_2.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_2.0
 [BaM_1.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_1.0
