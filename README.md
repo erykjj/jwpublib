@@ -15,7 +15,7 @@ ____
 ## Bookshelf
 * [Bible Reading Schedules](#bible-reading-schedules-)
 * [God's Prophetic Word](#gods-prophetic-word-)
-* [Timeline of Bible History](#timeline-of-bible-history-)
+* [Timeline of Bible History](#timeline-of-bible-history-)   **UPDATE**
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
@@ -51,9 +51,9 @@ ____
 
 ![preview on Android](screenshots/TBH.gif)
 
-* **Description**: Personal research project: a chronological compilation of events (mostly) related to Bible history
-* **Latest release**: *TBH_8.0.jwpub* - [Danish](https://github.com/erykjj/jwpublib/releases/download/TBH_8.0/TBH_8.0_D.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/TBH_8.0/TBH_8.0_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/TBH_8.0/TBH_8.0_F.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/TBH_8.0/TBH_8.0_S.jwpub)
-* **Released**: [2024-06-25](CHANGELOG.md/#tbh_80---2024-06-25)
+* **Description**: A chronological compilation of events (mostly) related to Bible history
+* **Latest release**: *TBH_9.0.jwpub* - [Danish](https://github.com/erykjj/jwpublib/releases/download/TBH_9.0/TBH_9.0_D.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/TBH_9.0/TBH_9.0_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/TBH_9.0/TBH_9.0_F.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/TBH_9.0/TBH_9.0_S.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/TBH_9.0/TBH_9.0_K.jwpub)
+* **Released**: [2024-08-29](CHANGELOG.md/#tbh_90---2024-08-29)
 * **Note**: Tapping on a year in any of the thematic timelines, will give you an overview of the whole year in the side/study pane; tapping on a kindgom or region tag will take you to the corresponding thematic timeline; and tapping the name of a Hebrew month, will point you to more information. Keep in mind that if you annotate in any way and a future release includes additional historical events, your notes and highlights will no longer match up
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/issues/37)
 
