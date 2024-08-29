@@ -31,8 +31,8 @@
 
 - minor accuracy corrections
 - added some more events
+- adjusted some event categories
 - additional translations:
-  - **Russian** (thank you, @korotkiyYurii)
   - **Ukrainian** (thank you, @korotkiyYurii)
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
