@@ -4,12 +4,8 @@
 
 ### **BaM**: Who Wants to Be a Missionary?
 
-- added more scriptures
-- small cosmetic fixes
 - additional translations:
-  - **Polish** (thank you, @Goykew)
   - **Tagalog**
-  - **Ukrainian** (thank you, @korotkiyYurii)
 
 ### **BRS**: Bible Reading Schedules
 
@@ -34,6 +30,15 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [BaM_3.0] - 2024-08-31
+
+- added more scriptures
+  - all games reshuffled
+- small cosmetic fixes
+- additional translations:
+  - **Polish** (thank you, @Goykew)
+  - **Ukrainian** (thank you, @korotkiyYurii)
+
 ## [TBH_9.0] - 2024-08-29
 
 - minor accuracy corrections
@@ -466,6 +471,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BaM_3.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_3.0
 [TBH_9.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_9.0
 [BaM_2.1]:https://github.com/erykjj/jwpublib/releases/tag/BaM_2.1
 [BaM_2.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_2.0
