@@ -5,10 +5,10 @@
 ### **BaM**: Who Wants to Be a Missionary?
 
 - added more scriptures
+- small cosmetic fixes
 - additional translations:
   - **Polish** (thank you, @Goykew)
   - **Tagalog**
-- additional translations:
   - **Ukrainian** (thank you, @korotkiyYurii)
 
 ### **BRS**: Bible Reading Schedules
