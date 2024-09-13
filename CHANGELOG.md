@@ -15,8 +15,6 @@
 
 ### **Fth**: Faith on the March
 
-- proofreading (thank you, @NewTasana)
-
 ### **GPW**: God's Prophetic Word
 
 - additional translations:
@@ -33,6 +31,10 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [Fth_1.0] - 2024-09-12
+
+- initial release
+
 ## [BaM_3.0] - 2024-08-31
 
 - added more scriptures
@@ -474,6 +476,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Fth_1.0]:https://github.com/erykjj/jwpublib/releases/tag/Fth_1.0
 [BaM_3.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_3.0
 [TBH_9.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_9.0
 [BaM_2.1]:https://github.com/erykjj/jwpublib/releases/tag/BaM_2.1
