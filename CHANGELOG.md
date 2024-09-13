@@ -15,6 +15,9 @@
 
 ### **Fth**: Faith on the March
 
+- minor source corrections
+- minor formatting corrections
+
 ### **GPW**: God's Prophetic Word
 
 - additional translations:
