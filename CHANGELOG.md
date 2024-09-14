@@ -31,6 +31,9 @@
 
 ### **TBH**: Timeline of Bible History
 
+- Spanish
+  - various grammatical corrections (thank you @MisaelArciniega)
+
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
