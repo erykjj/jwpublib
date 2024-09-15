@@ -108,6 +108,7 @@ ____
 * **Description**: By A. H. Macmillan; originally published in 1957
 * **Latest release**: [*Fth_1.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/Fth_1.0/Fth_1.0.jwpub)
 * **Released**: [2024-09-12](CHANGELOG.md/#fth_10---2024-09-12)
+* **Note**: Please report any errors [here](https://github.com/erykjj/jwpublib/issues/54).
 
 ____
 ## *The Works of Flavius Josephus* [⇧](#bookshelf)
