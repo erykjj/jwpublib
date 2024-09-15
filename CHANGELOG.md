@@ -15,7 +15,7 @@
 
 ### **Fth**: Faith on the March
 
-- minor source corrections
+- minor source corrections (thank you @MisaelArciniega, @glenmwright)
 - minor formatting corrections
 
 ### **GPW**: God's Prophetic Word
@@ -31,8 +31,9 @@
 
 ### **TBH**: Timeline of Bible History
 
+- minor translation corrections
 - Spanish
-  - various grammatical corrections (thank you @MisaelArciniega, @glenmwright)
+  - various grammatical corrections (thank you @MisaelArciniega)
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
