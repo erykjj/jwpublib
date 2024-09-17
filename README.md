@@ -6,7 +6,7 @@ This is a collection of Bible reference works and study projects packaged as *.j
 
 Simply download and **tap/double-click the downloaded file** (on Windows, you can also drag and drop the file into the "Library" section of the JW Library app). It will appear in the **"Guidelines"** section (*Library* → *DOWNLOADED* → *Guidelines*).
 
-These publications ***will not* update** automatically. You will need to check for updates here, and if a newer release is available, download and install it.
+These publications **will not update** automatically. You will need to check for updates here, and if a newer release is available, download and install it.
 
 The material provided here is **not copyrighted**; it is in the **Public Domain**. However, the production code/methods **cannot be shared**; the same goes for the source material. Thanks for understanding and for not insisting.
 
