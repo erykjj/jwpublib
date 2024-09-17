@@ -20,9 +20,6 @@
 
 ### **GPW**: God's Prophetic Word
 
-- additional translations:
-  - **Ukrainian** (thank you, @korotkiyYurii)
-
 ### **Jph**: *The Works of Flavius Josephus*
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
@@ -89,6 +86,9 @@ ____
 - fixed missing color definition (minor)
 - some category assignment changes
 - minor accuracy corrections
+
+- 2024-09-17
+  - added **Ukrainian** translation (thank you, @korotkiyYurii)
 
 ## [GPW_3.0] - 2024-07-01
 
