@@ -6,12 +6,13 @@
 
 - additional translations:
   - **Tagalog**
-  - **Swedish**
+  - **Swedish** (thank you @Hi-there-how-are-u)
 
 ### **BRS**: Bible Reading Schedules
 
 - minor translation corrections
 - additional translations:
+  - **Swedish** (thank you @Hi-there-how-are-u)
   - **Korean** (thank you, @kaniza459)
 
 ### **Fth**: Faith on the March
