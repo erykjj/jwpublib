@@ -6,6 +6,7 @@
 
 - additional translations:
   - **Tagalog**
+  - **Swedish**
 
 ### **BRS**: Bible Reading Schedules
 
