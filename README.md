@@ -20,7 +20,7 @@ ____
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
 * [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)
-* [*Faith on the March*](#faith-on-the-march-)
+* [*Faith on the March*](#faith-on-the-march-)   **UPDATED**
 * [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)
 
 ____
@@ -106,8 +106,8 @@ ____
 <img src="screenshots/Faith.jpg" width="100px">
 
 * **Description**: By A. H. Macmillan; originally published in 1957
-* **Latest release**: [*Fth_1.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/Fth_1.0/Fth_1.0.jwpub)
-* **Released**: [2024-09-12](CHANGELOG.md/#fth_10---2024-09-12)
+* **Latest release**: [*Fth_2.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/Fth_2.0/Fth_2.0.jwpub)
+* **Released**: [2024-09-19](CHANGELOG.md/#fth_20---2024-09-19)
 * **Note**: Please report any errors [here](https://github.com/erykjj/jwpublib/issues/54)
 
 ____
