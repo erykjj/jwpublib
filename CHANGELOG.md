@@ -15,7 +15,7 @@
 
 ### **Fth**: Faith on the March
 
-- minor source corrections (thank you @MisaelArciniega, @glenmwright)
+- many minor source corrections (thank you @MisaelArciniega, @glenmwright)
 - minor formatting corrections
 
 ### **GPW**: God's Prophetic Word
