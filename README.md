@@ -16,7 +16,7 @@ ____
 * [Bible Reading Schedules](#bible-reading-schedules-)
 * [God's Prophetic Word](#gods-prophetic-word-)   **added UKRAINIAN**
 * [Timeline of Bible History](#timeline-of-bible-history-)
-* [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
+* [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)   **added SWEDISH**
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
 * [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)
@@ -63,7 +63,7 @@ ____
 <img src="screenshots/BaM.png" width="100px">
 
 * **Description**: A quiz game to test your knowledge of the Scriptures — and to improve it while having fun
-* **Latest release**: *BaM_3.0.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_CV.jwpub), [Chinese (simplified)](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_CHS.jwpub), [Danish](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_D.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_F.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_I.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_T.jwpub), [Russian](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_U.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_S.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_K.jwpub)
+* **Latest release**: *BaM_3.0.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_CV.jwpub), [Chinese (simplified)](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_CHS.jwpub), [Danish](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_D.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_F.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_I.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_T.jwpub), [Russian](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_U.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_S.jwpub), [Swedish](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_Z.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_K.jwpub)
 * **Released**: [2024-08-31](CHANGELOG.md/#bam_30---2024-08-31)
 * **Note**: Ensure your JW Library app is up-to-date
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/issues/47)
