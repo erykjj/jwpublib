@@ -15,9 +15,6 @@
 
 ### **Fth**: Faith on the March
 
-- many minor source corrections (thank you @MisaelArciniega, @glenmwright)
-- minor formatting corrections
-
 ### **GPW**: God's Prophetic Word
 
 ### **Jph**: *The Works of Flavius Josephus*
@@ -35,6 +32,11 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [Fth_2.0] - 2024-09-19
+
+- many minor source corrections (thank you @MisaelArciniega, @glenmwright)
+- minor formatting corrections
+
 ## [Fth_1.0] - 2024-09-12
 
 - initial release
@@ -483,6 +485,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Fth_2.0]:https://github.com/erykjj/jwpublib/releases/tag/Fth_2.0
 [Fth_1.0]:https://github.com/erykjj/jwpublib/releases/tag/Fth_1.0
 [BaM_3.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_3.0
 [TBH_9.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_9.0
