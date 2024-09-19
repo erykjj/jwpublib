@@ -6,7 +6,6 @@
 
 - additional translations:
   - **Tagalog**
-  - **Swedish** (thank you @Hi-there-how-are-u)
 
 ### **BRS**: Bible Reading Schedules
 
@@ -51,6 +50,9 @@ ____
 - additional translations:
   - **Polish** (thank you, @Goykew)
   - **Ukrainian** (thank you, @korotkiyYurii)
+
+- 2024-09-19
+  - added **Swedish** translation (thank you @Hi-there-how-are-u)
 
 ## [TBH_9.0] - 2024-08-29
 
