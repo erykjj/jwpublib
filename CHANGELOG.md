@@ -13,7 +13,6 @@
 
 - minor translation corrections
 - additional translations:
-  - **Swedish** (thank you @Hi-there-how-are-u)
   - **Korean** (thank you, @kaniza459)
 
 ### **Fth**: Faith on the March
@@ -216,6 +215,9 @@ ____
 ## [BRS_3.2] - 2024-03-13
 
 - small fix for combined letters (day 35): 1 John 1 moved to day 45
+
+- 2024-09-21
+  - added **Swedish** translation (thank you @Hi-there-how-are-u)
 
 ## [TBH_5.0] - 2024-02-27
 
