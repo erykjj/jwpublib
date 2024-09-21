@@ -13,8 +13,8 @@ The material provided here is **not copyrighted**; it is in the **Public Domain*
 ____
 ____
 ## Bookshelf
-* [Bible Reading Schedules](#bible-reading-schedules-)
-* [God's Prophetic Word](#gods-prophetic-word-)   **added UKRAINIAN**
+* [Bible Reading Schedules](#bible-reading-schedules-)   **added SWEDISH**
+* [God's Prophetic Word](#gods-prophetic-word-)
 * [Timeline of Bible History](#timeline-of-bible-history-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)   **added SWEDISH**
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
@@ -30,7 +30,7 @@ ____
 ![preview on Android](screenshots/BRSA.gif)
 
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
-* **Latest release**: *BRS_3.2.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_CV.jwpub), [Chinese (simplified)](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_CHS.jwpub), [Danish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_D.jwpub), [Dutch](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_O.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_F.jwpub), [German](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_X.jwpub), [Hungarian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2a_H.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2a_I.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_T.jwpub), [Russian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_U.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_S.jwpub), [Tagalog](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_TG.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_K.jwpub)
+* **Latest release**: *BRS_3.2.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_CV.jwpub), [Chinese (simplified)](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_CHS.jwpub), [Danish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_D.jwpub), [Dutch](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_O.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_F.jwpub), [German](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_X.jwpub), [Hungarian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2a_H.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2a_I.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_T.jwpub), [Russian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_U.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_S.jwpub), [Swedish](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_Z.jwpub), [Tagalog](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_TG.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/BRS_3.2/BRS_3.2_K.jwpub)
 * **Released**: [2024-03-13](CHANGELOG.md/#brs_32---2024-03-13)
 * **Traslations**: [Let me know](https://github.com/erykjj/jwpublib/issues/21) if you would like this in another language or if you notice any errors in the current translations.
 
