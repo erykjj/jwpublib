@@ -4,6 +4,8 @@
 
 ### **BaM**: Who Wants to Be a Missionary?
 
+- translation corrections:
+  - Swedish (minor)
 - additional translations:
   - **Tagalog**
 
