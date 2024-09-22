@@ -4,6 +4,7 @@
 
 ### **BaM**: Who Wants to Be a Missionary?
 
+- added more scriptures
 - translation corrections:
   - Swedish (minor)
 - additional translations:
