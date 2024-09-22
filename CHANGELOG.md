@@ -11,6 +11,7 @@
 
 ### **BRS**: Bible Reading Schedules
 
+- add **chronological schedules**
 - minor translation corrections
 - additional translations:
   - **Korean** (thank you, @kaniza459)
