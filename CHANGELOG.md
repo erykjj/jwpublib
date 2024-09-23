@@ -21,6 +21,9 @@
 
 ### **GPW**: God's Prophetic Word
 
+- additional translations:
+  - **Swedish** (thank you @Hi-there-how-are-u)
+
 ### **Jph**: *The Works of Flavius Josephus*
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
