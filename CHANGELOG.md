@@ -16,9 +16,6 @@
 
 ### **GPW**: God's Prophetic Word
 
-- additional translations:
-  - **Swedish** (thank you @Hi-there-how-are-u)
-
 ### **Jph**: *The Works of Flavius Josephus*
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
@@ -29,7 +26,7 @@
 
 - minor translation corrections
 - Spanish
-  - various grammatical corrections (thank you @MisaelArciniega)
+  - various grammatical corrections (thank you, @MisaelArciniega)
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
@@ -41,7 +38,7 @@ ____
 
 ## [Fth_2.0] - 2024-09-19
 
-- many minor source corrections (thank you @MisaelArciniega, @glenmwright)
+- many minor source corrections (thank you, @MisaelArciniega & @glenmwright)
 - minor formatting corrections
 
 ## [Fth_1.0] - 2024-09-12
@@ -58,7 +55,7 @@ ____
   - **Ukrainian** (thank you, @korotkiyYurii)
 
 - 2024-09-19
-  - added **Swedish** translation (thank you @Hi-there-how-are-u)
+  - added **Swedish** translation (thank you, @Hi-there-how-are-u)
 
 ## [TBH_9.0] - 2024-08-29
 
@@ -102,6 +99,9 @@ ____
 - 2024-09-17
   - added **Ukrainian** translation (thank you, @korotkiyYurii)
 
+- 2024-09-26
+  - added **Swedish** translation (thank you, @Hi-there-how-are-u)
+
 ## [GPW_3.0] - 2024-07-01
 
 - minor spelling corrections
@@ -109,8 +109,8 @@ ____
 - added more prophecies
 - added another category
 - available in additional languages:
-  - **Polish** (thank you @LukaKru & @Goykew)
-  - **Cebuano** (thank you @chessurisme)
+  - **Polish** (thank you, @LukaKru & @Goykew)
+  - **Cebuano** (thank you, @chessurisme)
 
 ## [KJS_4.0] - 2024-06-30
 
@@ -139,14 +139,14 @@ ____
 
 - minor (attribution) corrections
 - minor description corrections (tenses)
-- added **more prophecies** (thank you @jeremy-j-t)
+- added **more prophecies** (thank you, @jeremy-j-t)
 - added **two more "views"**: by prophet and a timeline
 - included more items in the spans "view"
 - **removed text-area from categories**
   - enabled text selection in the detail to add study notes instead
 - available in additional languages:
-  - **Portuguese** (thank you @BokuWaRamirezDa)
-  - **Spanish** (thank you @MisaelArciniega)
+  - **Portuguese** (thank you, @BokuWaRamirezDa)
+  - **Spanish** (thank you, @MisaelArciniega)
 - new tile images
 - various appearance adjustments
 
@@ -222,7 +222,7 @@ ____
 - small fix for combined letters (day 35): 1 John 1 moved to day 45
 
 - 2024-09-21
-  - added **Swedish** translation (thank you @Hi-there-how-are-u)
+  - added **Swedish** translation (thank you, @Hi-there-how-are-u)
 
 ## [TBH_5.0] - 2024-02-27
 
@@ -233,7 +233,7 @@ ____
 ## [TBH_4.0] - 2024-02-14
 
 - added some **additional events**
-- added **scriptural references** to more events (thank you to @chessurisme)
+- added **scriptural references** to more events (thank you, @chessurisme)
 - adjusted some categories and refined some descriptions
 - adjusted **formatting**:
   - showing start and end ranges for both birth and death year
