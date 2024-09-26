@@ -12,11 +12,6 @@
 
 ### **BRS**: Bible Reading Schedules
 
-- add **chronological schedules**
-- minor translation corrections
-- additional translations:
-  - **Korean** (thank you, @kaniza459)
-
 ### **Fth**: Faith on the March
 
 ### **GPW**: God's Prophetic Word
@@ -39,6 +34,11 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [BRS_4.0] - 2024-09-25
+
+- added **chronological schedules**
+- minor translation corrections
+
 ## [Fth_2.0] - 2024-09-19
 
 - many minor source corrections (thank you @MisaelArciniega, @glenmwright)
@@ -498,6 +498,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BRS_4.0]:https://github.com/erykjj/jwpublib/releases/tag/BRS_4.0
 [Fth_2.0]:https://github.com/erykjj/jwpublib/releases/tag/Fth_2.0
 [Fth_1.0]:https://github.com/erykjj/jwpublib/releases/tag/Fth_1.0
 [BaM_3.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_3.0
