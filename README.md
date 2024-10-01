@@ -14,7 +14,7 @@ ____
 ____
 ## Bookshelf
 * [Bible Reading Schedules](#bible-reading-schedules-)   **UPDATED**
-* [God's Prophetic Word](#gods-prophetic-word-)   **added SWEDISH**
+* [God's Prophetic Word](#gods-prophetic-word-)   **added DANISH**
 * [Timeline of Bible History](#timeline-of-bible-history-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
@@ -42,7 +42,7 @@ ____
 ![preview on Android](screenshots/GPW.gif)
 
 * **Description**: A compilation of Bible prophecies *with fulfillment registered in the Scriptures*
-* **Latest release**: *GPW_4.0.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_CV.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_E.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_S.jwpub),  [Swedish](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_Z.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_K.jwpub)
+* **Latest release**: *GPW_4.0.jwpub* - [Cebuano](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_CV.jwpub), [Danish](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_D.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_E.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_S.jwpub),  [Swedish](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_Z.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/GPW_4.0/GPW_4.0_K.jwpub)
 * **Released**: [2024-07-21](CHANGELOG.md/#gpw_40---2024-07-21)
 * **Note**: Ensure your JW Library app is up-to-date. If you spot any discrepancies or can suggest prophecies that have not been included and should be, please do so [here](https://github.com/erykjj/jwpublib/issues/45)
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/issues/42)
