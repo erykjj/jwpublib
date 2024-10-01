@@ -102,6 +102,9 @@ ____
 - 2024-09-26
   - added **Swedish** translation (thank you, @Hi-there-how-are-u)
 
+- 2024-10-01
+  - added **Danish** translation (thank you, @JohnDoeDK)
+
 ## [GPW_3.0] - 2024-07-01
 
 - minor spelling corrections
