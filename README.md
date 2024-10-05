@@ -129,6 +129,8 @@ Feel free to [get in touch](https://github.com/erykjj/jwpublib/issues) and post 
 
 My other *JW Library* project: [**JWLManager**](https://github.com/erykjj/jwlmanager)
 
+[QR](https://github.com/erykjj/jwpublib "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/BaM_3.0/BaM_3.0_E.jwpub")
+
 ____
 ⠗⠑⠑⠝⠊⠛⠝⠑
 
