@@ -4,9 +4,6 @@
 
 ### **BaM**: Who Wants to Be a Missionary?
 
-- added more scriptures
-- translation corrections:
-  - Swedish (minor)
 - additional translations:
   - **Tagalog**
 
@@ -31,6 +28,12 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [BaM_3.1] - 2024-10-06
+
+- added more scriptures
+- translation corrections:
+  - Swedish (minor)
+
 ## [BRS_4.0] - 2024-09-25
 
 - added **chronological schedules**
@@ -501,6 +504,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BaM_3.1]:https://github.com/erykjj/jwpublib/releases/tag/BaM_3.1
 [BRS_4.0]:https://github.com/erykjj/jwpublib/releases/tag/BRS_4.0
 [Fth_2.0]:https://github.com/erykjj/jwpublib/releases/tag/Fth_2.0
 [Fth_1.0]:https://github.com/erykjj/jwpublib/releases/tag/Fth_1.0
