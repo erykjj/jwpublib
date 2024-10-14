@@ -4,8 +4,9 @@
 
 ### **BaM**: Who Wants to Be a Missionary?
 
+- added more scriptures
 - additional translations:
-  - **Tagalog**
+  - **Tagalog** (thank you, @chessurisme)
 
 ### **BRS**: Bible Reading Schedules
 
@@ -24,6 +25,8 @@
 - minor translation corrections
 - Spanish
   - various grammatical corrections (thank you, @MisaelArciniega)
+- additional translations:
+  - **Portuguese** (thank you, @BokuWaRamirezDa, @Montanhine and @gokusander)
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
