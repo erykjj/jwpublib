@@ -4,10 +4,6 @@
 
 ### **BaM**: Who Wants to Be a Missionary?
 
-- added more scriptures
-- additional translations:
-  - **Tagalog** (thank you, @chessurisme)
-
 ### **BRS**: Bible Reading Schedules
 
 ### **Fth**: Faith on the March
@@ -31,6 +27,14 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [BaM_4.0] - 2024-10-16
+
+- added more scriptures
+- increased number of games to increase scripture repetition frequency
+  - all games reshuffled
+- additional translations:
+  - **Tagalog** (thank you, @chessurisme)
+
 ## [BaM_3.1] - 2024-10-06
 
 - added more scriptures
@@ -507,6 +511,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BaM_4.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_4.0
 [BaM_3.1]:https://github.com/erykjj/jwpublib/releases/tag/BaM_3.1
 [BRS_4.0]:https://github.com/erykjj/jwpublib/releases/tag/BRS_4.0
 [Fth_2.0]:https://github.com/erykjj/jwpublib/releases/tag/Fth_2.0
