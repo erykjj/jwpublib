@@ -4,6 +4,8 @@
 
 ### **BaM**: Who Wants to Be a Missionary?
 
+- added more Scriptures
+
 ### **BRS**: Bible Reading Schedules
 
 ### **Fth**: Faith on the March
