@@ -37,6 +37,9 @@ ____
 - additional translations:
   - **Tagalog** (thank you, @chessurisme)
 
+- 2024-10-27
+  - added **Dutch** translation (thank you, @TomVanReeth)
+
 ## [BaM_3.1] - 2024-10-06
 
 - added more scriptures
