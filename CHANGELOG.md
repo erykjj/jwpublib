@@ -24,7 +24,7 @@
 - Spanish
   - various grammatical corrections (thank you, @MisaelArciniega)
 - additional translations:
-  - **Portuguese** (thank you, @BokuWaRamirezDa, @Montanhine and @gokusander)
+  - **Portuguese** (thank you, @Montanhine and @gokusander, and especially @BokuWaRamirezDa)
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
