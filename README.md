@@ -19,7 +19,7 @@ ____
 * [God's Prophetic Word](#gods-prophetic-word-)
 * [Timeline of Bible History](#timeline-of-bible-history-)   **UPDATED**
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)   **Added DUTCH**
-* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
+* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
 * [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)
 * [*Faith on the March*](#faith-on-the-march-)
@@ -78,8 +78,8 @@ ____
 ![preview](screenshots/Str.gif)
 
 * **Description**: Hebrew and Greek dictionaries and concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words))
-* **Latest release**: [*Str_4.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/Str_4.0/Str_4.0.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_4.0/Str_4.0.jwpub))
-* **Released**: [2024-06-30](CHANGELOG.md/#str_40---2024-06-30)
+* **Latest release**: [*Str_4.1.jwpub*](https://github.com/erykjj/jwpublib/releases/download/Str_4.1/Str_4.1.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_4.1/Str_4.1.jwpub))
+* **Released**: [2024-10-28](CHANGELOG.md/#str_41---2024-10-28)
 
 ____
 ## Vine's *Expository Dictionary of New Testament Words* [⇧](#bookshelf)
