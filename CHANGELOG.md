@@ -21,14 +21,16 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
-- small formatting adjustments
-- adjusted tile image
-
 ### **TBH**: Timeline of Bible History
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [Str_4.1] - 2024-10-28
+
+- small formatting adjustments
+- adjusted tile image
+
 ## [TBH_9.1] - 2024-10-27
 
 - minor translation corrections
@@ -524,6 +526,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Str_4.1]:https://github.com/erykjj/jwpublib/releases/tag/Str_4.1
 [TBH_9.1]:https://github.com/erykjj/jwpublib/releases/tag/TBH_9.1
 [BaM_4.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_4.0
 [BaM_3.1]:https://github.com/erykjj/jwpublib/releases/tag/BaM_3.1
