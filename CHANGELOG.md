@@ -16,7 +16,13 @@
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
 
+- small formatting adjustments
+- adjusted tile image
+
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
+
+- small formatting adjustments
+- adjusted tile image
 
 ### **TBH**: Timeline of Bible History
 
