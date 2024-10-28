@@ -23,6 +23,10 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [KJS_4.2] - 2024-10-29
+
+- fixed missing tile image
+
 ## [KJS_4.1] - 2024-10-28
 
 - small formatting adjustments
@@ -528,6 +532,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[KJS_4.2]:https://github.com/erykjj/jwpublib/releases/tag/KJS_4.2
 [KJS_4.1]:https://github.com/erykjj/jwpublib/releases/tag/KJS_4.1
 [Str_4.1]:https://github.com/erykjj/jwpublib/releases/tag/Str_4.1
 [TBH_9.1]:https://github.com/erykjj/jwpublib/releases/tag/TBH_9.1
