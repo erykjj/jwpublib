@@ -77,8 +77,8 @@ ____
 
 ![preview](screenshots/Str.gif)
 
-* **Description**: Hebrew and Greek dictionaries and concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words))
-* **Latest release**: [*Str_4.1.jwpub*](https://github.com/erykjj/jwpublib/releases/download/Str_4.1/Str_4.1.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_4.1/Str_4.1.jwpub))
+* **Description**: Hebrew and Greek dictionaries and concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words)
+* **Latest release**: [*Str_4.1.jwpub*](https://github.com/erykjj/jwpublib/releases/download/Str_4.1/Str_4.1.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_4.1/Str_4.1.jwpub)
 * **Released**: [2024-10-28](CHANGELOG.md/#str_41---2024-10-28)
 
 ____
@@ -87,8 +87,8 @@ ____
 
 ![preview](screenshots/VED.gif)
 
-* **Description**: More extensive Greek dictionary (with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament))
-* **Latest release**: [*VED_4.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/VED_4.0/VED_4.0.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/VED_4.0/VED_4.0.jwpub))
+* **Description**: More extensive Greek dictionary (with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
+* **Latest release**: [*VED_4.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/VED_4.0/VED_4.0.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/VED_4.0/VED_4.0.jwpub)
 * **Released**: [2024-06-30](CHANGELOG.md/#ved_40---2024-06-30)
 
 ____
@@ -98,7 +98,7 @@ ____
 ![preview](screenshots/KJS.gif)
 
 * **Description**: *King James Version* with inline/interlinear links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
-* **Latest releases**: [*KJS_4.1-inline.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.1/KJS_4.1-inline.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_4.1/KJS_4.1-inline.jwpub)) & [*KJS_4.1-interlinear.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.1/KJS_4.1-interlinear.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_4.1/KJS_4.1-interlinear.jwpub))
+* **Latest releases**: [*KJS_4.1-inline.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.1/KJS_4.1-inline.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_4.1/KJS_4.1-inline.jwpub) & [*KJS_4.1-interlinear.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.1/KJS_4.1-interlinear.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_4.1/KJS_4.1-interlinear.jwpub)
 * **Released**: [2024-10-28](CHANGELOG.md/#kjs_41---2024-10-28)
 * **Note**: The *interlinear* version needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it: *Bible* → *Languages* → *Delete*. The *inline* version can co-exist with the *Kingdom Interlinear* or the *KJS-interlinear*. Add to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries
 
@@ -109,7 +109,7 @@ ____
 <img src="screenshots/Faith.jpg" width="100px">
 
 * **Description**: By A. H. Macmillan; originally published in 1957
-* **Latest release**: [*Fth_2.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/Fth_2.0/Fth_2.0.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Fth_2.0/Fth_2.0.jwpub))
+* **Latest release**: [*Fth_2.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/Fth_2.0/Fth_2.0.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Fth_2.0/Fth_2.0.jwpub)
 * **Released**: [2024-09-19](CHANGELOG.md/#fth_20---2024-09-19)
 * **Note**: Please report any errors [here](https://github.com/erykjj/jwpublib/issues/54)
 
@@ -120,7 +120,7 @@ ____
 ![preview](screenshots/Jph.gif)
 
 * **Description**: *Antiquities of the Jews*, *Jewish War* and *The Life of Flavius Josephus*
-* **Latest release**: [*Jph_1.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/Jph_1.0/Jph_1.0.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Jph_1.0/Jph_1.0.jwpub))
+* **Latest release**: [*Jph_1.0.jwpub*](https://github.com/erykjj/jwpublib/releases/download/Jph_1.0/Jph_1.0.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Jph_1.0/Jph_1.0.jwpub)
 * **Released**: [2024-03-13](CHANGELOG.md/#jph_10---2024-03-13)
 
 ____
