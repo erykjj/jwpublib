@@ -98,8 +98,8 @@ ____
 ![preview](screenshots/KJS.gif)
 
 * **Description**: *King James Version* with inline/interlinear links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
-* **Latest releases**: [*KJS_4.1-inline.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.1/KJS_4.1-inline.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_4.1/KJS_4.1-inline.jwpub) & [*KJS_4.1-interlinear.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.1/KJS_4.1-interlinear.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_4.1/KJS_4.1-interlinear.jwpub)
-* **Released**: [2024-10-28](CHANGELOG.md/#kjs_41---2024-10-28)
+* **Latest releases**: [*KJS_4.2-inline.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.2/KJS_4.2-inline.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_4.2/KJS_4.2-inline.jwpub) & [*KJS_4.2-interlinear.jwpub*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.2/KJS_4.2-interlinear.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_4.2/KJS_4.2-interlinear.jwpub)
+* **Released**: [2024-10-29](CHANGELOG.md/#kjs_42---2024-10-29)
 * **Note**: The *interlinear* version needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it: *Bible* → *Languages* → *Delete*. The *inline* version can co-exist with the *Kingdom Interlinear* or the *KJS-interlinear*. Add to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries
 
 ![versions](screenshots/KJS-versions.png)
