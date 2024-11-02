@@ -20,6 +20,8 @@
 
 ### **TBH**: Timeline of Bible History
 
+- various Spanish translation corrections (thank you, @MisaelArciniega)
+
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
