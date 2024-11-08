@@ -8,6 +8,8 @@
 
 ### **BRS**: Bible Reading Schedules
 
+- added **Ewe** (thank you, @Atsuson)
+
 ### **Fth**: Faith on the March
 
 ### **GPW**: God's Prophetic Word
@@ -73,6 +75,9 @@ ____
 
 - added **chronological schedules**
 - minor translation corrections
+
+- 2024-11-08
+  - added **Korean** (thank you, @whwhdtk5689 & @kaniza459)
 
 ## [Fth_2.0] - 2024-09-19
 
