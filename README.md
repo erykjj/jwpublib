@@ -15,9 +15,9 @@ These publications **will not update** automatically. You will need to check for
 ____
 ____
 ## Bookshelf
-* [Bible Reading Schedules](#bible-reading-schedules-)   **Added KOREAN**
+* [Bible Reading Schedules](#bible-reading-schedules-)
 * [God's Prophetic Word](#gods-prophetic-word-)
-* [Timeline of Bible History](#timeline-of-bible-history-)   **Updated SPANISH**
+* [Timeline of Bible History](#timeline-of-bible-history-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
@@ -98,8 +98,8 @@ ____
 ![preview](screenshots/KJS.gif)
 
 * **Description**: *King James Version* with inline/interlinear links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
-* **Latest [release](https://github.com/erykjj/jwpublib/releases/tag/KJS_4.3)**: [*KJS_4.3-inline*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.3/KJS_4.3-inline.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_4.3/KJS_4.3-inline.jwpub) & [*KJS_4.3-interlinear*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.3/KJS_4.3-interlinear.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_4.3/KJS_4.3-interlinear.jwpub)
-* **Released**: [2024-11-04](CHANGELOG.md/#kjs_43---2024-11-04)
+* **Latest [release](https://github.com/erykjj/jwpublib/releases/tag/KJS_4.4)**: [*KJS_4.4-inline*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.4/KJS_4.4-inline.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_4.4/KJS_4.4-inline.jwpub) & [*KJS_4.4-interlinear*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.4/KJS_4.4-interlinear.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_4.4/KJS_4.4-interlinear.jwpub)
+* **Released**: [2024-11-13](CHANGELOG.md/#kjs_44---2024-11-13)
 * **Note**: The *interlinear* version needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it: *Bible* → *Languages* → *Delete*. The *inline* version can co-exist with the *Kingdom Interlinear* or the *KJS-interlinear*. Add to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries
 
 ![versions](screenshots/KJS-versions.png)
