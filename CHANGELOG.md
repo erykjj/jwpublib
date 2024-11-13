@@ -18,6 +18,8 @@
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
 
+- Changed tile image (again) to something nicer
+
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
 ### **TBH**: Timeline of Bible History
