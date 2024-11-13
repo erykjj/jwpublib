@@ -18,8 +18,6 @@
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
 
-- Changed tile image (again) to something nicer
-
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
 ### **TBH**: Timeline of Bible History
@@ -27,6 +25,10 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [KJS_4.4] - 2024-11-13
+
+- Changed tile image (again) to something nicer
+
 ## [KJS_4.3] - 2024-11-04
 
 - replaced tile image
@@ -546,6 +548,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[KJS_4.4]:https://github.com/erykjj/jwpublib/releases/tag/KJS_4.4
 [KJS_4.3]:https://github.com/erykjj/jwpublib/releases/tag/KJS_4.3
 [KJS_4.2]:https://github.com/erykjj/jwpublib/releases/tag/KJS_4.2
 [KJS_4.1]:https://github.com/erykjj/jwpublib/releases/tag/KJS_4.1
