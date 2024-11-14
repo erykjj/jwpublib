@@ -28,7 +28,7 @@ ____
 * [*Faith on the March*](#faith-on-the-march-)
 * [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)
 
-__
+____
 ## Bible Reading Schedules [⇧](#bookshelf)
 <img src="screenshots/BRS.png" width="100px">
 
