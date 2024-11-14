@@ -15,17 +15,10 @@ These publications **will not update** automatically. You will need to check for
 ____
 ____
 ## Bookshelf
-* [Bible Reading Schedules](#bible-reading-schedules-)
-* [God's Prophetic Word](#gods-prophetic-word-)
-* [Timeline of Bible History](#timeline-of-bible-history-)
-* [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
-* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
-* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
-* [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)   **UPDATED**
-* [*Faith on the March*](#faith-on-the-march-)
-* [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)
 
-____
+| <img src="screenshots/bookshelf.png" width="200px"> | - [Bible Reading Schedules](#bible-reading-schedules-)<br>- [God's Prophetic Word](#gods-prophetic-word-)<br>- [Timeline of Bible History](#timeline-of-bible-history-)<br>- [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)<br>- [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)<br>- [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)<br>- [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)   **UPDATED**<br>- [*Faith on the March*](#faith-on-the-march-)<br>- [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-) |
+|---|---|
+
 ## Bible Reading Schedules [⇧](#bookshelf)
 <img src="screenshots/BRS.png" width="100px">
 
