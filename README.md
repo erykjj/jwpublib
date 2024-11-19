@@ -20,11 +20,11 @@ ____
 
 * [Bible Reading Schedules](#bible-reading-schedules-)
 * [God's Prophetic Word](#gods-prophetic-word-)
-* [Timeline of Bible History](#timeline-of-bible-history-)
+* [Timeline of Bible History](#timeline-of-bible-history-) **SPANISH updated**
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
-* [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-) **UPDATED**
+* [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)
 * [*Faith on the March*](#faith-on-the-march-)
 * [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)
 
@@ -41,7 +41,7 @@ ____
 * **Traslations**: [Let me know](https://github.com/erykjj/jwpublib/discussions/64) if you would like this in another language or if you notice any errors in the current translations.
 
 ____
-## God's Prophetic Word [⇧](#bookshelf)
+## God's Prophetic Word [⇧](#bookshelf)UPDATED
 <img src="screenshots/GPW.png" width="100px">
 
 ![preview on Android](screenshots/GPW.gif)
@@ -59,7 +59,7 @@ ____
 ![preview on Android](screenshots/TBH.gif)
 
 * **Description**: A chronological compilation of events (mostly) related to Bible history
-* **Latest [release](https://github.com/erykjj/jwpublib/releases/tag/TBH_9.1)**: *TBH_9.1* - [Danish](https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_D.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_D.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_E.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_F.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_F.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_T.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1a_S.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1a_S.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_K.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_K.jwpub)
+* **Latest [release](https://github.com/erykjj/jwpublib/releases/tag/TBH_9.1)**: *TBH_9.1* - [Danish](https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_D.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_D.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_E.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_F.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_F.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_T.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1b_S.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1b_S.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_K.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/TBH_9.1/TBH_9.1_K.jwpub)
 * **Released**: [2024-10-27](CHANGELOG.md/#tbh_91---2024-10-27)
 * **Note**: Tapping on a year in any of the thematic timelines, will give you an overview of the whole year in the side/study pane; tapping on a kindgom or region tag will take you to the corresponding thematic timeline; and tapping the name of a Hebrew month, will point you to more information. Keep in mind that if you annotate in any way and a future release includes additional historical events, your notes and highlights will no longer match up
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/discussions/65)
