@@ -22,8 +22,6 @@
 
 ### **TBH**: Timeline of Bible History
 
-- various Spanish translation corrections (thank you, @MisaelArciniega)
-
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
@@ -59,6 +57,9 @@ ____
 
 - 2024-11-04
   - various Spanish translation corrections (thank you, @MisaelArciniega)
+
+- 2024-11-19
+  - more Spanish translation corrections (thank you, @MisaelArciniega)
 
 ## [BaM_4.0] - 2024-10-16
 
