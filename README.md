@@ -19,8 +19,9 @@ ____
 <img src="screenshots/bookshelf.png" width="100px">
 
 * [Bible Reading Schedules](#bible-reading-schedules-)
+* [Emerge-Alive](#emerge-alive-)   **NEW**
 * [God's Prophetic Word](#gods-prophetic-word-)
-* [Timeline of Bible History](#timeline-of-bible-history-) **SPANISH updated**
+* [Timeline of Bible History](#timeline-of-bible-history-)   **SPANISH updated**
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
@@ -41,7 +42,18 @@ ____
 * **Traslations**: [Let me know](https://github.com/erykjj/jwpublib/discussions/64) if you would like this in another language or if you notice any errors in the current translations.
 
 ____
-## God's Prophetic Word [⇧](#bookshelf)UPDATED
+## Emerge-Alive [⇧](#bookshelf)
+<img src="screenshots/E-A.png" width="100px">
+
+![preview](screenshots/E-A.gif)
+
+* **Description**: Emergency preparedness manual
+* **Latest [release](https://github.com/erykjj/jwpublib/releases/tag/E-A_1.0)**: [*E-A_1.0*](https://github.com/erykjj/jwpublib/releases/download/E-A_1.0/E-A_1.0.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_1.0/E-A_1.0.jwpub)
+* **Released**: [2024-11-22](CHANGELOG.md/#str_41---2024-10-28)
+* **Note**: Once the content "stabilizes", I will consider opening this up to translation. In the mean time, please report any suggestions you may have [here](https://github.com/erykjj/jwpublib/discussions/70).
+
+____
+## God's Prophetic Word [⇧](#bookshelf)
 <img src="screenshots/GPW.png" width="100px">
 
 ![preview on Android](screenshots/GPW.gif)
