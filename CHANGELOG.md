@@ -10,6 +10,8 @@
 
 - added **Ewe** (thank you, @Atsuson)
 
+### **E-A**: Emerge-Alive
+
 ### **Fth**: Faith on the March
 
 ### **GPW**: God's Prophetic Word
@@ -25,6 +27,10 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [E-A_1.0] - 2024-11-22
+
+- First release of this new project
+
 ## [KJS_4.4] - 2024-11-13
 
 - Changed tile image (again) to something nicer
@@ -551,6 +557,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[E-A_1.0]:https://github.com/erykjj/jwpublib/releases/tag/E-A_1.0
 [KJS_4.4]:https://github.com/erykjj/jwpublib/releases/tag/KJS_4.4
 [KJS_4.3]:https://github.com/erykjj/jwpublib/releases/tag/KJS_4.3
 [KJS_4.2]:https://github.com/erykjj/jwpublib/releases/tag/KJS_4.2
