@@ -10,6 +10,8 @@
 
 - added **Ewe** (thank you, @Atsuson)
 
+### **Cnc**: NWT Concordance
+
 ### **E-A**: Emerge-Alive
 
 ### **Fth**: Faith on the March
@@ -27,6 +29,10 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [Cnc_1.0] - 2024-12-03
+
+- Initial release in English and Spanish
+
 ## [E-A_1.0] - 2024-11-22
 
 - First release of this new project
@@ -557,6 +563,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Cnc_1.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_1.0
 [E-A_1.0]:https://github.com/erykjj/jwpublib/releases/tag/E-A_1.0
 [KJS_4.4]:https://github.com/erykjj/jwpublib/releases/tag/KJS_4.4
 [KJS_4.3]:https://github.com/erykjj/jwpublib/releases/tag/KJS_4.3
