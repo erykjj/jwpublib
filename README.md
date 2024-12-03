@@ -91,7 +91,7 @@ ____
 ## NWT Concordance [⇧](#bookshelf)
 <img src="screenshots/Cnc.png" width="100px">
 
-* **Description**: Exhaustive index of words used in the *New World Translation of the Holy Scriptures*[^2]
+* **Description**: Exhaustive index of words used in the *New World Translation of the Holy Scriptures*[^2]
 * **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Cnc_1.0)**: *Cnc_1.0* — [English](https://github.com/erykjj/jwpublib/releases/download/Cnc_1.0/Cnc_1.0_E.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_1.0/Cnc_1.0_E.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Cnc_1.0/Cnc_1.0_S.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_1.0/Cnc_1.0_S.jwpub)
 * **Released**: [2024-12-03](CHANGELOG.md/#cnc_10---2024-12-03)
 * **Note**: Numbers are sorted alphabetically
