@@ -12,6 +12,9 @@
 
 ### **Cnc**: NWT Concordance
 
+- added totals for each letter
+- added grouping by Bible book in reference pane
+
 ### **E-A**: Emerge-Alive
 
 ### **Fth**: Faith on the March
@@ -31,15 +34,15 @@
 ____
 ## [Cnc_1.0] - 2024-12-03
 
-- Initial release in English and Spanish
+- initial release in English and Spanish
 
 ## [E-A_1.0] - 2024-11-22
 
-- First release of this new project
+- first release of this new project
 
 ## [KJS_4.4] - 2024-11-13
 
-- Changed tile image (again) to something nicer
+- changed tile image (again) to something nicer
 
 ## [KJS_4.3] - 2024-11-04
 
