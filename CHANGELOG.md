@@ -33,7 +33,7 @@ ____
 
 - added **totals** for each letter
 - added **grouping by Bible book** in reference pane
-- added **Portugese (Brazil)**
+- added **Portuguese (Brazil)**
 
 ## [Cnc_1.0] - 2024-12-03
 
