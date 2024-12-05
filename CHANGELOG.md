@@ -12,10 +12,6 @@
 
 ### **Cnc**: NWT Concordance
 
-- added **totals** for each letter
-- added **grouping by Bible book** in reference pane
-- added **Portugese** (Brazil)
-
 ### **E-A**: Emerge-Alive
 
 ### **Fth**: Faith on the March
@@ -33,6 +29,12 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [Cnc_2.0] - 2024-12-05
+
+- added **totals** for each letter
+- added **grouping by Bible book** in reference pane
+- added **Portugese (Brazil)**
+
 ## [Cnc_1.0] - 2024-12-03
 
 - initial release in English and Spanish
@@ -567,6 +569,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Cnc_2.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_2.0
 [Cnc_1.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_1.0
 [E-A_1.0]:https://github.com/erykjj/jwpublib/releases/tag/E-A_1.0
 [KJS_4.4]:https://github.com/erykjj/jwpublib/releases/tag/KJS_4.4
