@@ -12,8 +12,9 @@
 
 ### **Cnc**: NWT Concordance
 
-- added totals for each letter
-- added grouping by Bible book in reference pane
+- added **totals** for each letter
+- added **grouping by Bible book** in reference pane
+- added **Portugese** (Brazil)
 
 ### **E-A**: Emerge-Alive
 
