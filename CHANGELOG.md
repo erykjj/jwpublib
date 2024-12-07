@@ -8,6 +8,7 @@
 
 ### **BRS**: Bible Reading Schedules
 
+- minor cosmetic fixes
 - added **Ewe** (thank you, @Atsuson)
 
 ### **Cnc**: NWT Concordance
