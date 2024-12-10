@@ -23,7 +23,7 @@ ____
 * [God's Prophetic Word](#gods-prophetic-word-)
 * [Timeline of Bible History](#timeline-of-bible-history-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
-* [NWT Concordance](#nwt-concordance-)
+* [NWT Concordance](#nwt-concordance-)   **UPDATED**
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
 * [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)
@@ -93,10 +93,10 @@ ____
 ![preview on Android](screenshots/Cnc.gif)
 
 * **Description**: Exhaustive index of words used in the *New World Translation of the Holy Scriptures*[^2]
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Cnc_2.0)**: *Cnc_2.0* — [English](https://github.com/erykjj/jwpublib/releases/download/Cnc_2.0/Cnc_2.0_E.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_2.0/Cnc_2.0_E.jwpub), [Portuguese (Brazil)](https://github.com/erykjj/jwpublib/releases/download/Cnc_2.0/Cnc_2.0_T.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_2.0/Cnc_2.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Cnc_2.0/Cnc_2.0_S.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_2.0/Cnc_2.0_S.jwpub)
-* **Released**: [2024-12-05](CHANGELOG.md/#cnc_20---2024-12-05)
-* **Note**: Numbers are sorted alphabetically
-* **Traslations**: Other languages will be added progressively
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Cnc_3.0)**: *Cnc_3.0* — [English](https://github.com/erykjj/jwpublib/releases/download/Cnc_3.0/Cnc_3.0_E.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_3.0/Cnc_3.0_E.jwpub), [Portuguese (Brazil)](https://github.com/erykjj/jwpublib/releases/download/Cnc_3.0/Cnc_3.0_T.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_3.0/Cnc_3.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Cnc_3.0/Cnc_3.0_S.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_3.0/Cnc_3.0_S.jwpub)
+* **Released**: [2024-12-10](CHANGELOG.md/#cnc_30---2024-12-10)
+* **Note**: Numbers are sorted alphabetically. For now, only English has the Appendix categiories. See below...
+* **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/discussions/71)
 
 ____
 ## Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* [⇧](#bookshelf)
