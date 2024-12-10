@@ -90,6 +90,8 @@ ____
 ## NWT Concordance [⇧](#bookshelf)
 <img src="screenshots/Cnc.png" width="100px">
 
+![preview on Android](screenshots/Cnc.gif)
+
 * **Description**: Exhaustive index of words used in the *New World Translation of the Holy Scriptures*[^2]
 * **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Cnc_2.0)**: *Cnc_2.0* — [English](https://github.com/erykjj/jwpublib/releases/download/Cnc_2.0/Cnc_2.0_E.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_2.0/Cnc_2.0_E.jwpub), [Portuguese (Brazil)](https://github.com/erykjj/jwpublib/releases/download/Cnc_2.0/Cnc_2.0_T.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_2.0/Cnc_2.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Cnc_2.0/Cnc_2.0_S.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_2.0/Cnc_2.0_S.jwpub)
 * **Released**: [2024-12-05](CHANGELOG.md/#cnc_20---2024-12-05)
