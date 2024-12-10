@@ -27,6 +27,11 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [Cnc_3.0] - 2024-12-10
+
+- added **Appendix** to compare occurrence frequencies of persons and places (English only)
+- various cosmetic adjustments
+
 ## [BRS_4.1] - 2024-12-10
 
 - minor cosmetic fixes
@@ -572,6 +577,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Cnc_3.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_3.0
 [BRS_4.1]:https://github.com/erykjj/jwpublib/releases/tag/BRS_4.1
 [Cnc_2.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_2.0
 [Cnc_1.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_1.0
