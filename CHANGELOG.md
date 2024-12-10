@@ -8,9 +8,6 @@
 
 ### **BRS**: Bible Reading Schedules
 
-- minor cosmetic fixes
-- added **Ewe** (thank you, @Atsuson)
-
 ### **Cnc**: NWT Concordance
 
 ### **E-A**: Emerge-Alive
@@ -30,6 +27,11 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [BRS_4.1] - 2024-12-10
+
+- minor cosmetic fixes
+- added **Ewe** (thank you, @Atsuson)
+
 ## [Cnc_2.0] - 2024-12-05
 
 - added **totals** for each letter
@@ -570,6 +572,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BRS_4.1]:https://github.com/erykjj/jwpublib/releases/tag/BRS_4.1
 [Cnc_2.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_2.0
 [Cnc_1.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_1.0
 [E-A_1.0]:https://github.com/erykjj/jwpublib/releases/tag/E-A_1.0
