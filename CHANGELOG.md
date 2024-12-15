@@ -23,6 +23,8 @@
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
 
+- small layout adjustments
+
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
 - cosmetic changes in line with new version of JW Library for Windows
