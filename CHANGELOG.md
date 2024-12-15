@@ -8,6 +8,9 @@
 
 ### **BRS**: Bible Reading Schedules
 
+- cosmetic changes in line with new version of JW Library for Windows
+- updated tile images
+
 ### **Cnc**: NWT Concordance
 
 ### **E-A**: Emerge-Alive
@@ -32,6 +35,7 @@
 
 - cosmetic changes in line with new version of JW Library for Windows
   - added tile images
+- slight layout adjustments
 
 ____
 ## [Cnc_3.0] - 2024-12-10
