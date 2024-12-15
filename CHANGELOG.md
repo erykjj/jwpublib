@@ -22,9 +22,16 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
+- cosmetic changes in line with new version of JW Library for Windows
+  - added tile images
+- layout adjustments
+
 ### **TBH**: Timeline of Bible History
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
+
+- cosmetic changes in line with new version of JW Library for Windows
+  - added tile images
 
 ____
 ## [Cnc_3.0] - 2024-12-10
