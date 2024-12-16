@@ -34,11 +34,11 @@
 
 ### **TBH**: Timeline of Bible History
 
+- small fixes and cosmetic adjustments in line with new version of JW Library for Windows
+
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
-- cosmetic changes in line with new version of JW Library for Windows
-  - added tile images
-- slight layout adjustments
+- small fixes and cosmetic adjustments in line with new version of JW Library for Windows
 
 ____
 ## [Cnc_3.0] - 2024-12-10
