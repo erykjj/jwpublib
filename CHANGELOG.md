@@ -5,6 +5,7 @@
 ### **BaM**: Who Wants to Be a Missionary?
 
 - added more Scriptures
+- added **Ewe** (thank you, @Atsuson)
 
 ### **BRS**: Bible Reading Schedules
 
