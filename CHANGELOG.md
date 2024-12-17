@@ -22,6 +22,8 @@
 
 ### **Jph**: *The Works of Flavius Josephus*
 
+- small fixes and cosmetic adjustments in line with new version of JW Library for Windows
+
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
 
 - small layout adjustments
