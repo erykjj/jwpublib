@@ -16,9 +16,12 @@
 
 ### **E-A**: Emerge-Alive
 
+- small fixes and cosmetic adjustments in line with new version of JW Library for Windows
+
 ### **Fth**: Faith on the March
 
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
+- fixed cropping on some images
 
 ### **GPW**: God's Prophetic Word
 
