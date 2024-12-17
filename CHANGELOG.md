@@ -18,6 +18,8 @@
 
 ### **Fth**: Faith on the March
 
+- small fixes and cosmetic adjustments in line with new version of JW Library for Windows
+
 ### **GPW**: God's Prophetic Word
 
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
