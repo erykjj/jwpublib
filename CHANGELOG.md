@@ -20,6 +20,8 @@
 
 ### **GPW**: God's Prophetic Word
 
+- small fixes and cosmetic adjustments in line with new version of JW Library for Windows
+
 ### **Jph**: *The Works of Flavius Josephus*
 
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
