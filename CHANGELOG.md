@@ -14,6 +14,8 @@
 
 ### **Cnc**: NWT Concordance
 
+- small fixes and cosmetic adjustments in line with new version of JW Library for Windows
+
 ### **E-A**: Emerge-Alive
 
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
