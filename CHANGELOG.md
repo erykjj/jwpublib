@@ -9,8 +9,6 @@
 
 ### **BRS**: Bible Reading Schedules
 
-- cosmetic changes in line with new version of JW Library for Windows
-- updated icons & tile images
 
 ### **Cnc**: NWT Concordance
 
@@ -52,6 +50,11 @@
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
 
 ____
+## [BRS_5.0] - 2024-12-21
+
+- cosmetic changes in line with new version of JW Library for Windows
+- updated icons & tile images
+
 ## [Cnc_3.0] - 2024-12-10
 
 - added **Appendix** to compare occurrence frequencies of persons and places (English only)
@@ -602,6 +605,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BRS_5.0]:https://github.com/erykjj/jwpublib/releases/tag/BRS_5.0
 [Cnc_3.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_3.0
 [BRS_4.1]:https://github.com/erykjj/jwpublib/releases/tag/BRS_4.1
 [Cnc_2.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_2.0
