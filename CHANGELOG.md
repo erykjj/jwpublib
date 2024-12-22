@@ -25,8 +25,6 @@
 
 ### **GPW**: God's Prophetic Word
 
-- small fixes and cosmetic adjustments in line with new version of JW Library for Windows
-
 ### **Jph**: *The Works of Flavius Josephus*
 
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
@@ -50,6 +48,10 @@
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
 
 ____
+## [GPW_5.0] - 2024-12-22
+
+- small fixes and cosmetic adjustments in line with new version of JW Library for Windows
+
 ## [BRS_5.0] - 2024-12-21
 
 - cosmetic changes in line with new version of JW Library for Windows
@@ -605,6 +607,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[GPW_5.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_5.0
 [BRS_5.0]:https://github.com/erykjj/jwpublib/releases/tag/BRS_5.0
 [Cnc_3.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_3.0
 [BRS_4.1]:https://github.com/erykjj/jwpublib/releases/tag/BRS_4.1
