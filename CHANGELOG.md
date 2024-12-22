@@ -10,7 +10,7 @@
 ### **BRS**: Bible Reading Schedules
 
 - cosmetic changes in line with new version of JW Library for Windows
-- updated tile images
+- updated icons & tile images
 
 ### **Cnc**: NWT Concordance
 
