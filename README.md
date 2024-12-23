@@ -20,7 +20,7 @@ ____
 
 * [Bible Reading Schedules](#bible-reading-schedules-)   **UPDATED**
 * [Emerge-Alive](#emerge-alive-)
-* [God's Prophetic Word](#gods-prophetic-word-)
+* [God's Prophetic Word](#gods-prophetic-word-)   **UPDATED**
 * [Timeline of Bible History](#timeline-of-bible-history-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [NWT Concordance](#nwt-concordance-)
