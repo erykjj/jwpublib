@@ -42,6 +42,7 @@
 ### **TBH**: Timeline of Bible History
 
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
+- added some missing tags
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
