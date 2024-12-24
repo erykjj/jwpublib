@@ -16,8 +16,6 @@
 
 ### **E-A**: Emerge-Alive
 
-- small fixes and cosmetic adjustments in line with new version of JW Library for Windows
-
 ### **Fth**: Faith on the March
 
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
@@ -49,6 +47,10 @@
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
 
 ____
+## [E-A_2.0] - 2024-12-24
+
+- small fixes and cosmetic adjustments in line with new version of JW Library for Windows
+
 ## [GPW_5.0] - 2024-12-22
 
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
@@ -608,6 +610,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[E-A_2.0]:https://github.com/erykjj/jwpublib/releases/tag/E-A_2.0
 [GPW_5.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_5.0
 [BRS_5.0]:https://github.com/erykjj/jwpublib/releases/tag/BRS_5.0
 [Cnc_3.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_3.0
