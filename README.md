@@ -19,7 +19,7 @@ ____
 <img src="screenshots/bookshelf.png" width="100px">
 
 * [Bible Reading Schedules](#bible-reading-schedules-)   **UPDATED**
-* [Emerge-Alive](#emerge-alive-)
+* [Emerge-Alive](#emerge-alive-)   **UPDATED**
 * [God's Prophetic Word](#gods-prophetic-word-)   **UPDATED**
 * [Timeline of Bible History](#timeline-of-bible-history-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
@@ -48,8 +48,8 @@ ____
 ![preview](screenshots/E-A.gif)
 
 * **Description**: Emergency preparedness manual
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/E-A_1.0)**: [*E-A_1.0*](https://github.com/erykjj/jwpublib/releases/download/E-A_1.0/E-A_1.0.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_1.0/E-A_1.0.jwpub)
-* **Released**: [2024-11-22](CHANGELOG.md/#str_41---2024-10-28)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/E-A_2.0)**: [*E-A_2.0*](https://github.com/erykjj/jwpublib/releases/download/E-A_2.0/E-A_2.0.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.0/E-A_2.0.jwpub)
+* **Released**: [2024-12-24](CHANGELOG.md/#e-a_20---2024-12-24)
 * **Note**: Once the content "stabilizes", I will consider opening this up to translation. In the mean time, please report any suggestions you may have [here](https://github.com/erykjj/jwpublib/discussions/70)
 
 ____
