@@ -43,6 +43,10 @@
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
 
 ____
+## [GPW_5.1] - 2024-12-25
+
+- small cosmetic fixes
+
 ## [BaM_5.0] - 2024-12-24
 
 - added more Scriptures
@@ -611,6 +615,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[GPW_5.1]:https://github.com/erykjj/jwpublib/releases/tag/GPW_5.1
 [BaM_5.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_5.0
 [E-A_2.0]:https://github.com/erykjj/jwpublib/releases/tag/E-A_2.0
 [GPW_5.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_5.0
