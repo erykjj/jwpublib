@@ -4,9 +4,6 @@
 
 ### **BaM**: Who Wants to Be a Missionary?
 
-- added more Scriptures
-- added **Ewe** (thank you, @Atsuson)
-
 ### **BRS**: Bible Reading Schedules
 
 
@@ -47,6 +44,11 @@
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
 
 ____
+## [BaM_5.0] - 2024-12-24
+
+- added more Scriptures
+- added **Ewe** (thank you, @Atsuson)
+
 ## [E-A_2.0] - 2024-12-24
 
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
@@ -610,6 +612,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BaM_5.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_5.0
 [E-A_2.0]:https://github.com/erykjj/jwpublib/releases/tag/E-A_2.0
 [GPW_5.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_5.0
 [BRS_5.0]:https://github.com/erykjj/jwpublib/releases/tag/BRS_5.0
