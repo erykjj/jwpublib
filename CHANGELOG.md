@@ -45,7 +45,7 @@
 ____
 ## [GPW_5.1] - 2024-12-25
 
-- small cosmetic fixes
+- various cosmetic fixes
 
 ## [BaM_5.0] - 2024-12-24
 
