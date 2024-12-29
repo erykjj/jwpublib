@@ -8,7 +8,7 @@ The material provided here is **not copyrighted**; it is in the **Public Domain*
 
 ## How to Install
 
-You can simply click on the link to the publication (or on the language-specific link). Or, if you want to install on a mobile device, you can click the QR link to see the code on the screen and scan it. Once the archive is downloaded, **tap/double-click the downloaded file** (if asked, "Open with..." the JW Library app). It will appear in the **"Guidelines"** section (*Library* → *DOWNLOADED* → *Guidelines*).
+You can simply click on the link to the publication (or on the language-specific link). Or, if you want to install on a mobile device, you can click the QR icon to see the code on the screen and scan it. Once the archive is downloaded, **tap/double-click the downloaded file** (if asked, "Open with..." the JW Library app). It will appear in the **"Guidelines"** section (*Library* → *DOWNLOADED* → *Guidelines*).
 
 These publications **will not update** automatically. You will need to check for updates here, and if a newer release is available, download and install it the same way.
 
@@ -50,7 +50,8 @@ ____
 * **Description**: Emergency preparedness manual
 * **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/E-A_2.0)**: [*E-A_2.0*](https://github.com/erykjj/jwpublib/releases/download/E-A_2.0/E-A_2.0.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.0/E-A_2.0.jwpub)
 * **Released**: [2024-12-24](CHANGELOG.md/#e-a_20---2024-12-24)
-* **Note**: Once the content "stabilizes", I will consider opening this up to translation. In the mean time, please report any suggestions you may have [here](https://github.com/erykjj/jwpublib/discussions/70)
+* **Note**: Please report any suggestions you may have [here](https://github.com/erykjj/jwpublib/discussions/70)
+* **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/discussions/73)
 
 ____
 ## God's Prophetic Word [⇧](#bookshelf)
