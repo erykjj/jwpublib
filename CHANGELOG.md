@@ -19,9 +19,6 @@
 
 ### **GPW**: God's Prophetic Word
 
-- various cosmetic fixes
-- small attribution adjustments
-
 ### **Jph**: *The Works of Flavius Josephus*
 
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
@@ -46,6 +43,11 @@
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
 
 ____
+## [GPW_5.1] - 2024-12-28
+
+- various cosmetic fixes
+- small attribution adjustments
+
 ## [BaM_5.0] - 2024-12-24
 
 - added more Scriptures
@@ -614,6 +616,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[GPW_5.1]:https://github.com/erykjj/jwpublib/releases/tag/GPW_5.1
 [BaM_5.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_5.0
 [E-A_2.0]:https://github.com/erykjj/jwpublib/releases/tag/E-A_2.0
 [GPW_5.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_5.0
