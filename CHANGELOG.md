@@ -37,6 +37,8 @@
 
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
 - added some missing tags
+- adjusted table of contents order
+- added a couple of new tile images
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
