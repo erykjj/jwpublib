@@ -121,16 +121,14 @@ ____
 
 ____
 ## *KJV* and *Strong's* Inline/Interlinear [⇧](#bookshelf)
-<img src="screenshots/KJS.jpg" width="100px">
+<img src="screenshots/KJS.png" width="100px">
 
-![preview](screenshots/KJS.gif)
+![preview](screenshots/KJS-versions.png)
 
 * **Description**: *King James Version* with inline/interlinear links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
 * **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/KJS_4.4)**: [*KJS_4.4-inline*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.4/KJS_4.4-inline.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_4.4/KJS_4.4-inline.jwpub) & [*KJS_4.4-interlinear*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.4/KJS_4.4-interlinear.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_4.4/KJS_4.4-interlinear.jwpub)
 * **Released**: [2024-11-13](CHANGELOG.md/#kjs_44---2024-11-13)
 * **Note**: The *interlinear* version needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it: *Bible* → *Languages* → *Delete*. The *inline* version can co-exist with the *Kingdom Interlinear* or the *KJS-interlinear*. Add to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries
-
-![versions](screenshots/KJS-versions.png)
 
 ____
 ## *Faith on the March* [⇧](#bookshelf)
