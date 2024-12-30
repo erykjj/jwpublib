@@ -145,7 +145,7 @@ ____
 ## *The Works of Flavius Josephus* [⇧](#bookshelf)
 <img src="screenshots/Jph.png" width="100px">
 
-![preview](screenshots/Jph.gif)
+![preview on Android](screenshots/Jph.gif)
 
 * **Description**: *Antiquities of the Jews*, *Jewish War* and *The Life of Flavius Josephus*
 * **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Jph_1.0)**: [*Jph_1.0*](https://github.com/erykjj/jwpublib/releases/download/Jph_1.0/Jph_1.0.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Jph_1.0/Jph_1.0.jwpub)
