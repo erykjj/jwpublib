@@ -24,10 +24,6 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
-- cosmetic changes in line with new version of JW Library for Windows
-  - added tile images
-- layout adjustments
-
 ### **TBH**: Timeline of Bible History
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
@@ -35,6 +31,12 @@
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
 
 ____
+## [Str_5.0] - 2025-01-01
+
+- cosmetic changes in line with new version of JW Library for Windows
+  - added tile images
+- layout adjustments
+
 ## [Jph_2.0] - 2025-01-01
 
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
@@ -626,6 +628,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Str_5.0]:https://github.com/erykjj/jwpublib/releases/tag/Str_5.0
 [Jph_2.0]:https://github.com/erykjj/jwpublib/releases/tag/Jph_2.0
 [Fth_3.0]:https://github.com/erykjj/jwpublib/releases/tag/Fth_3.0
 [TBH_10.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_10.0
