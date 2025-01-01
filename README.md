@@ -27,7 +27,7 @@ ____
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
 * [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)
-* [*Faith on the March*](#faith-on-the-march-)
+* [*Faith on the March*](#faith-on-the-march-)   **UPDATED**
 * [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)
 
 ____
@@ -135,8 +135,8 @@ ____
 <img src="screenshots/Faith.jpg" width="100px">
 
 * **Description**: By A. H. Macmillan; originally published in 1957
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Fth_2.0)**: [*Fth_2.0*](https://github.com/erykjj/jwpublib/releases/download/Fth_2.0/Fth_2.0.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Fth_2.0/Fth_2.0.jwpub)
-* **Released**: [2024-09-19](CHANGELOG.md/#fth_20---2024-09-19)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Fth_3.0)**: [*Fth_3.0*](https://github.com/erykjj/jwpublib/releases/download/Fth_3.0/Fth_3.0.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Fth_3.0/Fth_3.0.jwpub)
+* **Released**: [2025-01-01](CHANGELOG.md/#fth_30---2025-01-01)
 * **Note**: Please report any errors [here](https://github.com/erykjj/jwpublib/issues/54)
 
 ____
