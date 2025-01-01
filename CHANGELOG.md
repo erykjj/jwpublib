@@ -22,6 +22,7 @@
 ### **Jph**: *The Works of Flavius Josephus*
 
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
+- small source typo corrections
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
 
@@ -39,6 +40,7 @@
 - added some missing tags
 - adjusted table of contents order
 - added a couple of new tile images
+- small typo corrections
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
