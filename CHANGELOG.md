@@ -20,8 +20,6 @@
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
 
-- small layout adjustments
-
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
 ### **TBH**: Timeline of Bible History
@@ -29,6 +27,10 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [KJS_5.0] - 2025-01-01
+
+- small layout adjustments
+
 ## [VED_5.0] - 2025-01-01
 
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
@@ -630,6 +632,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[KJS_5.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_5.0
 [VED_5.0]:https://github.com/erykjj/jwpublib/releases/tag/VED_5.0
 [Str_5.0]:https://github.com/erykjj/jwpublib/releases/tag/Str_5.0
 [Jph_2.0]:https://github.com/erykjj/jwpublib/releases/tag/Jph_2.0
