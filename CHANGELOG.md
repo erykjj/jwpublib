@@ -36,17 +36,19 @@
 
 ### **TBH**: Timeline of Bible History
 
+### **VED**: Vine's *Expository Dictionary of New Testament Words*
+
+- small fixes and cosmetic adjustments in line with new version of JW Library for Windows
+
+____
+## [TBH_10.0] - 2025-01-01
+
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
 - added some missing tags
 - adjusted table of contents order
 - added a couple of new tile images
 - small typo corrections
 
-### **VED**: Vine's *Expository Dictionary of New Testament Words*
-
-- small fixes and cosmetic adjustments in line with new version of JW Library for Windows
-
-____
 ## [GPW_5.1] - 2024-12-28
 
 - various cosmetic fixes
@@ -620,6 +622,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[TBH_10.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_10.0
 [GPW_5.1]:https://github.com/erykjj/jwpublib/releases/tag/GPW_5.1
 [BaM_5.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_5.0
 [E-A_2.0]:https://github.com/erykjj/jwpublib/releases/tag/E-A_2.0
