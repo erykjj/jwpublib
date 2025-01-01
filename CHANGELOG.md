@@ -8,8 +8,6 @@
 
 ### **Cnc**: NWT Concordance
 
-- small fixes and cosmetic adjustments in line with new version of JW Library for Windows
-
 ### **E-A**: Emerge-Alive
 
 ### **Fth**: Faith on the March
@@ -27,6 +25,10 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [Cnc_4.0] - 2025-01-01
+
+- small fixes and cosmetic adjustments in line with new version of JW Library for Windows
+
 ## [KJS_5.0] - 2025-01-01
 
 - cosmetic changes in line with new version of JW Library for Windows
@@ -633,6 +635,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Cnc_4.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_4.0
 [KJS_5.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_5.0
 [VED_5.0]:https://github.com/erykjj/jwpublib/releases/tag/VED_5.0
 [Str_5.0]:https://github.com/erykjj/jwpublib/releases/tag/Str_5.0
