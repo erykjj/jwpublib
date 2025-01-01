@@ -26,7 +26,7 @@ ____
 * [NWT Concordance](#nwt-concordance-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)   **UPDATED**
-* [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)
+* [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)   **UPDATED**
 * [*Faith on the March*](#faith-on-the-march-)   **UPDATED**
 * [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)   **UPDATED**
 
@@ -126,8 +126,8 @@ ____
 ![preview](screenshots/KJS-versions.png)
 
 * **Description**: *King James Version* with inline/interlinear links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/KJS_4.4)**: [*KJS_4.4-inline*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.4/KJS_4.4-inline.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_4.4/KJS_4.4-inline.jwpub) & [*KJS_4.4-interlinear*](https://github.com/erykjj/jwpublib/releases/download/KJS_4.4/KJS_4.4-interlinear.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_4.4/KJS_4.4-interlinear.jwpub)
-* **Released**: [2024-11-13](CHANGELOG.md/#kjs_44---2024-11-13)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/KJS_5.0)**: [*KJS_5.0-inline*](https://github.com/erykjj/jwpublib/releases/download/KJS_5.0/KJS_5.0-inline.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_5.0/KJS_5.0-inline.jwpub) & [*KJS_5.0-interlinear*](https://github.com/erykjj/jwpublib/releases/download/KJS_5.0/KJS_5.0-interlinear.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_5.0/KJS_5.0-interlinear.jwpub)
+* **Released**: [2025-01-01](CHANGELOG.md/#kjs_50---2025-01-01)
 * **Note**: The *interlinear* version needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it: *Bible* → *Languages* → *Delete*. The *inline* version can co-exist with the *Kingdom Interlinear* or the *KJS-interlinear*. Add to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries
 
 ____
