@@ -23,7 +23,7 @@ ____
 * [God's Prophetic Word](#gods-prophetic-word-)
 * [Timeline of Bible History](#timeline-of-bible-history-)   **UPDATED**
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
-* [NWT Concordance](#nwt-concordance-)
+* [NWT Concordance](#nwt-concordance-)   **UPDATED**
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)   **UPDATED**
 * [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)   **UPDATED**
@@ -94,8 +94,8 @@ ____
 ![preview on Android](screenshots/Cnc.gif)
 
 * **Description**: Exhaustive index of words used in the *New World Translation of the Holy Scriptures*[^2]
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Cnc_3.0)**: *Cnc_3.0* — [English](https://github.com/erykjj/jwpublib/releases/download/Cnc_3.0/Cnc_3.0_E.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_3.0/Cnc_3.0_E.jwpub), [Portuguese (Brazil)](https://github.com/erykjj/jwpublib/releases/download/Cnc_3.0/Cnc_3.0_T.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_3.0/Cnc_3.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Cnc_3.0/Cnc_3.0_S.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_3.0/Cnc_3.0_S.jwpub)
-* **Released**: [2024-12-10](CHANGELOG.md/#cnc_30---2024-12-10)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Cnc_4.0)**: *Cnc_4.0* — [English](https://github.com/erykjj/jwpublib/releases/download/Cnc_4.0/Cnc_4.0_E.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_4.0/Cnc_4.0_E.jwpub), [Portuguese (Brazil)](https://github.com/erykjj/jwpublib/releases/download/Cnc_4.0/Cnc_4.0_T.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_4.0/Cnc_4.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Cnc_4.0/Cnc_4.0_S.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_4.0/Cnc_4.0_S.jwpub)
+* **Released**: [2025-01-01](CHANGELOG.md/#cnc_40---2025-01-01)
 * **Note**: Numbers are sorted alphabetically. For now, only English has the Appendix categiories. See below…
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/discussions/71)
 
