@@ -18,9 +18,6 @@
 
 ### **Jph**: *The Works of Flavius Josephus*
 
-- small fixes and cosmetic adjustments in line with new version of JW Library for Windows
-- small source typo corrections
-
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
 
 - small layout adjustments
@@ -38,6 +35,11 @@
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
 
 ____
+## [Jph_2.0] - 2025-01-01
+
+- small fixes and cosmetic adjustments in line with new version of JW Library for Windows
+- small source typo corrections
+
 ## [Fth_3.0] - 2025-01-01
 
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
@@ -624,6 +626,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Jph_2.0]:https://github.com/erykjj/jwpublib/releases/tag/Jph_2.0
 [Fth_3.0]:https://github.com/erykjj/jwpublib/releases/tag/Fth_3.0
 [TBH_10.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_10.0
 [GPW_5.1]:https://github.com/erykjj/jwpublib/releases/tag/GPW_5.1
