@@ -123,7 +123,7 @@ ____
 ## *KJV* and *Strong's* Inline/Interlinear [⇧](#bookshelf)
 <img src="screenshots/KJS.png" width="100px">
 
-![preview](screenshots/KJS-versions.png)
+<img src="screenshots/KJS-versions.png" width="300px">
 
 * **Description**: *King James Version* with inline/interlinear links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
 * **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/KJS_5.0)**: [*KJS_5.0-inline*](https://github.com/erykjj/jwpublib/releases/download/KJS_5.0/KJS_5.0-inline.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_5.0/KJS_5.0-inline.jwpub) & [*KJS_5.0-interlinear*](https://github.com/erykjj/jwpublib/releases/download/KJS_5.0/KJS_5.0-interlinear.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_5.0/KJS_5.0-interlinear.jwpub)
