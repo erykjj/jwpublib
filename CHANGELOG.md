@@ -29,6 +29,7 @@
 ____
 ## [KJS_5.0] - 2025-01-01
 
+- cosmetic changes in line with new version of JW Library for Windows
 - small layout adjustments
 
 ## [VED_5.0] - 2025-01-01
