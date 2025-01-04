@@ -20,9 +20,13 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
+- add non-breaking space separator in Scriptures
+
 ### **TBH**: Timeline of Bible History
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
+
+- add non-breaking space separator in Scriptures
 
 ____
 ## [Cnc_4.0] - 2025-01-01
