@@ -18,6 +18,8 @@
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
 
+- add non-breaking space separator in Scriptures within cross-references to Strong's
+
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
 - add non-breaking space separator in Scriptures
@@ -70,6 +72,9 @@ ____
 
 - various cosmetic fixes
 - small attribution adjustments
+
+- 2025-01-06
+  - added Dutch (thank you, @Dosojin1)
 
 ## [BaM_5.0] - 2024-12-24
 
