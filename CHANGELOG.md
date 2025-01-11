@@ -26,6 +26,8 @@
 
 ### **TBH**: Timeline of Bible History
 
+- fixed some Bible reference links (thank you, @jeremy-j-t)
+
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 - add non-breaking space separator in Scriptures
