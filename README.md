@@ -20,15 +20,15 @@ ____
 
 * [Bible Reading Schedules](#bible-reading-schedules-)
 * [Emerge-Alive](#emerge-alive-)
-* [God's Prophetic Word](#gods-prophetic-word-)   **Added DUTCH**
-* [Timeline of Bible History](#timeline-of-bible-history-)   **UPDATED**
+* [God's Prophetic Word](#gods-prophetic-word-)
+* [Timeline of Bible History](#timeline-of-bible-history-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
-* [NWT Concordance](#nwt-concordance-)   **UPDATED**
-* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
-* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)   **UPDATED**
-* [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)   **UPDATED**
-* [*Faith on the March*](#faith-on-the-march-)   **UPDATED**
-* [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)   **UPDATED**
+* [NWT Concordance](#nwt-concordance-)
+* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
+* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
+* [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)
+* [*Faith on the March*](#faith-on-the-march-)
+* [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)
 
 ____
 ## Bible Reading Schedules [⇧](#bookshelf)
