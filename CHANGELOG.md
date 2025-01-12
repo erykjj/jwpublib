@@ -26,13 +26,15 @@
 
 ### **TBH**: Timeline of Bible History
 
-- fixed some missing Bible reference links (thank you, @jeremy-j-t)
-
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 - add non-breaking space separator in Scriptures
 
 ____
+## [TBH_10.1] - 2025-01-12
+
+- fixed some missing Bible reference links (thank you, @jeremy-j-t)
+
 ## [Cnc_4.0] - 2025-01-01
 
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
@@ -646,6 +648,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[TBH_10.1]:https://github.com/erykjj/jwpublib/releases/tag/TBH_10.1
 [Cnc_4.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_4.0
 [KJS_5.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_5.0
 [VED_5.0]:https://github.com/erykjj/jwpublib/releases/tag/VED_5.0
