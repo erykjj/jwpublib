@@ -18,8 +18,6 @@
 
 ### **KJS**: *KJV* and *Strong's* Inline/Interlinear
 
-- add non-breaking space separator in Scriptures within cross-references to Strong's
-
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
 ### **TBH**: Timeline of Bible History
@@ -27,6 +25,10 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [KJS_5.1] - 2025-01-12
+
+- added non-breaking space separator in Scriptures within cross-references to Strong's
+
 ## [VED_5.1] - 2025-01-12
 
 - added non-breaking space separator in Scriptures
@@ -652,6 +654,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[KJS_5.1]:https://github.com/erykjj/jwpublib/releases/tag/KJS_5.1
 [VED_5.1]:https://github.com/erykjj/jwpublib/releases/tag/VED_5.1
 [Str_5.1]:https://github.com/erykjj/jwpublib/releases/tag/Str_5.1
 [TBH_10.1]:https://github.com/erykjj/jwpublib/releases/tag/TBH_10.1
