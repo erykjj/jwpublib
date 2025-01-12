@@ -26,12 +26,14 @@
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
-- add non-breaking space separator in Scriptures
-
 ____
+## [VED_5.1] - 2025-01-12
+
+- added non-breaking space separator in Scriptures
+
 ## [Str_5.1] - 2025-01-12
 
-- add non-breaking space separator in Scriptures
+- added non-breaking space separator in Scriptures
 
 ## [TBH_10.1] - 2025-01-12
 
@@ -650,6 +652,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[VED_5.1]:https://github.com/erykjj/jwpublib/releases/tag/VED_5.1
 [Str_5.1]:https://github.com/erykjj/jwpublib/releases/tag/Str_5.1
 [TBH_10.1]:https://github.com/erykjj/jwpublib/releases/tag/TBH_10.1
 [Cnc_4.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_4.0
