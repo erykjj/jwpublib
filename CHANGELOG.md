@@ -4,6 +4,8 @@
 
 ### **BaM**: Who Wants to Be a Missionary?
 
+- added more scriptures
+
 ### **BRS**: Bible Reading Schedules
 
 ### **Cnc**: NWT Concordance
