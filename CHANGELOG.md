@@ -27,6 +27,14 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [Cnc_5.0] - 2025-01-17
+
+- adjusted Sample Selections
+- added appendix section in Spanish
+  - "full" version (5.0) now in English and Spanish
+- added Italian
+  - "concordance only" version (4.0) now in Italian and Portuguese
+
 ## [KJS_5.1] - 2025-01-12
 
 - added non-breaking space separator in Scriptures within cross-references to Strong's
@@ -656,6 +664,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Cnc_5.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_5.0
 [KJS_5.1]:https://github.com/erykjj/jwpublib/releases/tag/KJS_5.1
 [VED_5.1]:https://github.com/erykjj/jwpublib/releases/tag/VED_5.1
 [Str_5.1]:https://github.com/erykjj/jwpublib/releases/tag/Str_5.1
