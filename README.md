@@ -26,7 +26,7 @@ ____
 * [NWT Concordance](#nwt-concordance-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
-* [*KJV* and *Strong's* Inline/Interlinear](#kjv-and-strongs-inlineinterlinear-)
+* [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)
 * [*Faith on the March*](#faith-on-the-march-)
 * [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)
 
@@ -120,7 +120,7 @@ ____
 * **Released**: [2025-01-12](CHANGELOG.md/#ved_51---2025-01-12)
 
 ____
-## *KJV* and *Strong's* Inline/Interlinear [⇧](#bookshelf)
+## *KJV* with *Strong's* Inline/Interlinear [⇧](#bookshelf)
 <img src="screenshots/KJS.png" width="100px">
 
 <img src="screenshots/KJS-versions.png" width="300px">
