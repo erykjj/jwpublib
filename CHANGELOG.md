@@ -12,13 +12,13 @@
 
 ### **E-A**: Emerge-Alive
 
-### **Fth**: Faith on the March
+### **Fth**: *Faith on the March*
 
 ### **GPW**: God's Prophetic Word
 
 ### **Jph**: *The Works of Flavius Josephus*
 
-### **KJS**: *KJV* and *Strong's* Inline/Interlinear
+### **KJS**: *KJV* with *Strong's* Inline/Interlinear
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
