@@ -27,6 +27,10 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ____
+## [KJS_5.2] - 2025-02-05
+
+- fixed spacing in text (esp. interlinear)
+
 ## [Cnc_5.0] - 2025-01-17
 
 - adjusted Sample Selections
@@ -664,6 +668,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[KJS_5.2]:https://github.com/erykjj/jwpublib/releases/tag/KJS_5.2
 [Cnc_5.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_5.0
 [KJS_5.1]:https://github.com/erykjj/jwpublib/releases/tag/KJS_5.1
 [VED_5.1]:https://github.com/erykjj/jwpublib/releases/tag/VED_5.1
