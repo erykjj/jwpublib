@@ -22,9 +22,13 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
+- improved tile image
+
 ### **TBH**: Timeline of Bible History
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
+
+- improved tile image
 
 ____
 ## [KJS_5.2] - 2025-02-05
