@@ -10,7 +10,7 @@ The material provided here is **not copyrighted**; it is in the **Public Domain*
 
 You can simply click on the link to the publication (or on the language-specific link). Or, if you want to install on a mobile device, you can click the QR icon <img src="screenshots/qr.png" width="16px"> to see the code on the screen and scan it. Once the archive is downloaded, **tap/double-click the downloaded file** (if asked, "Open with..." the JW Library app). It will appear in the **"Guidelines"** section (*Library* → *DOWNLOADED* → *Guidelines*).
 
-These publications **will not update** automatically. You will need to check for updates here, and if a newer release is available, download and install it the same way.
+These "publications" **will not update automatically**. You will need to check for updates here, and if a newer release is available, download and install it the same way.
 
 ____
 ____
