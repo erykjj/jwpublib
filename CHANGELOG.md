@@ -122,6 +122,9 @@ ____
 - cosmetic changes in line with new version of JW Library for Windows
 - updated icons & tile images
 
+- 2025-03-20
+  - Added Romanian (thank you, @pfamoldovan)
+
 ## [Cnc_3.0] - 2024-12-10
 
 - added **Appendix** to compare occurrence frequencies of persons and places (English only)
