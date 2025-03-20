@@ -109,6 +109,9 @@ ____
 - added more Scriptures
 - added **Ewe** (thank you, @Atsuson)
 
+- 2025-03-20
+  - Added Romanian (thank you, @pfamoldovan)
+
 ## [E-A_2.0] - 2024-12-24
 
 - small fixes and cosmetic adjustments in line with new version of JW Library for Windows
