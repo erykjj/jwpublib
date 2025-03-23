@@ -12,6 +12,10 @@
 
 ### **E-A**: Emerge-Alive
 
+- small cosmetic adjustments
+- small content adjustments
+- added Polish (thank you, @doulos-achreios)
+
 ### **Fth**: *Faith on the March*
 
 ### **GPW**: God's Prophetic Word
