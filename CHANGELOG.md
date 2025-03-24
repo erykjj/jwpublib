@@ -12,9 +12,10 @@
 
 ### **E-A**: Emerge-Alive
 
-- small cosmetic adjustments
-- small content adjustments
+- small cosmetic improvements
+- small content improvements
 - added Polish (thank you, @doulos-achreios)
+- added Italian (thank you, @DeadalusNF)
 
 ### **Fth**: *Faith on the March*
 
@@ -29,6 +30,8 @@
 - improved tile image
 
 ### **TBH**: Timeline of Bible History
+
+- added Italian (thank you, @DeadalusNF, @ferrarantonio, @andy5489, @Gomirato)
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
