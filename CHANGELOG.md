@@ -31,6 +31,7 @@
 
 ### **TBH**: Timeline of Bible History
 
+- added some more events, adjusted a few others
 - added Italian (thank you, @DeadalusNF, @ferrarantonio, @andy5489, @Gomirato)
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
