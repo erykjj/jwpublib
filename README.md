@@ -18,11 +18,11 @@ ____
 
 <img src="screenshots/bookshelf.png" width="100px">
 
-* [Bible Reading Schedules](#bible-reading-schedules-)   **added ROMANIAN**
-* [Emerge-Alive](#emerge-alive-)
+* [Bible Reading Schedules](#bible-reading-schedules-)
+* [Emerge-Alive](#emerge-alive-)   **UPDATED; added POLISH**
 * [God's Prophetic Word](#gods-prophetic-word-)
 * [Timeline of Bible History](#timeline-of-bible-history-)
-* [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)   **added ROMANIAN**
+* [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [NWT Concordance](#nwt-concordance-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
@@ -48,8 +48,8 @@ ____
 ![preview](screenshots/E-A.gif)
 
 * **Description**: Emergency preparedness manual
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/E-A_2.0)**: [*E-A_2.0*](https://github.com/erykjj/jwpublib/releases/download/E-A_2.0/E-A_2.0.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.0/E-A_2.0.jwpub)
-* **Released**: [2024-12-24](CHANGELOG.md/#e-a_20---2024-12-24)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/E-A_2.1)**: *E-A_2.1* — [English](https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_E.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_E.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_P.jwpub) [<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_P.jwpub)
+* **Released**: [2025-03-30](CHANGELOG.md/#e-a_21---2025-03-30)
 * **Note**: Please report any suggestions you may have [here](https://github.com/erykjj/jwpublib/discussions/70)
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/discussions/73)
 
