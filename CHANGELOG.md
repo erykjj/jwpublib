@@ -4,6 +4,7 @@
 
 ### **BaM**: Who Wants to Be a Missionary?
 
+- working towards "Millennial Edition" with 1,000 scriptures
 - added more scriptures
 
 ### **BRS**: Bible Reading Schedules
