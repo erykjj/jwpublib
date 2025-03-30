@@ -12,10 +12,8 @@
 
 ### **E-A**: Emerge-Alive
 
-- small cosmetic improvements
-- small content improvements
-- added Polish (thank you, @doulos-achreios)
 - added Italian (thank you, @DeadalusNF)
+- added Spanish (thank you, @MisaelArciniega)
 
 ### **Fth**: *Faith on the March*
 
@@ -39,6 +37,12 @@
 - improved tile image
 
 ____
+## [E-A_2.1] - 2025-03-30
+
+- small cosmetic improvements
+- small content improvements
+- added Polish (thank you, @doulos-achreios)
+
 ## [KJS_5.2] - 2025-02-05
 
 - fixed spacing in text (esp. interlinear)
@@ -686,6 +690,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[E-A_2.1]:https://github.com/erykjj/jwpublib/releases/tag/E-A_2.1
 [KJS_5.2]:https://github.com/erykjj/jwpublib/releases/tag/KJS_5.2
 [Cnc_5.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_5.0
 [KJS_5.1]:https://github.com/erykjj/jwpublib/releases/tag/KJS_5.1
