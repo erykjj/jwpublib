@@ -4,8 +4,9 @@
 
 ### **BaM**: Who Wants to Be a Missionary?
 
-- working towards "Millennial Edition" with 1,000 scriptures
-- added more scriptures
+- working towards "Millennium Edition" with 1,000 scriptures
+- Check-boxes to keep track of completed games
+- minor cosmetic adjustments
 
 ### **BRS**: Bible Reading Schedules
 
