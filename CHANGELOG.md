@@ -4,10 +4,6 @@
 
 ### **BaM**: Who Wants to Be a Missionary?
 
-- "Millennium Edition" with 1,000 scriptures
-- Cosmetic adjustments
-- Check-boxes to keep track of completed games
-
 ### **BRS**: Bible Reading Schedules
 
 ### **Cnc**: NWT Concordance
@@ -39,6 +35,13 @@
 - improved tile image
 
 ____
+## [BaM_6.0] - 2025-04-07
+
+- "Millennium Edition" with 1,000 scriptures
+  - all games reshuffled
+- Cosmetic adjustments
+- Check-boxes to keep track of completed games
+
 ## [E-A_2.1] - 2025-03-30
 
 - small cosmetic improvements
@@ -692,6 +695,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BaM_6.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_6.0
 [E-A_2.1]:https://github.com/erykjj/jwpublib/releases/tag/E-A_2.1
 [KJS_5.2]:https://github.com/erykjj/jwpublib/releases/tag/KJS_5.2
 [Cnc_5.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_5.0
