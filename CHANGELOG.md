@@ -39,6 +39,7 @@ ____
 
 - "Millennium Edition" with 1,000 scriptures
   - all games reshuffled
+- Improved distribution
 - Cosmetic adjustments
 - Check-boxes to keep track of completed games
 
