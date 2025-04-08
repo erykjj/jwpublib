@@ -35,7 +35,7 @@
 - improved tile image
 
 ____
-## [BaM_6.0] - 2025-04-07
+## [BaM_6.0] - 2025-04-08
 
 - "Millennium Edition" with 1,000 scriptures
   - all games reshuffled
