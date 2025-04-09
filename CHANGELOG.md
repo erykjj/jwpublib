@@ -39,7 +39,7 @@ ____
 
 - fine-tuned results
 - added French and Polish
-  - "full" version (5.1) now in English and Spanish
+  - "full" version (5.1) in English and Spanish
   - "concordance only" version (4.1) now in French, Italian, Polish and Portuguese
 
 ## [BaM_6.0] - 2025-04-08
