@@ -35,6 +35,13 @@
 - improved tile image
 
 ____
+## [Cnc_5.1] - 2025-04-09
+
+- fine-tuned results
+- added French and Polish
+  - "full" version (5.1) now in English and Spanish
+  - "concordance only" version (4.1) now in French, Italian, Polish and Portuguese
+
 ## [BaM_6.0] - 2025-04-08
 
 - "Millennium Edition" with 1,000 scriptures
@@ -696,6 +703,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Cnc_5.1]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_5.1
 [BaM_6.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_6.0
 [E-A_2.1]:https://github.com/erykjj/jwpublib/releases/tag/E-A_2.1
 [KJS_5.2]:https://github.com/erykjj/jwpublib/releases/tag/KJS_5.2
