@@ -4,6 +4,9 @@
 
 ### **BaM**: Who Wants to Be a Missionary?
 
+- theme update
+- fixed iOS visual glitches
+
 ### **BRS**: Bible Reading Schedules
 
 ### **Cnc**: NWT Concordance
