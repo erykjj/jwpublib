@@ -4,9 +4,6 @@
 
 ### **BaM**: Who Wants to Be a Missionary?
 
-- theme update
-- fixed iOS visual glitches
-
 ### **BRS**: Bible Reading Schedules
 
 ### **Cnc**: NWT Concordance
@@ -38,6 +35,11 @@
 - improved tile image
 
 ____
+## [BaM_6.1] - 2025-04-15
+
+- theme update
+- fixed iOS visual glitches
+
 ## [Cnc_5.1] - 2025-04-09
 
 - fine-tuned results
@@ -49,9 +51,9 @@ ____
 
 - "Millennium Edition" with 1,000 scriptures
   - all games reshuffled
-- Improved distribution
-- Cosmetic adjustments
-- Check-boxes to keep track of completed games
+- improved distribution
+- cosmetic adjustments
+- check-boxes to keep track of completed games
 
 ## [E-A_2.1] - 2025-03-30
 
@@ -706,6 +708,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BaM_6.1]:https://github.com/erykjj/jwpublib/releases/tag/BaM_6.1
 [Cnc_5.1]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_5.1
 [BaM_6.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_6.0
 [E-A_2.1]:https://github.com/erykjj/jwpublib/releases/tag/E-A_2.1
