@@ -36,6 +36,10 @@
 
 - improved tile image
 
+### **Vst**: VerSet
+
+- new Bible study and meditation project
+
 ____
 ## [BaM_6.1] - 2025-04-15
 
