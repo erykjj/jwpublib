@@ -21,7 +21,7 @@ ____
 <img src="screenshots/bookshelf.png" width="100px">
 
 * [Bible Reading Schedules](#bible-reading-schedules-)
-* [Emerge-Alive](#emerge-alive-)
+* [Emerge-Alive](#emerge-alive-)   **added UKRAINIAN**
 * [God's Prophetic Word](#gods-prophetic-word-)
 * [Timeline of Bible History](#timeline-of-bible-history-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
@@ -51,6 +51,7 @@ ____
 
 * **Description**: Emergency preparedness manual
 * **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/E-A_2.1)**: *E-A_2.1* — [English](https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_E.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_P.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_P.jwpub)
+* **Released**: [2025-03-30](CHANGELOG.md/#e-a_21---2025-03-30), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_K.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_K.jwpub)
 * **Released**: [2025-03-30](CHANGELOG.md/#e-a_21---2025-03-30)
 * **Note**: Please report any suggestions you may have [here](https://github.com/erykjj/jwpublib/discussions/70)
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/discussions/73)
