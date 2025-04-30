@@ -67,6 +67,9 @@ ____
 - small content improvements
 - added Polish (thank you, @doulos-achreios)
 
+- 2025-04-30
+  - added Ukrainian (thank you, @Tkachlab )
+
 ## [KJS_5.2] - 2025-02-05
 
 - fixed spacing in text (esp. interlinear)
