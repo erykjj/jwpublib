@@ -17,6 +17,8 @@
 
 ### **GPW**: God's Prophetic Word
 
+- added a couple more prophecies
+
 ### **Jph**: *The Works of Flavius Josephus*
 
 ### **KJS**: *KJV* with *Strong's* Inline/Interlinear
