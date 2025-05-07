@@ -21,9 +21,10 @@ ____
 <img src="screenshots/bookshelf.png" width="100px">
 
 * [Bible Reading Schedules](#bible-reading-schedules-)
-* [Emerge-Alive](#emerge-alive-)   **added UKRAINIAN**
+* [Emerge-Alive](#emerge-alive-)
 * [God's Prophetic Word](#gods-prophetic-word-)
 * [Timeline of Bible History](#timeline-of-bible-history-)
+* [VerSet](#verset-)   **NEW project**
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [NWT Concordance](#nwt-concordance-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
@@ -78,6 +79,15 @@ ____
 * **Released**: [2025-01-12](CHANGELOG.md/#tbh_101---2025-01-12)
 * **Note**: Tapping on a year in any of the thematic timelines, will give you an overview of the whole year in the side/study pane; tapping on a kindgom or region tag will take you to the corresponding thematic timeline; and tapping the name of a Hebrew month, will point you to more information. Keep in mind that if you annotate in any way and a future release includes additional historical events, your notes and highlights will no longer match up
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/discussions/65)
+
+____
+## VerSet [⇧](#bookshelf)
+<img src="screenshots/Vst.png" width="100px">
+
+* **Description**: A Bible study and meditation method based on *sets of verses*
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Vst_1.0)**: *Vst_1.0* — [English](https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_F.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_F.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_P.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_T.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_S.jwpub)
+* **Released**: [2025-05-06](CHANGELOG.md/#vst_10---2025-05-05)
+* **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/discussions/84)
 
 ____
 ## Who Wants to Be a Missionary? [⇧](#bookshelf)
