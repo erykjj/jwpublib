@@ -38,9 +38,11 @@
 
 ### **Vst**: VerSet
 
-- new Bible study and meditation project
-
 ____
+## [Vst_1.0] - 2025-05-05
+
+- initial release with 15 sets of scriptures
+
 ## [BaM_6.1] - 2025-04-15
 
 - theme update
@@ -717,6 +719,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Vst_1.0]:https://github.com/erykjj/jwpublib/releases/tag/Vst_1.0
 [BaM_6.1]:https://github.com/erykjj/jwpublib/releases/tag/BaM_6.1
 [Cnc_5.1]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_5.1
 [BaM_6.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_6.0
