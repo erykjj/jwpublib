@@ -27,10 +27,10 @@
 
 ### **TBH**: Timeline of Bible History
 
-- added some more events, adjusted a few others
+- added some more events, adjusted a few others (thank you, @Nokame895)
 - corrected a few references
 - added Polish (thank you, @doulos-achreios)
-- added Italian (thank you, @DeadalusNF, @ferrarantonio, @andy5489, @Gomirato)
+- added Italian (thank you, @DeadalusNF, @ferrarantonio, @andy5489, @Gomirato, Stefano)
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
