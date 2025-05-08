@@ -30,7 +30,7 @@
 ### **TBH**: Timeline of Bible History
 
 - added some more events, adjusted a few others (thank you, @Nokame895)
-- corrected a few references
+- corrected a few references (thank you, @doulos-achreios)
 - added Polish (thank you, @doulos-achreios)
 - added Italian (thank you, @DeadalusNF, @ferrarantonio, @andy5489, @Gomirato, Stefano)
 
