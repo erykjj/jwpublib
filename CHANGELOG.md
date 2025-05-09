@@ -43,6 +43,7 @@
 - added another 15 sets (total 30)
 - added latest version indicator (after JWPubLib link)
 - improved Polish translation (thank you, @doulos-achreios)
+- added Italian
 
 ____
 ## [Vst_1.0] - 2025-05-05
