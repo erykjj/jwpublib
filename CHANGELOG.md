@@ -8,9 +8,11 @@
 
 ### **Cnc**: NWT Concordance
 
+- added appendix section to Polish (thank you, @doulos-achreios)
+
 ### **E-A**: Emerge-Alive
 
-- added Italian (thank you, @DeadalusNF)
+- added Italian (thank you, @DeadalusNF, Stefano)
 - added Spanish (thank you, @MisaelArciniega)
 
 ### **Fth**: *Faith on the March*
