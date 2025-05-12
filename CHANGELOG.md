@@ -25,6 +25,8 @@
 
 ### **KJS**: *KJV* with *Strong's* Inline/Interlinear
 
+- fixed links on Windows
+
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
 - improved tile image
