@@ -26,7 +26,7 @@ ____
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [NWT Concordance](#nwt-concordance-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
-* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
+* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)   **UPDATED**
 * [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)
 * [*Faith on the March*](#faith-on-the-march-)
 * [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)
@@ -128,8 +128,8 @@ ____
 ![preview](screenshots/VED.gif)
 
 * **Description**: More extensive Greek dictionary (with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/VED_5.1)**: [*VED_5.1*](https://github.com/erykjj/jwpublib/releases/download/VED_5.1/VED_5.1.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/VED_5.1/VED_5.1.jwpub)
-* **Released**: [2025-01-12](CHANGELOG.md/#ved_51---2025-01-12)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/VED_5.2)**: [*VED_5.2*](https://github.com/erykjj/jwpublib/releases/download/VED_5.2/VED_5.2.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/VED_5.2/VED_5.2.jwpub)
+* **Released**: [2025-05-13](CHANGELOG.md/#ved_52---2025-05-13)
 
 ____
 ## *KJV* with *Strong's* Inline/Interlinear [⇧](#bookshelf)
