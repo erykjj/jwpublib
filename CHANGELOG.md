@@ -29,8 +29,6 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
-- improved tile image
-
 ### **TBH**: Timeline of Bible History
 
 - added some more events, adjusted a few others (thank you, @Nokame895)
@@ -50,6 +48,10 @@
 - added Italian
 
 ____
+## [Str_5.2] - 2025-05-13
+
+- improved tile image
+
 ## [Vst_1.0] - 2025-05-05
 
 - initial release with 15 sets of scriptures
@@ -730,6 +732,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Str_5.2]:https://github.com/erykjj/jwpublib/releases/tag/Str_5.2
 [Vst_1.0]:https://github.com/erykjj/jwpublib/releases/tag/Vst_1.0
 [BaM_6.1]:https://github.com/erykjj/jwpublib/releases/tag/BaM_6.1
 [Cnc_5.1]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_5.1
