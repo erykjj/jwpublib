@@ -22,10 +22,10 @@ ____
 * [Emerge-Alive](#emerge-alive-)
 * [God's Prophetic Word](#gods-prophetic-word-)
 * [Timeline of Bible History](#timeline-of-bible-history-)
-* [VerSet](#verset-)   **NEW project**
+* [VerSet](#verset-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [NWT Concordance](#nwt-concordance-)
-* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
+* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
 * [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)
 * [*Faith on the March*](#faith-on-the-march-)
@@ -118,8 +118,8 @@ ____
 ![preview](screenshots/Str.gif)
 
 * **Description**: Hebrew and Greek dictionaries and concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words)
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Str_5.1)**: [*Str_5.1*](https://github.com/erykjj/jwpublib/releases/download/Str_5.1/Str_5.1.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_5.1/Str_5.1.jwpub)
-* **Released**: [2025-01-12](CHANGELOG.md/#str_51---2025-01-12)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Str_5.2)**: [*Str_5.2*](https://github.com/erykjj/jwpublib/releases/download/Str_5.2/Str_5.2.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_5.2/Str_5.2.jwpub)
+* **Released**: [2025-05-13](CHANGELOG.md/#str_52---2025-05-13)
 
 ____
 ## Vine's *Expository Dictionary of New Testament Words* [⇧](#bookshelf)
