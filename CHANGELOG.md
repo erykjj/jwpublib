@@ -38,8 +38,6 @@
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
-- improved tile image
-
 ### **Vst**: VerSet
 
 - added another 15 sets (total 30)
@@ -48,6 +46,10 @@
 - added Italian
 
 ____
+## [VED_5.2] - 2025-05-13
+
+- improved tile image
+
 ## [Str_5.2] - 2025-05-13
 
 - improved tile image
@@ -732,6 +734,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[VED_5.2]:https://github.com/erykjj/jwpublib/releases/tag/VED_5.2
 [Str_5.2]:https://github.com/erykjj/jwpublib/releases/tag/Str_5.2
 [Vst_1.0]:https://github.com/erykjj/jwpublib/releases/tag/Vst_1.0
 [BaM_6.1]:https://github.com/erykjj/jwpublib/releases/tag/BaM_6.1
