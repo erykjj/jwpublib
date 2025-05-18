@@ -28,6 +28,7 @@
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
 - some source corrections
+- added Spanish version
 
 ### **TBH**: Timeline of Bible History
 
