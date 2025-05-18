@@ -25,6 +25,8 @@
 
 ### **KJS**: *KJV* with *Strong's* Inline/Interlinear
 
+- small source corrections
+
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
 - some source corrections
