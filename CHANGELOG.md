@@ -27,6 +27,8 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
+- some source corrections
+
 ### **TBH**: Timeline of Bible History
 
 - added some more events, adjusted a few others (thank you, @Nokame895)
