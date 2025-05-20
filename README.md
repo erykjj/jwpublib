@@ -19,15 +19,15 @@ ____
 <img src="screenshots/bookshelf.png" width="100px">
 
 * [Bible Reading Schedules](#bible-reading-schedules-)
-* [Emerge-Alive](#emerge-alive-)
+* [Emerge-Alive](#emerge-alive-)   **added ITALIAN**
 * [God's Prophetic Word](#gods-prophetic-word-)
 * [Timeline of Bible History](#timeline-of-bible-history-)
 * [VerSet](#verset-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [NWT Concordance](#nwt-concordance-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
-* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)   **UPDATED**
-* [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)   **UPDATED**
+* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
+* [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)
 * [*Faith on the March*](#faith-on-the-march-)
 * [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)
 
@@ -49,7 +49,7 @@ ____
 ![preview](screenshots/E-A.gif)
 
 * **Description**: Emergency preparedness manual
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/E-A_2.1)**: *E-A_2.1* — [English](https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_E.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_P.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_P.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_K.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_K.jwpub)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/E-A_2.1)**: *E-A_2.1* — [English](https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_E.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_I.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_I.jwpub),[Polish](https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_P.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_P.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_K.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_K.jwpub)
 * **Released**: [2025-03-30](CHANGELOG.md/#e-a_21---2025-03-30)
 * **Note**: Please report any suggestions you may have [here](https://github.com/erykjj/jwpublib/discussions/70)
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/discussions/73)
