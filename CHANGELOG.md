@@ -18,8 +18,6 @@
 
 ### **GPW**: God's Prophetic Word
 
-- added a couple more prophecies
-
 ### **Jph**: *The Works of Flavius Josephus*
 
 ### **KJS**: *KJV* with *Strong's* Inline/Interlinear
@@ -48,6 +46,10 @@
 - added Italian
 
 ____
+## [GPW_5.2] - 2025-05-20
+
+- added a couple more prophecies
+
 ## [KJS_5.3] - 2025-05-13
 
 - fixed links on Windows
@@ -742,6 +744,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[GPW_5.2]:https://github.com/erykjj/jwpublib/releases/tag/GPW_5.2
 [KJS_5.3]:https://github.com/erykjj/jwpublib/releases/tag/KJS_5.3
 [VED_5.2]:https://github.com/erykjj/jwpublib/releases/tag/VED_5.2
 [Str_5.2]:https://github.com/erykjj/jwpublib/releases/tag/Str_5.2
