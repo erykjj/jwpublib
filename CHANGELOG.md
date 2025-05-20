@@ -12,7 +12,6 @@
 
 ### **E-A**: Emerge-Alive
 
-- added Italian (thank you, @DeadalusNF, Stefano)
 - added Spanish (thank you, @MisaelArciniega)
 
 ### **Fth**: *Faith on the March*
@@ -93,6 +92,8 @@ ____
 
 - 2025-04-30
   - added Ukrainian (thank you, @Tkachlab )
+- 2025-05-20
+  - added Italian (thank you, @DeadalusNF, Stefano)
 
 ## [KJS_5.2] - 2025-02-05
 
