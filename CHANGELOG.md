@@ -8,7 +8,9 @@
 
 ### **Cnc**: NWT Concordance
 
-- added appendix section to Polish (thank you, @doulos-achreios)
+- added Polish to "appendix club" (thank you, @doulos-achreios)
+- fixed linking in appendix items
+- other minor adjustments
 
 ### **E-A**: Emerge-Alive
 
@@ -41,7 +43,6 @@
 ### **Vst**: VerSet
 
 - added another 15 sets (total 30)
-- added latest version indicator (after JWPubLib link)
 - improved Polish translation (thank you, @doulos-achreios)
 - added Italian
 
