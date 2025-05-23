@@ -10,6 +10,7 @@
 
 - added Polish to "appendix club" (thank you, @doulos-achreios)
 - fixed linking in appendix items
+- combined variations in appendix (eg. ABRAHAM & ABRAM)
 - other minor adjustments
 
 ### **E-A**: Emerge-Alive
