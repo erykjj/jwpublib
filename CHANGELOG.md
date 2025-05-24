@@ -29,16 +29,18 @@
 
 ### **TBH**: Timeline of Bible History
 
-- added some more events, adjusted a few others (thank you, @Nokame895)
-- corrected a few references (thank you, @doulos-achreios)
-- added Polish (thank you, @doulos-achreios)
-- added Italian (thank you, @DeadalusNF, @ferrarantonio, @andy5489, @Gomirato, Stefano)
-
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ### **Vst**: VerSet
 
 ____
+## [TBH_11.0] - 2025-05-25
+
+- added some more events, adjusted a few others (thank you, @Nokame895)
+- corrected a few references (thank you, @doulos-achreios)
+- added Polish (thank you, @doulos-achreios)
+- added Italian (thank you, @DeadalusNF, @ferrarantonio, @andy5489, @Gomirato, Stefano)
+
 ## [Vst_1.1] - 2025-05-24
 
 - added another 15 sets (total 30)
@@ -750,6 +752,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[TBH_11.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_11.0
 [Vst_1.1]:https://github.com/erykjj/jwpublib/releases/tag/Vst_1.1
 [Cnc_5.2]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_5.2
 [GPW_5.2]:https://github.com/erykjj/jwpublib/releases/tag/GPW_5.2
