@@ -22,7 +22,7 @@ ____
 * [Emerge-Alive](#emerge-alive-)   **added ITALIAN**
 * [God's Prophetic Word](#gods-prophetic-word-)   **UPDATED**
 * [Timeline of Bible History](#timeline-of-bible-history-)
-* [VerSet](#verset-)
+* [VerSet](#verset-)   **UPDATED**
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [NWT Concordance](#nwt-concordance-)   **UPDATED**
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
@@ -82,9 +82,11 @@ ____
 ## VerSet [⇧](#bookshelf)
 <img src="screenshots/Vst.png" width="100px">
 
+![preview on Android](screenshots/Vst.gif)
+
 * **Description**: A Bible study and meditation method based on *sets of verses*
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Vst_1.0)**: *Vst_1.0* — [English](https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_F.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_F.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_P.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_T.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Vst_1.0/Vst_1.0_S.jwpub)
-* **Released**: [2025-05-06](CHANGELOG.md/#vst_10---2025-05-05)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Vst_1.1)**: *Vst_1.1* — [English](https://github.com/erykjj/jwpublib/releases/download/Vst_1.1/Vst_1.1_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Vst_1.1/Vst_1.1_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/Vst_1.1/Vst_1.1_F.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Vst_1.1/Vst_1.1_F.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/Vst_1.1/Vst_1.1_I.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Vst_1.1/Vst_1.1_I.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/Vst_1.1/Vst_1.1_P.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Vst_1.1/Vst_1.1_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/Vst_1.1/Vst_1.1_T.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Vst_1.1/Vst_1.1_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Vst_1.1/Vst_1.1_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Vst_1.1/Vst_1.1_S.jwpub)
+* **Released**: [2025-05-24](CHANGELOG.md/#vst_11---2025-05-24)
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/discussions/84)
 
 ____
