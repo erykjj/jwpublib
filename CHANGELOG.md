@@ -38,11 +38,13 @@
 
 ### **Vst**: VerSet
 
+____
+## [Vst_1.1] - 2025-05-24
+
 - added another 15 sets (total 30)
 - improved Polish translation (thank you, @doulos-achreios)
 - added Italian
 
-____
 ## [Cnc_5.2] - 2025-05-24
 
 - added Polish to "appendix club" (thank you, @doulos-achreios)
@@ -748,6 +750,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Vst_1.1]:https://github.com/erykjj/jwpublib/releases/tag/Vst_1.1
 [Cnc_5.2]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_5.2
 [GPW_5.2]:https://github.com/erykjj/jwpublib/releases/tag/GPW_5.2
 [KJS_5.3]:https://github.com/erykjj/jwpublib/releases/tag/KJS_5.3
