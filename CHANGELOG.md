@@ -8,11 +8,6 @@
 
 ### **Cnc**: NWT Concordance
 
-- added Polish to "appendix club" (thank you, @doulos-achreios)
-- fixed linking in appendix items
-- combined variations in appendix (eg. ABRAHAM & ABRAM)
-- other minor adjustments
-
 ### **E-A**: Emerge-Alive
 
 - added Spanish (thank you, @MisaelArciniega)
@@ -48,6 +43,13 @@
 - added Italian
 
 ____
+## [Cnc_5.2] - 2025-05-24
+
+- added Polish to "appendix club" (thank you, @doulos-achreios)
+- fixed linking in appendix items
+- combined variations in appendix (eg. ABRAHAM & ABRAM)
+- other minor adjustments
+
 ## [GPW_5.2] - 2025-05-20
 
 - added a couple more prophecies
@@ -746,6 +748,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Cnc_5.2]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_5.2
 [GPW_5.2]:https://github.com/erykjj/jwpublib/releases/tag/GPW_5.2
 [KJS_5.3]:https://github.com/erykjj/jwpublib/releases/tag/KJS_5.3
 [VED_5.2]:https://github.com/erykjj/jwpublib/releases/tag/VED_5.2
