@@ -16,6 +16,8 @@
 
 ### **GPW**: God's Prophetic Word
 
+- added Italian (thank you, Stefano)
+
 ### **Jph**: *The Works of Flavius Josephus*
 
 ### **KJS**: *KJV* with *Strong's* Inline/Interlinear
