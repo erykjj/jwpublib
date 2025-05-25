@@ -35,6 +35,8 @@
 
 ### **Vst**: VerSet
 
+- improved Italian translation (thank you, Stefano)
+
 ____
 ## [Cnc_5.3] - 2025-05-25
 
