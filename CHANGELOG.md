@@ -36,6 +36,14 @@
 ### **Vst**: VerSet
 
 ____
+## [Cnc_5.3] - 2025-05-25
+
+- added Polish to "appendix club" (thank you, @doulos-achreios)
+- fixed linking in appendix items
+  - fixed double-listing of categories
+- combined variations in appendix (eg. ABRAHAM & ABRAM)
+- other minor adjustments
+
 ## [TBH_11.0] - 2025-05-25
 
 - added some more events, adjusted a few others (thank you, @Nokame895)
@@ -754,6 +762,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Cnc_5.3]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_5.3
 [TBH_11.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_11.0
 [Vst_1.1]:https://github.com/erykjj/jwpublib/releases/tag/Vst_1.1
 [Cnc_5.2]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_5.2
