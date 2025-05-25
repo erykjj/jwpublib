@@ -68,6 +68,9 @@ ____
 
 - added a couple more prophecies
 
+- 2025-05-25
+  - added Italian (thank you, Stefano)
+
 ## [KJS_5.3] - 2025-05-13
 
 - fixed links on Windows
