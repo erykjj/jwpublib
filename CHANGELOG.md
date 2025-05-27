@@ -26,10 +26,11 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
+- improved tile image
 - adjusted layout/formatting
 - some source corrections
 - fixed some missing scripture links
-- added Spanish version
+- **added Spanish version**
 
 ### **TBH**: Timeline of Bible History
 
