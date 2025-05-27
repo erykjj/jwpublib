@@ -28,6 +28,7 @@
 
 - adjusted layout/formatting
 - some source corrections
+- fixed some missing scripture links
 - added Spanish version
 
 ### **TBH**: Timeline of Bible History
