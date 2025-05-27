@@ -16,7 +16,7 @@
 
 ### **GPW**: God's Prophetic Word
 
-- added Italian (thank you, Stefano)
+- improved Polish translation (thank you, @doulos-achreios)
 
 ### **Jph**: *The Works of Flavius Josephus*
 
