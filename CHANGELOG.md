@@ -8,6 +8,8 @@
 
 ### **Cnc**: NWT Concordance
 
+- added Italian to "appendix club" (thank you, Stefano)
+
 ### **E-A**: Emerge-Alive
 
 - added Spanish (thank you, @MisaelArciniega)
