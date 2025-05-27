@@ -26,6 +26,7 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
+- adjusted layout/formatting
 - some source corrections
 - added Spanish version
 
