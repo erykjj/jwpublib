@@ -16,8 +16,6 @@
 
 ### **GPW**: God's Prophetic Word
 
-- improved Polish translation (thank you, @doulos-achreios)
-
 ### **Jph**: *The Works of Flavius Josephus*
 
 ### **KJS**: *KJV* with *Strong's* Inline/Interlinear
@@ -77,6 +75,9 @@ ____
 
 - 2025-05-25
   - added Italian (thank you, Stefano)
+
+- 2025-05-27
+  - improved Polish translation (thank you, @doulos-achreios)
 
 ## [KJS_5.3] - 2025-05-13
 
