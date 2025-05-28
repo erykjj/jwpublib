@@ -25,6 +25,8 @@
 
 - small source corrections
 
+### **SPW**: Signs and Powerful Works
+
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
 - improved tile image
@@ -44,6 +46,10 @@
 - improved Italian translation (thank you, Stefano)
 
 ____
+## [SPW_1.0] - 2025-05-28
+
+- initial release
+
 ## [Cnc_5.3] - 2025-05-25
 
 - added Polish to "appendix club" (thank you, @doulos-achreios)
@@ -776,6 +782,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[SPW_1.0]:https://github.com/erykjj/jwpublib/releases/tag/SPW_1.0
 [Cnc_5.3]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_5.3
 [TBH_11.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_11.0
 [Vst_1.1]:https://github.com/erykjj/jwpublib/releases/tag/Vst_1.1
