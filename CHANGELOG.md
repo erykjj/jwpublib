@@ -8,6 +8,7 @@
 
 ### **Cnc**: NWT Concordance
 
+- updated tile image
 - added Italian to "appendix club" (thank you, Stefano)
 
 ### **E-A**: Emerge-Alive
