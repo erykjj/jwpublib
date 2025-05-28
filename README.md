@@ -21,6 +21,7 @@ ____
 * [Bible Reading Schedules](#bible-reading-schedules-)
 * [Emerge-Alive](#emerge-alive-)   **added ITALIAN**
 * [God's Prophetic Word](#gods-prophetic-word-)   **UPDATED Polish, added ITALIAN**
+* [Signs and Powerful Works](#signs-and-powerful-works-)   **NEW**
 * [Timeline of Bible History](#timeline-of-bible-history-)   **UPDATED**
 * [VerSet](#verset-)   **UPDATED**
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
@@ -63,8 +64,20 @@ ____
 * **Description**: A compilation of Bible prophecies *with fulfillment registered in the Scriptures*
 * **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/GPW_5.2)**: *GPW_5.2* — [Cebuano](https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_CV.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_CV.jwpub), [Danish](https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_D.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_D.jwpub), [Dutch](https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_O.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_O.jwpub), [English](https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_E.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_I.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_I.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2a_P.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2a_P.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_T.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_S.jwpub),  [Swedish](https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_Z.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_Z.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_K.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/GPW_5.2/GPW_5.2_K.jwpub)
 * **Released**: [2025-05-20](CHANGELOG.md/#gpw_52---2025-05-20)
-* **Note**: If you spot any discrepancies or can suggest prophecies that have not been included and should be, please do so [here](https://github.com/erykjj/jwpublib/discussions/67)
+* **Note**: If you spot any discrepancies or can suggest prophecies that have not been included and should be, please do so [here](https://github.com/erykjj/jwpublib/discussions/66)
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/discussions/66)
+
+____
+## Signs and Powerful Works [⇧](#bookshelf)
+<img src="screenshots/SPW.png" width="100px">
+
+![preview on Android](screenshots/SPW.gif)
+
+* **Description**: A compilation of miracles performed by Jesus Christ - project idea and research by Victor
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/SPW_1.0)**: *SPW_1.0* — [English](https://github.com/erykjj/jwpublib/releases/download/SPW_1.0/SPW_1.0_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/SPW_1.0/SPW_1.0_E.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/SPW_1.0/SPW_1.0_T.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/SPW_1.0/SPW_1.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/SPW_1.0/SPW_1.0_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/SPW_1.0/SPW_1.0_S.jwpub)
+* **Released**: [2025-05-28](CHANGELOG.md/#spw_10---2025-05-28)
+* **Note**: If you spot any discrepancies or can suggest miracles that have not been included and should be, please do so [here](https://github.com/erykjj/jwpublib/discussions/87)
+* **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/discussions/87)
 
 ____
 ## Timeline of Bible History [⇧](#bookshelf)
