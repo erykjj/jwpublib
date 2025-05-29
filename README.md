@@ -22,7 +22,7 @@ ____
 * [Emerge-Alive](#emerge-alive-)   **added ITALIAN**
 * [God's Prophetic Word](#gods-prophetic-word-)   **UPDATED Polish, added ITALIAN**
 * [Signs and Powerful Works](#signs-and-powerful-works-)   **NEW**
-* [Timeline of Bible History](#timeline-of-bible-history-)   **UPDATED**
+* [Timeline of Bible History](#timeline-of-bible-history-)
 * [VerSet](#verset-)   **UPDATED**
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [NWT Concordance](#nwt-concordance-)
