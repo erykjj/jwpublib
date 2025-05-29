@@ -37,6 +37,8 @@
 
 ### **TBH**: Timeline of Bible History
 
+- fix search
+
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 - updated Strong's extracts
