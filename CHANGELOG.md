@@ -37,8 +37,6 @@
 
 ### **TBH**: Timeline of Bible History
 
-- fix search
-
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 - updated Strong's extracts
@@ -48,6 +46,10 @@
 - improved Italian translation (thank you, Stefano)
 
 ____
+## [TBH_11.1] - 2025-05-29
+
+- fixed search
+
 ## [SPW_1.0] - 2025-05-28
 
 - initial release
@@ -784,6 +786,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[TBH_11.1]:https://github.com/erykjj/jwpublib/releases/tag/TBH_11.1
 [SPW_1.0]:https://github.com/erykjj/jwpublib/releases/tag/SPW_1.0
 [Cnc_5.3]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_5.3
 [TBH_11.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_11.0
