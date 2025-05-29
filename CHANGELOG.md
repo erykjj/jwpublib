@@ -25,6 +25,10 @@
 
 - small source corrections
 
+### **RVS**: *Reina-Valera* with *Strong's* (Spanish)
+
+- coming soon
+
 ### **SPW**: Signs and Powerful Works
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
