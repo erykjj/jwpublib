@@ -37,13 +37,15 @@
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
-- updated Strong's extracts
-
 ### **Vst**: VerSet
 
 - improved Italian translation (thank you, Stefano)
 
 ____
+## [VED_6.0] - 2025-05-30
+
+- updated Strong's extracts
+
 ## [Str_6.0] - 2025-05-30
 
 - improved tile image
@@ -792,6 +794,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[VED_6.0]:https://github.com/erykjj/jwpublib/releases/tag/VED_6.0
 [Str_6.0]:https://github.com/erykjj/jwpublib/releases/tag/Str_6.0
 [TBH_11.1]:https://github.com/erykjj/jwpublib/releases/tag/TBH_11.1
 [SPW_1.0]:https://github.com/erykjj/jwpublib/releases/tag/SPW_1.0
