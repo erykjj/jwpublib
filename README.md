@@ -19,14 +19,14 @@ ____
 <img src="screenshots/bookshelf.png" width="100px">
 
 * [Bible Reading Schedules](#bible-reading-schedules-)
-* [Emerge-Alive](#emerge-alive-)   **added ITALIAN**
-* [God's Prophetic Word](#gods-prophetic-word-)   **UPDATED Polish, added ITALIAN**
+* [Emerge-Alive](#emerge-alive-)
+* [God's Prophetic Word](#gods-prophetic-word-)
 * [Signs and Powerful Works](#signs-and-powerful-works-)   **NEW**
 * [Timeline of Bible History](#timeline-of-bible-history-)   **UPDATED**
-* [VerSet](#verset-)   **UPDATED**
+* [VerSet](#verset-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [NWT Concordance](#nwt-concordance-)
-* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
+* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
 * [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)
 * [*Faith on the March*](#faith-on-the-march-)
@@ -128,13 +128,13 @@ ____
 
 ____
 ## Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* [⇧](#bookshelf)
-<img src="screenshots/Strongs.jpg" width="100px">
+<img src="screenshots/Str_600x600.png" width="100px"><img src="screenshots/StS_600x600.png" width="100px">
 
 ![preview](screenshots/Str.gif)
 
 * **Description**: Hebrew and Greek dictionaries and concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words)
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Str_5.2)**: [*Str_5.2*](https://github.com/erykjj/jwpublib/releases/download/Str_5.2/Str_5.2.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_5.2/Str_5.2.jwpub)
-* **Released**: [2025-05-13](CHANGELOG.md/#str_52---2025-05-13)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Str_6.0)**: *Str_6.0* — [English](https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_E.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_S.jwpub)
+* **Released**: [2025-05-30](CHANGELOG.md/#str_60---2025-05-30)
 
 ____
 ## Vine's *Expository Dictionary of New Testament Words* [⇧](#bookshelf)
