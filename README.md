@@ -132,7 +132,7 @@ ____
 
 ![preview](screenshots/Str.gif)
 
-* **Description**: Hebrew and Greek dictionaries and concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words)
+* **Description**: Hebrew and Greek dictionaries and concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words))
 * **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Str_6.0)**: *Str_6.0* — [English](https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_E.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_S.jwpub)
 * **Released**: [2025-05-30](CHANGELOG.md/#str_60---2025-05-30)
 
@@ -142,7 +142,7 @@ ____
 
 ![preview](screenshots/VED.gif)
 
-* **Description**: More extensive Greek dictionary (with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
+* **Description**: More extensive Greek dictionary (with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament))
 * **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/VED_6.0)**: [*VED_6.0*](https://github.com/erykjj/jwpublib/releases/download/VED_6.0/VED_6.0.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/VED_6.0/VED_6.0.jwpub)
 * **Released**: [2025-05-30](CHANGELOG.md/#ved_60---2025-05-30)
 
