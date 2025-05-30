@@ -133,7 +133,7 @@ ____
 ![preview](screenshots/Str.gif)
 
 * **Description**: Hebrew and Greek dictionaries and concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words))
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Str_6.0)**: *Str_6.0* — [English](https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_E.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_S.jwpub)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Str_6.0)**: *Str_6.0* — [English](https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_E.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0a_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0a_S.jwpub)
 * **Released**: [2025-05-30](CHANGELOG.md/#str_60---2025-05-30)
 
 ____
