@@ -128,7 +128,7 @@ ____
 
 ____
 ## Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* [⇧](#bookshelf)
-<img src="screenshots/Str_600x600.png" width="100px"><img src="screenshots/StS_600x600.png" width="100px">
+<img src="screenshots/Str_600x600.png" width="100px"> <img src="screenshots/StS_600x600.png" width="100px">
 
 ![preview](screenshots/Str.gif)
 
