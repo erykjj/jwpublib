@@ -33,9 +33,6 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
-- some Spanish source corrections
-- fixed some links
-
 ### **TBH**: Timeline of Bible History
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
@@ -56,6 +53,7 @@ ____
 - some source corrections
 - fixed some missing scripture links
 - **added Spanish version**
+  - - fixed some links in v6.0a
 
 ## [TBH_11.1] - 2025-05-29
 
