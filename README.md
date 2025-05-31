@@ -18,19 +18,19 @@ ____
 
 <img src="screenshots/bookshelf.png" width="100px">
 
-### Bible reading and study
+### <span style="font-variant: small-caps;">Bible reading and study</span>
 * [Bible Reading Schedules](#bible-reading-schedules-)
 * [VerSet](#verset-)
-### Bibles and dictionaries
+### <span style="font-variant: small-caps;">Bibles and dictionaries</span>
 * [NWT Concordance](#nwt-concordance-)   **UPDATED Italian**
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)   **UPDATED**
 * [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)
-### Research projects
+### <span style="font-variant: small-caps;">Research projects</span>
 * [God's Prophetic Word](#gods-prophetic-word-)
 * [Signs and Powerful Works](#signs-and-powerful-works-)   **NEW**
 * [Timeline of Bible History](#timeline-of-bible-history-)   **UPDATED**
-### Other
+### <span style="font-variant: small-caps;">Other</span>
 * [Emerge-Alive](#emerge-alive-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [*Faith on the March*](#faith-on-the-march-)
