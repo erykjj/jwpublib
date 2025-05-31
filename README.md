@@ -26,6 +26,7 @@ ____
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)   **UPDATED**
 * [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)
+* [*RV* con números de *Strong*](#rv-con-números-de-strong-)   **NEW**
 ### Research projects
 * [God's Prophetic Word](#gods-prophetic-word-)
 * [Signs and Powerful Works](#signs-and-powerful-works-)   **NEW**
@@ -161,6 +162,17 @@ ____
 * **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/KJS_5.3)**: [*KJS_5.3-inline*](https://github.com/erykjj/jwpublib/releases/download/KJS_5.3/KJS_5.3-inline.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_5.3/KJS_5.3-inline.jwpub) & [*KJS_5.3-interlinear*](https://github.com/erykjj/jwpublib/releases/download/KJS_5.3/KJS_5.3-interlinear.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_5.3/KJS_5.3-interlinear.jwpub)
 * **Released**: [2025-05-13](CHANGELOG.md/#kjs_53---2025-05-13)
 * **Note**: The *interlinear* version needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it: *Bible* → *Languages* → *Delete*. The *inline* version can co-exist with the *Kingdom Interlinear* or the *KJS-interlinear*. Add to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries
+
+____
+## *RV* con números de *Strong* [⇧](#bookshelf)
+<img src="screenshots/RVS.jpeg" width="100px">
+
+![preview](screenshots/RVS.gif)
+
+* **Description**: *Versión Reina-Valera* (1909) con enlaces a [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/RVS_1.0)**: [*RVS_1.0*](https://github.com/erykjj/jwpublib/releases/download/RVS_1.0/RVS_1.0.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/RVS_1.0/RVS_1.0.jwpub)
+* **Released**: [2025-05-31](CHANGELOG.md/#rvs_10---2025-05-31)
+* **Note**: La fuente de esta publicación no es tan buena: algunos números no estan colocados con la palabra correspondiente (pero, sí, en el versículo correcto). No puede corregir eso hasta encontrar una fuente mejor
 
 ____
 ## *Faith on the March* [⇧](#bookshelf)
