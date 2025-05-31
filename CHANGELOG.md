@@ -25,8 +25,6 @@
 
 ### **RVS**: *Reina-Valera* with *Strong's* (Spanish)
 
-- initial release
-
 ### **SPW**: Signs and Powerful Works
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
@@ -40,6 +38,10 @@
 - improved Italian translation (thank you, Stefano)
 
 ____
+## [RVS_1.0] - 2025-05-31
+
+- initial release
+
 ## [TBH_11.2] - 2025-05-31
 
 - fixed some links (thank you, @Nokame895)
@@ -801,6 +803,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[RVS_1.0]:https://github.com/erykjj/jwpublib/releases/tag/RVS_1.0
 [TBH_11.2]:https://github.com/erykjj/jwpublib/releases/tag/TBH_11.2
 [VED_6.0]:https://github.com/erykjj/jwpublib/releases/tag/VED_6.0
 [Str_6.0]:https://github.com/erykjj/jwpublib/releases/tag/Str_6.0
