@@ -8,9 +8,6 @@
 
 ### **Cnc**: NWT Concordance
 
-- updated tile image
-- added Italian to "appendix club" (thank you, Stefano)
-
 ### **E-A**: Emerge-Alive
 
 - added Spanish (thank you, @MisaelArciniega)
@@ -70,6 +67,9 @@ ____
   - fixed double-listing of categories
 - combined variations in appendix (eg. ABRAHAM & ABRAM)
 - other minor adjustments
+
+- 2025-05-30
+  - added Italian to "appendix club" (thank you, Stefano)
 
 ## [TBH_11.0] - 2025-05-25
 
