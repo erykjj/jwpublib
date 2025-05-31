@@ -25,7 +25,7 @@
 
 ### **RVS**: *Reina-Valera* with *Strong's* (Spanish)
 
-- coming soon
+- initial release
 
 ### **SPW**: Signs and Powerful Works
 
