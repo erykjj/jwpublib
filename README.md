@@ -18,20 +18,25 @@ ____
 
 <img src="screenshots/bookshelf.png" width="100px">
 
+### Bible reading and study
 * [Bible Reading Schedules](#bible-reading-schedules-)
-* [Emerge-Alive](#emerge-alive-)
-* [God's Prophetic Word](#gods-prophetic-word-)
-* [Signs and Powerful Works](#signs-and-powerful-works-)   **NEW**
-* [Timeline of Bible History](#timeline-of-bible-history-)   **UPDATED**
 * [VerSet](#verset-)
-* [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
+### Bibles and dictionaries
 * [NWT Concordance](#nwt-concordance-)   **UPDATED Italian**
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)   **UPDATED**
 * [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)
+### Research projects
+* [God's Prophetic Word](#gods-prophetic-word-)
+* [Signs and Powerful Works](#signs-and-powerful-works-)   **NEW**
+* [Timeline of Bible History](#timeline-of-bible-history-)   **UPDATED**
+### Other
+* [Emerge-Alive](#emerge-alive-)
+* [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [*Faith on the March*](#faith-on-the-march-)
 * [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)
 
+____
 ____
 ## Bible Reading Schedules [⇧](#bookshelf)
 <img src="screenshots/BRS.png" width="100px">
