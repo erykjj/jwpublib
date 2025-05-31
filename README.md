@@ -25,7 +25,7 @@ ____
 * [Timeline of Bible History](#timeline-of-bible-history-)   **UPDATED**
 * [VerSet](#verset-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
-* [NWT Concordance](#nwt-concordance-)
+* [NWT Concordance](#nwt-concordance-)   **UPDATED Italian**
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)   **UPDATED**
 * [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)
