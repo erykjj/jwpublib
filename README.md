@@ -18,9 +18,10 @@ ____
 
 <img src="screenshots/bookshelf.png" width="100px">
 
-### <span style="font-variant: small-caps;">Bible reading and study</span>
+<span style="font-variant: small-caps;">**Bible reading and study**</span>
 * [Bible Reading Schedules](#bible-reading-schedules-)
 * [VerSet](#verset-)
+
 ### <span style="font-variant: small-caps;">Bibles and dictionaries</span>
 * [NWT Concordance](#nwt-concordance-)   **UPDATED Italian**
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
