@@ -21,6 +21,7 @@
 ### **KJS**: *KJV* with *Strong's* Inline/Interlinear
 
 - small source corrections
+- updated Strong's extracts
 
 ### **RVS**: *Reina-Valera* with *Strong's* (Spanish)
 
