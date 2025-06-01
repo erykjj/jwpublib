@@ -22,14 +22,14 @@ ____
 * [Bible Reading Schedules](#bible-reading-schedules-)
 * [VerSet](#verset-)
 ### Bibles and dictionaries
-* [NWT Concordance](#nwt-concordance-)   **UPDATED Italian**
+* [NWT Concordance](#nwt-concordance-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)   **UPDATED**
-* [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)
+* [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)   **UPDATED**
 * [*RV* con números de *Strong*](#rv-con-números-de-strong-)   **NEW**
 ### Research projects
 * [God's Prophetic Word](#gods-prophetic-word-)
-* [Signs and Powerful Works](#signs-and-powerful-works-)   **NEW**
+* [Signs and Powerful Works](#signs-and-powerful-works-)
 * [Timeline of Bible History](#timeline-of-bible-history-)   **UPDATED**
 ### Other
 * [Emerge-Alive](#emerge-alive-)
@@ -141,6 +141,7 @@ ____
 * **Description**: Hebrew and Greek dictionaries and concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words))
 * **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Str_6.0)**: *Str_6.0* — [English](https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_E.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0a_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0a_S.jwpub)
 * **Released**: [2025-05-30](CHANGELOG.md/#str_60---2025-05-30)
+* **Note**: If the content doesn't render properly, uninstall your current version of *Str*, restart JW Library and install the new *Str.jwpub*
 
 ____
 ## Vine's *Expository Dictionary of New Testament Words* [⇧](#bookshelf)
@@ -159,8 +160,8 @@ ____
 <img src="screenshots/KJS-versions.png" width="300px">
 
 * **Description**: *King James Version* with inline/interlinear links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/KJS_5.3)**: [*KJS_5.3-inline*](https://github.com/erykjj/jwpublib/releases/download/KJS_5.3/KJS_5.3-inline.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_5.3/KJS_5.3-inline.jwpub) & [*KJS_5.3-interlinear*](https://github.com/erykjj/jwpublib/releases/download/KJS_5.3/KJS_5.3-interlinear.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_5.3/KJS_5.3-interlinear.jwpub)
-* **Released**: [2025-05-13](CHANGELOG.md/#kjs_53---2025-05-13)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/KJS_6.0)**: [*KJS_6.0-inline*](https://github.com/erykjj/jwpublib/releases/download/KJS_6.0/KJS_6.0-inline.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_6.0/KJS_6.0-inline.jwpub) & [*KJS_6.0-interlinear*](https://github.com/erykjj/jwpublib/releases/download/KJS_6.0/KJS_6.0-interlinear.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/KJS_6.0/KJS_6.0-interlinear.jwpub)
+* **Released**: [2025-06-01](CHANGELOG.md/#kjs_60---2025-06-01)
 * **Note**: The *interlinear* version needs to replace the *Kingdom Interlinear*, so if you have that installed, you'll need to remove it: *Bible* → *Languages* → *Delete*. The *inline* version can co-exist with the *Kingdom Interlinear* or the *KJS-interlinear*. Add to your Bible comparison selection in the side pane for quick lookup of words in Strong's dictionaries
 
 ____
