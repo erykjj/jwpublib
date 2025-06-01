@@ -20,9 +20,6 @@
 
 ### **KJS**: *KJV* with *Strong's* Inline/Interlinear
 
-- small source corrections
-- updated Strong's extracts
-
 ### **RVS**: *Reina-Valera* with *Strong's* (Spanish)
 
 ### **SPW**: Signs and Powerful Works
@@ -38,6 +35,12 @@
 - improved Italian translation (thank you, Stefano)
 
 ____
+## [KJS_6.0] - 2025-06-01
+
+- small source corrections
+- updated tile image
+- updated Strong's extracts
+
 ## [RVS_1.0] - 2025-05-31
 
 - initial release
@@ -803,6 +806,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[KJS_6.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_6.0
 [RVS_1.0]:https://github.com/erykjj/jwpublib/releases/tag/RVS_1.0
 [TBH_11.2]:https://github.com/erykjj/jwpublib/releases/tag/TBH_11.2
 [VED_6.0]:https://github.com/erykjj/jwpublib/releases/tag/VED_6.0
