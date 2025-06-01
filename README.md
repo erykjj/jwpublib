@@ -154,7 +154,7 @@ ____
 
 ____
 ## *KJV* with *Strong's* Inline/Interlinear [⇧](#bookshelf)
-<img src="screenshots/KJS.png" width="100px">
+<img src="screenshots/KJS.jpg" width="100px">
 
 <img src="screenshots/KJS-versions.png" width="300px">
 
