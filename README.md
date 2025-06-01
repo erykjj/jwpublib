@@ -202,7 +202,7 @@ Feel free to [get in touch](https://github.com/erykjj/jwpublib/issues) and post 
 My other *JW Library* projects: [**JWLManager**](https://github.com/erykjj/jwlmanager) and [**jwlFusion**](https://github.com/erykjj/jwlFusion)
 
 ____
-⠗⠑⠑⠝⠊⠛⠝⠑
+<img src="screenshots/inf.png" width="100px">
 
 #### Footnotes:
 [^1]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*
