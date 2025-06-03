@@ -30,6 +30,8 @@
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
+- fixed highlighting on Windows
+
 ### **Vst**: VerSet
 
 - improved Italian translation (thank you, Stefano)
