@@ -10,7 +10,8 @@
 
 ### **E-A**: Emerge-Alive
 
-- added Spanish (thank you, @MisaelArciniega)
+- added Spanish (thank you, @MisaelArciniega) - needs verification
+- fixed highlighting on Windows
 
 ### **Fth**: *Faith on the March*
 
@@ -25,6 +26,8 @@
 ### **KJS**: *KJV* with *Strong's* Inline/Interlinear
 
 ### **RVS**: *Reina-Valera* with *Strong's* (Spanish)
+
+- moved to better source material
 
 ### **SPW**: Signs and Powerful Works
 
