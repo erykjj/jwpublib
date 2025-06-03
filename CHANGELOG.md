@@ -254,7 +254,10 @@ ____
 - updated icons & tile images
 
 - 2025-03-20
-  - Added Romanian (thank you, @pfamoldovan)
+  - added Romanian (thank you, @pfamoldovan)
+
+- 2025-06-02
+  - added Indonesian (thank you, @baraputra)
 
 ## [Cnc_3.0] - 2024-12-10
 
