@@ -14,9 +14,13 @@
 
 ### **Fth**: *Faith on the March*
 
+- fixed highlighting on Windows
+
 ### **GPW**: God's Prophetic Word
 
 ### **Jph**: *The Works of Flavius Josephus*
+
+- fixed highlighting on Windows
 
 ### **KJS**: *KJV* with *Strong's* Inline/Interlinear
 
