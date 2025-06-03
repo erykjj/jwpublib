@@ -30,6 +30,8 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
+- fixed highlighting on Windows
+
 ### **TBH**: Timeline of Bible History
 
 - fixed highlighting on Windows
