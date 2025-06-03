@@ -32,6 +32,8 @@
 
 ### **TBH**: Timeline of Bible History
 
+- fixed highlighting on Windows
+
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 - fixed highlighting on Windows
