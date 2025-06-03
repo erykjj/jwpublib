@@ -43,6 +43,8 @@
 ### **Vst**: VerSet
 
 - improved Italian translation (thank you, Stefano)
+- fixed highlighting on Windows
+- added another 30 sets
 
 ____
 ## [KJS_6.0] - 2025-06-01
