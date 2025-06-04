@@ -32,7 +32,7 @@ ____
 * [Signs and Powerful Works](#signs-and-powerful-works-)
 * [Timeline of Bible History](#timeline-of-bible-history-)
 ### Other
-* [Emerge-Alive](#emerge-alive-)
+* [Emerge-Alive](#emerge-alive-)   **UPDATED**
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [*Faith on the March*](#faith-on-the-march-)
 * [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)
@@ -56,8 +56,8 @@ ____
 ![preview](screenshots/E-A.gif)
 
 * **Description**: Emergency preparedness manual
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/E-A_2.1)**: *E-A_2.1* — [English](https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_E.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_I.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_I.jwpub),[Polish](https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_P.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_P.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_K.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.1/E-A_2.1_K.jwpub)
-* **Released**: [2025-03-30](CHANGELOG.md/#e-a_21---2025-03-30)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/E-A_2.2)**: *E-A_2.2* — [English](https://github.com/erykjj/jwpublib/releases/download/E-A_2.2/E-A_2.2_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.2/E-A_2.2_E.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/E-A_2.2/E-A_2.2_I.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.2/E-A_2.2_I.jwpub),[Polish](https://github.com/erykjj/jwpublib/releases/download/E-A_2.2/E-A_2.2_P.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.2/E-A_2.2_P.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/E-A_2.2/E-A_2.2_K.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.2/E-A_2.2_K.jwpub)
+* **Released**: [2025-03-30](CHANGELOG.md/#e-a_22---2025-06-04)
 * **Note**: Please report any suggestions you may have [here](https://github.com/erykjj/jwpublib/discussions/70)
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/discussions/73)
 
