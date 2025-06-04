@@ -14,8 +14,6 @@
 
 ### **Fth**: *Faith on the March*
 
-- fixed highlighting on Windows
-
 ### **GPW**: God's Prophetic Word
 
 ### **Jph**: *The Works of Flavius Josephus*
@@ -52,6 +50,10 @@
 - added another 30 sets
 
 ____
+## [Fth_3.1] - 2025-06-04
+
+- fixed highlighting on Windows
+
 ## [E-A_2.2] - 2025-06-04
 
 - fixed highlighting on Windows
@@ -830,6 +832,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Fth_3.1]:https://github.com/erykjj/jwpublib/releases/tag/Fth_3.1
 [E-A_2.2]:https://github.com/erykjj/jwpublib/releases/tag/E-A_2.2
 [KJS_6.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_6.0
 [RVS_1.0]:https://github.com/erykjj/jwpublib/releases/tag/RVS_1.0
