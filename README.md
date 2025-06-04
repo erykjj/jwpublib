@@ -35,7 +35,7 @@ ____
 * [Emerge-Alive](#emerge-alive-)   **UPDATED**
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
 * [*Faith on the March*](#faith-on-the-march-)   **UPDATED**
-* [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)
+* [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)   **UPDATED**
 
 ____
 ____
@@ -191,8 +191,8 @@ ____
 ![preview on Android](screenshots/Jph.gif)
 
 * **Description**: *Antiquities of the Jews*, *Jewish War* and *The Life of Flavius Josephus*
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Jph_2.0)**: [*Jph_2.0*](https://github.com/erykjj/jwpublib/releases/download/Jph_2.0/Jph_2.0.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Jph_2.0/Jph_2.0.jwpub)
-* **Released**: [2025-01-01](CHANGELOG.md/#jph_20---2025-01-01)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Jph_2.1)**: [*Jph_2.1*](https://github.com/erykjj/jwpublib/releases/download/Jph_2.1/Jph_2.1.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Jph_2.1/Jph_2.1.jwpub)
+* **Released**: [2025-06-04](CHANGELOG.md/#jph_21---2025-06-04)
 
 ____
 ____
