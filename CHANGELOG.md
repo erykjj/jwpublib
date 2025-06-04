@@ -32,14 +32,16 @@
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
+### **Vst**: VerSet
+
+____
+## [VED_6.1] - 2025-06-04
+
 - fixed highlighting on Windows
 - fixed crash on Windows 11 (thank you, @glenmwright & @farsiray)
   - removed custom tile image
 - moved credits to "Notes" section (after all the letters)
 
-### **Vst**: VerSet
-
-____
 ## [Str_6.1] - 2025-06-04
 
 - fixed highlighting on Windows
@@ -841,6 +843,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[VED_6.1]:https://github.com/erykjj/jwpublib/releases/tag/VED_6.1
 [Str_6.1]:https://github.com/erykjj/jwpublib/releases/tag/Str_6.1
 [Vst_1.2]:https://github.com/erykjj/jwpublib/releases/tag/Vst_1.2
 [Jph_2.1]:https://github.com/erykjj/jwpublib/releases/tag/Jph_2.1
