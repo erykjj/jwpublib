@@ -11,7 +11,6 @@
 ### **E-A**: Emerge-Alive
 
 - added Spanish (thank you, @MisaelArciniega) - needs verification
-- fixed highlighting on Windows
 
 ### **Fth**: *Faith on the March*
 
@@ -42,7 +41,7 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 - fixed highlighting on Windows
-- fixed crash on Windows (thank you, @glenmwright & @farsiray)
+- fixed crash on Windows 11 (thank you, @glenmwright & @farsiray)
   - removed custom tile image
 - moved credits to "Notes" section (after all the letters)
 
@@ -53,6 +52,10 @@
 - added another 30 sets
 
 ____
+## [E-A_2.2] - 2025-06-04
+
+- fixed highlighting on Windows
+
 ## [KJS_6.0] - 2025-06-01
 
 - small source corrections
@@ -827,6 +830,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[E-A_2.2]:https://github.com/erykjj/jwpublib/releases/tag/E-A_2.2
 [KJS_6.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_6.0
 [RVS_1.0]:https://github.com/erykjj/jwpublib/releases/tag/RVS_1.0
 [TBH_11.2]:https://github.com/erykjj/jwpublib/releases/tag/TBH_11.2
