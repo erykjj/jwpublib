@@ -23,14 +23,14 @@ ____
 * [VerSet](#verset-)
 ### Bibles and dictionaries
 * [NWT Concordance](#nwt-concordance-)
-* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
-* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)   **UPDATED**
+* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
+* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
 * [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)   **UPDATED**
 * [*RV* con números de *Strong*](#rv-con-números-de-strong-)   **NEW**
 ### Research projects
 * [God's Prophetic Word](#gods-prophetic-word-)
 * [Signs and Powerful Works](#signs-and-powerful-works-)
-* [Timeline of Bible History](#timeline-of-bible-history-)   **UPDATED**
+* [Timeline of Bible History](#timeline-of-bible-history-)
 ### Other
 * [Emerge-Alive](#emerge-alive-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
