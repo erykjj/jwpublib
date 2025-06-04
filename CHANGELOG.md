@@ -32,8 +32,6 @@
 
 ### **TBH**: Timeline of Bible History
 
-- fixed highlighting on Windows
-
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 - fixed highlighting on Windows
@@ -48,6 +46,11 @@
 - added another 30 sets
 
 ____
+## [TBH_11.3] - 2025-06-04
+
+- fixed highlighting on Windows
+  - keep in mind that if you annotate in any way and a future release includes additional historical events, your notes and highlights will no longer match up
+
 ## [Jph_2.1] - 2025-06-04
 
 - fixed highlighting on Windows
