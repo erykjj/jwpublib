@@ -24,7 +24,7 @@ ____
 ### Bibles and dictionaries
 * [NWT Concordance](#nwt-concordance-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
-* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
+* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)   **UPDATED**
 * [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)   **UPDATED**
 * [*RV* con números de *Strong*](#rv-con-números-de-strong-)   **NEW**
 ### Research projects
@@ -150,8 +150,8 @@ ____
 ![preview](screenshots/VED.gif)
 
 * **Description**: More extensive Greek dictionary (with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament))
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/VED_6.0)**: [*VED_6.0*](https://github.com/erykjj/jwpublib/releases/download/VED_6.0/VED_6.0.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/VED_6.0/VED_6.0.jwpub)
-* **Released**: [2025-05-30](CHANGELOG.md/#ved_60---2025-05-30)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/VED_6.1)**: [*VED_6.1*](https://github.com/erykjj/jwpublib/releases/download/VED_6.1/VED_6.1.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/VED_6.1/VED_6.1.jwpub)
+* **Released**: [2025-06-04](CHANGELOG.md/#ved_61---2025-06-04)
 
 ____
 ## *KJV* with *Strong's* Inline/Interlinear [⇧](#bookshelf)
