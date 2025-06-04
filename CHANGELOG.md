@@ -28,8 +28,6 @@
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
-- fixed highlighting on Windows
-
 ### **TBH**: Timeline of Bible History
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
@@ -42,6 +40,10 @@
 ### **Vst**: VerSet
 
 ____
+## [Str_6.1] - 2025-06-04
+
+- fixed highlighting on Windows
+
 ## [Vst_1.2] - 2025-06-04
 
 - improved Italian translation (thank you, Stefano)
@@ -839,6 +841,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Str_6.1]:https://github.com/erykjj/jwpublib/releases/tag/Str_6.1
 [Vst_1.2]:https://github.com/erykjj/jwpublib/releases/tag/Vst_1.2
 [Jph_2.1]:https://github.com/erykjj/jwpublib/releases/tag/Jph_2.1
 [Fth_3.1]:https://github.com/erykjj/jwpublib/releases/tag/Fth_3.1
