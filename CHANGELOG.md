@@ -42,6 +42,9 @@
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 - fixed highlighting on Windows
+- fixed crash on Windows (thank you, @glenmwright & @farsiray)
+  - removed custom tile image
+- moved credits to "Notes" section (after all the letters)
 
 ### **Vst**: VerSet
 
