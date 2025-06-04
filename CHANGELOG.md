@@ -18,8 +18,6 @@
 
 ### **Jph**: *The Works of Flavius Josephus*
 
-- fixed highlighting on Windows
-
 ### **KJS**: *KJV* with *Strong's* Inline/Interlinear
 
 ### **RVS**: *Reina-Valera* with *Strong's* (Spanish)
@@ -50,6 +48,10 @@
 - added another 30 sets
 
 ____
+## [Jph_2.1] - 2025-06-04
+
+- fixed highlighting on Windows
+
 ## [Fth_3.1] - 2025-06-04
 
 - fixed highlighting on Windows
@@ -832,6 +834,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Jph_2.1]:https://github.com/erykjj/jwpublib/releases/tag/Jph_2.1
 [Fth_3.1]:https://github.com/erykjj/jwpublib/releases/tag/Fth_3.1
 [E-A_2.2]:https://github.com/erykjj/jwpublib/releases/tag/E-A_2.2
 [KJS_6.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_6.0
