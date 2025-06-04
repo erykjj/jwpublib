@@ -23,7 +23,7 @@ ____
 * [VerSet](#verset-)   **UPDATED**
 ### Bibles and dictionaries
 * [NWT Concordance](#nwt-concordance-)
-* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
+* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
 * [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)   **UPDATED**
 * [*RV* con números de *Strong*](#rv-con-números-de-strong-)   **NEW**
@@ -139,8 +139,8 @@ ____
 ![preview](screenshots/Str.gif)
 
 * **Description**: Hebrew and Greek dictionaries and concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words))
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Str_6.0)**: *Str_6.0* — [English](https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0_E.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0a_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_6.0/Str_6.0a_S.jwpub)
-* **Released**: [2025-05-30](CHANGELOG.md/#str_60---2025-05-30)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Str_6.1)**: *Str_6.1* — [English](https://github.com/erykjj/jwpublib/releases/download/Str_6.1/Str_6.1_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_6.1/Str_6.1_E.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Str_6.1/Str_6.1_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_6.1/Str_6.1_S.jwpub)
+* **Released**: [2025-06-04](CHANGELOG.md/#str_61---2025-06-04)
 * **Note**: If the content doesn't render properly, uninstall your current version of *Str*, restart JW Library and install the new *Str.jwpub*
 
 ____
