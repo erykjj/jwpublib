@@ -34,7 +34,7 @@ ____
 ### Other
 * [Emerge-Alive](#emerge-alive-)   **UPDATED**
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
-* [*Faith on the March*](#faith-on-the-march-)
+* [*Faith on the March*](#faith-on-the-march-)   **UPDATED**
 * [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)
 
 ____
@@ -57,7 +57,7 @@ ____
 
 * **Description**: Emergency preparedness manual
 * **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/E-A_2.2)**: *E-A_2.2* — [English](https://github.com/erykjj/jwpublib/releases/download/E-A_2.2/E-A_2.2_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.2/E-A_2.2_E.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/E-A_2.2/E-A_2.2_I.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.2/E-A_2.2_I.jwpub),[Polish](https://github.com/erykjj/jwpublib/releases/download/E-A_2.2/E-A_2.2_P.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.2/E-A_2.2_P.jwpub), [Ukrainian](https://github.com/erykjj/jwpublib/releases/download/E-A_2.2/E-A_2.2_K.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/E-A_2.2/E-A_2.2_K.jwpub)
-* **Released**: [2025-03-30](CHANGELOG.md/#e-a_22---2025-06-04)
+* **Released**: [2025-06-04](CHANGELOG.md/#e-a_22---2025-06-04)
 * **Note**: Please report any suggestions you may have [here](https://github.com/erykjj/jwpublib/discussions/70)
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/discussions/73)
 
@@ -180,8 +180,8 @@ ____
 <img src="screenshots/Faith.jpg" width="100px">
 
 * **Description**: By A. H. Macmillan; originally published in 1957
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Fth_3.0)**: [*Fth_3.0*](https://github.com/erykjj/jwpublib/releases/download/Fth_3.0/Fth_3.0.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Fth_3.0/Fth_3.0.jwpub)
-* **Released**: [2025-01-01](CHANGELOG.md/#fth_30---2025-01-01)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Fth_3.1)**: [*Fth_3.1*](https://github.com/erykjj/jwpublib/releases/download/Fth_3.1/Fth_3.1.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Fth_3.1/Fth_3.1.jwpub)
+* **Released**: [2025-06-04](CHANGELOG.md/#fth_31---2025-06-04)
 * **Note**: Please report any errors [here](https://github.com/erykjj/jwpublib/issues/54)
 
 ____
