@@ -41,11 +41,13 @@
 
 ### **Vst**: VerSet
 
+____
+## [Vst_1.2] - 2025-06-04
+
 - improved Italian translation (thank you, Stefano)
 - fixed highlighting on Windows
 - added another 30 sets
 
-____
 ## [TBH_11.3] - 2025-06-04
 
 - fixed highlighting on Windows
@@ -837,6 +839,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Vst_1.2]:https://github.com/erykjj/jwpublib/releases/tag/Vst_1.2
 [Jph_2.1]:https://github.com/erykjj/jwpublib/releases/tag/Jph_2.1
 [Fth_3.1]:https://github.com/erykjj/jwpublib/releases/tag/Fth_3.1
 [E-A_2.2]:https://github.com/erykjj/jwpublib/releases/tag/E-A_2.2
