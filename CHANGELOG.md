@@ -69,6 +69,9 @@ ____
 
 - fixed highlighting on Windows
 
+- 2025-06-06
+  - updated Polish translations
+
 ## [KJS_6.0] - 2025-06-01
 
 - small source corrections
