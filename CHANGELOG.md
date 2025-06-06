@@ -146,6 +146,9 @@ ____
 - 2025-05-27
   - improved Polish translation (thank you, @doulos-achreios)
 
+- 2025-06-06
+  - improved Polish translation (thank you, @doulos-achreios)
+
 ## [KJS_5.3] - 2025-05-13
 
 - fixed links on Windows
