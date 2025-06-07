@@ -35,6 +35,11 @@
 ### **Vst**: VerSet
 
 ____
+## [Cnc_6.0] - 2025-06-06
+
+- added Portuguese to "appendix club" (thank you, @BokuWaRamirezDa)
+- small adjustments in Appendix section
+
 ## [VED_6.1] - 2025-06-04
 
 - fixed highlighting on Windows
@@ -852,6 +857,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Cnc_6.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_6.0
 [VED_6.1]:https://github.com/erykjj/jwpublib/releases/tag/VED_6.1
 [Str_6.1]:https://github.com/erykjj/jwpublib/releases/tag/Str_6.1
 [Vst_1.2]:https://github.com/erykjj/jwpublib/releases/tag/Vst_1.2
