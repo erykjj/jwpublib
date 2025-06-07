@@ -52,6 +52,9 @@ ____
 - fixed highlighting on Windows
 - added another 30 sets
 
+- 2025-06-06
+  - updated Polish translation (thank you, @doulos-achreios)
+
 ## [TBH_11.3] - 2025-06-04
 
 - fixed highlighting on Windows
