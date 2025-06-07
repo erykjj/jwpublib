@@ -22,7 +22,8 @@
 
 ### **RVS**: *Reina-Valera* with *Strong's* (Spanish)
 
-- moved to better source material
+- moved to **better source** material
+- added **interlinear** version
 
 ### **SPW**: Signs and Powerful Works
 
