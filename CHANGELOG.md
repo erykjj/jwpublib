@@ -37,7 +37,7 @@
 ____
 ## [RVS_2.0] - 2025-06-08
 
-- moved to (slightly) **better source** material
+- moved to (slightly) **better source** material (thank you, @Nokame895)
 - added **interlinear** version
 
 ## [Cnc_6.0] - 2025-06-06
