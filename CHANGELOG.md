@@ -22,12 +22,14 @@
 
 ### **RVS**: *Reina-Valera* with *Strong's* (Spanish)
 
-- moved to **better source** material
+- moved to (slightly) **better source** material
 - added **interlinear** version
 
 ### **SPW**: Signs and Powerful Works
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
+
+- adjusted Spanish concordance listings
 
 ### **TBH**: Timeline of Bible History
 
