@@ -25,8 +25,8 @@ ____
 * [NWT Concordance](#nwt-concordance-)   **UPDATED**
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)   **UPDATED**
-* [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)   **UPDATED**
-* [*RV* con números de *Strong*](#rv-con-números-de-strong-)
+* [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)
+* [*RV* con números de *Strong*](#rv-con-números-de-strong-)   **UPDATED**
 ### Research projects
 * [God's Prophetic Word](#gods-prophetic-word-)   **UPDATED Polish**
 * [Signs and Powerful Works](#signs-and-powerful-works-)
@@ -171,9 +171,8 @@ ____
 ![preview](screenshots/RVS.gif)
 
 * **Description**: *Versión Reina-Valera* (1909) con enlaces a [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/RVS_1.0)**: [*RVS_1.0*](https://github.com/erykjj/jwpublib/releases/download/RVS_1.0/RVS_1.0.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/RVS_1.0/RVS_1.0.jwpub)
-* **Released**: [2025-05-31](CHANGELOG.md/#rvs_10---2025-05-31)
-* **Note**: La fuente de esta publicación no es tan buena: algunos números no estan colocados con la palabra correspondiente (pero, sí, en el versículo correcto). No puede corregir eso hasta encontrar una fuente mejor
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/RVS_2.0)**: [*RVS_2.0-lineal*](https://github.com/erykjj/jwpublib/releases/download/RVS_2.0/RVS_2.0-lineal.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/RVS_2.0/RVS_2.0-lineal.jwpub) & [*RVS_2.0-interlineal*](https://github.com/erykjj/jwpublib/releases/download/RVS_2.0/RVS_2.0-interlineal.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/RVS_2.0/RVS_2.0-interlineal.jwpub)
+* **Released**: [2025-06-08](CHANGELOG.md/#rvs_20---2025-06-08)
 
 ____
 ## *Faith on the March* [⇧](#bookshelf)
