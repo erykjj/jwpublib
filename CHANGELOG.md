@@ -22,9 +22,6 @@
 
 ### **RVS**: *Reina-Valera* with *Strong's* (Spanish)
 
-- moved to (slightly) **better source** material
-- added **interlinear** version
-
 ### **SPW**: Signs and Powerful Works
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
@@ -38,6 +35,11 @@
 ### **Vst**: VerSet
 
 ____
+## [RVS_2.0] - 2025-06-08
+
+- moved to (slightly) **better source** material
+- added **interlinear** version
+
 ## [Cnc_6.0] - 2025-06-06
 
 - added Portuguese to "appendix club" (thank you, @BokuWaRamirezDa)
@@ -860,6 +862,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[RVS_2.0]:https://github.com/erykjj/jwpublib/releases/tag/RVS_2.0
 [Cnc_6.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_6.0
 [VED_6.1]:https://github.com/erykjj/jwpublib/releases/tag/VED_6.1
 [Str_6.1]:https://github.com/erykjj/jwpublib/releases/tag/Str_6.1
