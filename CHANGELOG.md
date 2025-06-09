@@ -24,6 +24,8 @@
 
 ### **SPW**: Signs and Powerful Works
 
+- small content corrections (thank you, @doulos-achreios)
+
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
 - adjusted Spanish concordance listings
