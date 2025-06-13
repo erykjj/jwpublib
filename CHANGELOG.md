@@ -27,6 +27,7 @@
 - small content corrections (thank you, @doulos-achreios)
 - added miracles performed by others (thank you, Victor)
 - added grouping/view by person
+- cosmetic fixes
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
 
