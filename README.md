@@ -20,22 +20,22 @@ ____
 
 ### Bible reading and study
 * [Bible Reading Schedules](#bible-reading-schedules-)
-* [VerSet](#verset-)   **UPDATED**
+* [VerSet](#verset-)
 ### Bibles and dictionaries
-* [NWT Concordance](#nwt-concordance-)   **UPDATED**
-* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)   **UPDATED**
-* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)   **UPDATED**
+* [NWT Concordance](#nwt-concordance-)
+* [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
+* [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
 * [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)
 * [*RV* con números de *Strong*](#rv-con-números-de-strong-)   **UPDATED**
 ### Research projects
-* [God's Prophetic Word](#gods-prophetic-word-)   **UPDATED Polish**
+* [God's Prophetic Word](#gods-prophetic-word-)
 * [Signs and Powerful Works](#signs-and-powerful-works-)
-* [Timeline of Bible History](#timeline-of-bible-history-)   **UPDATED**
+* [Timeline of Bible History](#timeline-of-bible-history-)
 ### Other
-* [Emerge-Alive](#emerge-alive-)   **UPDATED**
+* [Emerge-Alive](#emerge-alive-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
-* [*Faith on the March*](#faith-on-the-march-)   **UPDATED**
-* [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)   **UPDATED**
+* [*Faith on the March*](#faith-on-the-march-)
+* [*The Works of Flavius Josephus*](#the-works-of-flavius-josephus-)
 
 ____
 ____
@@ -79,9 +79,9 @@ ____
 
 ![preview on Android](screenshots/SPW.gif)
 
-* **Description**: A compilation of miracles performed by Jesus Christ - project idea and research by Victor
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/SPW_1.0)**: *SPW_1.0* — [English](https://github.com/erykjj/jwpublib/releases/download/SPW_1.0/SPW_1.0_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/SPW_1.0/SPW_1.0_E.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/SPW_1.0/SPW_1.0_T.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/SPW_1.0/SPW_1.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/SPW_1.0/SPW_1.0_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/SPW_1.0/SPW_1.0_S.jwpub)
-* **Released**: [2025-05-28](CHANGELOG.md/#spw_10---2025-05-28)
+* **Description**: A compilation of miracles performed by Jesus Christ and others - project idea and research by Victor
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/SPW_2.0)**: *SPW_2.0* — [English](https://github.com/erykjj/jwpublib/releases/download/SPW_2.0/SPW_2.0_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/SPW_2.0/SPW_2.0_E.jwpub), [Portuguese](https://github.com/erykjj/jwpublib/releases/download/SPW_2.0/SPW_2.0_T.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/SPW_2.0/SPW_2.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/SPW_2.0/SPW_2.0_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/SPW_2.0/SPW_2.0_S.jwpub)
+* **Released**: [2025-06-16](CHANGELOG.md/#spw_20---2025-06-16)
 * **Note**: If you spot any discrepancies or can suggest miracles that have not been included and should be, please do so [here](https://github.com/erykjj/jwpublib/discussions/87)
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/discussions/87)
 
