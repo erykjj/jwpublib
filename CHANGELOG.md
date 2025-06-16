@@ -20,6 +20,10 @@
 
 ### **KJS**: *KJV* with *Strong's* Inline/Interlinear
 
+### **MTH**: Modern Theocratic History
+
+- history in the making
+
 ### **RVS**: *Reina-Valera* with *Strong's* (Spanish)
 
 - source corrections
