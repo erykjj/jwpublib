@@ -27,6 +27,7 @@
 ### **RVS**: *Reina-Valera* with *Strong's* (Spanish)
 
 - source corrections
+- keep intrlinear groups together with non-breaking space
 
 ### **SPW**: Signs and Powerful Works
 
