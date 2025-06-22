@@ -37,14 +37,16 @@
 
 ### **TBH**: Timeline of Bible History
 
-- cosmetic improvements
-- updated French translation (thank you, @PhilGdG)
-
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ### **Vst**: VerSet
 
 ____
+## [TBH_12.0] - 2025-06-22
+
+- cosmetic improvements
+- updated French translation (thank you, @PhilGdG)
+
 ## [SPW_2.0] - 2025-06-16
 
 - small content corrections (thank you, @doulos-achreios)
@@ -879,6 +881,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[TBH_12.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_12.0
 [SPW_2.0]:https://github.com/erykjj/jwpublib/releases/tag/SPW_2.0
 [RVS_2.0]:https://github.com/erykjj/jwpublib/releases/tag/RVS_2.0
 [Cnc_6.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_6.0
