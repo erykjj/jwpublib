@@ -22,8 +22,6 @@
 
 ### **MTH**: Modern Theocratic History
 
-- history in the making
-
 ### **RVS**: *Reina-Valera* with *Strong's* (Spanish)
 
 - source corrections
@@ -42,6 +40,10 @@
 ### **Vst**: VerSet
 
 ____
+## [MTH_1.0] - 2025-06-27
+
+- initial release
+
 ## [TBH_12.0] - 2025-06-22
 
 - cosmetic improvements
@@ -881,6 +883,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[MTH_1.0]:https://github.com/erykjj/jwpublib/releases/tag/MTH_1.0
 [TBH_12.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_12.0
 [SPW_2.0]:https://github.com/erykjj/jwpublib/releases/tag/SPW_2.0
 [RVS_2.0]:https://github.com/erykjj/jwpublib/releases/tag/RVS_2.0
