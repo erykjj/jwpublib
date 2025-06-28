@@ -37,6 +37,8 @@
 
 ### **TBH**: Timeline of Bible History
 
+- cosmetic fixes and improvements
+
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ### **Vst**: VerSet
