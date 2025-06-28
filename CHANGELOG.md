@@ -42,6 +42,10 @@
 ### **Vst**: VerSet
 
 ____
+## [Cnc_6.1] - 2025-06-28
+
+- fixed indexing of possessive forms (thank you, Mysia)
+
 ## [MTH_1.0] - 2025-06-27
 
 - initial release
@@ -885,6 +889,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Cnc_6.1]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_6.1
 [MTH_1.0]:https://github.com/erykjj/jwpublib/releases/tag/MTH_1.0
 [TBH_12.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_12.0
 [SPW_2.0]:https://github.com/erykjj/jwpublib/releases/tag/SPW_2.0
