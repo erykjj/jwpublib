@@ -39,6 +39,7 @@
 ### **TBH**: Timeline of Bible History
 
 - cosmetic fixes and improvements
+- added time-leap to millennium button
 
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
