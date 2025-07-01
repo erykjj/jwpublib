@@ -46,7 +46,7 @@ ____
 ## [TBH_13.0] - 2025-06-30
 
 - cosmetic fixes and improvements
-- added time-leap to millennium button
+- added leap-to-millennium button
 
 ## [Cnc_6.1] - 2025-06-28
 
