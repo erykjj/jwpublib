@@ -38,14 +38,16 @@
 
 ### **TBH**: Timeline of Bible History
 
-- cosmetic fixes and improvements
-- added time-leap to millennium button
-
 ### **VED**: Vine's *Expository Dictionary of New Testament Words*
 
 ### **Vst**: VerSet
 
 ____
+## [TBH_13.0] - 2025-06-30
+
+- cosmetic fixes and improvements
+- added time-leap to millennium button
+
 ## [Cnc_6.1] - 2025-06-28
 
 - fixed indexing of possessive forms (thank you, Mysia)
@@ -893,6 +895,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[TBH_13.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_13.0
 [Cnc_6.1]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_6.1
 [MTH_1.0]:https://github.com/erykjj/jwpublib/releases/tag/MTH_1.0
 [TBH_12.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_12.0
