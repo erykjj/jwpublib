@@ -40,6 +40,10 @@
 ### **Vst**: VerSet
 
 ____
+## [Vst_1.3] - 2025-07-03
+
+- added another 30 sets
+
 ## [MTH_1.1] - 2025-07-03
 
 - some corrections for accuracy (thank you, Mysia)
@@ -897,6 +901,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Vst_1.3]:https://github.com/erykjj/jwpublib/releases/tag/Vst_1.3
 [MTH_1.1]:https://github.com/erykjj/jwpublib/releases/tag/MTH_1.1
 [TBH_13.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_13.0
 [Cnc_6.1]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_6.1
