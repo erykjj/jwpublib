@@ -22,7 +22,7 @@ ____
 * [Bible Reading Schedules](#bible-reading-schedules-)
 * [VerSet](#verset-)
 ### Bibles and dictionaries
-* [NWT Concordance](#nwt-concordance-)   **UPDATED**
+* [NWT Concordance](#nwt-concordance-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
 * [Vine's *Expository Dictionary of New Testament Words*](#vines-expository-dictionary-of-new-testament-words-)
 * [*KJV* with *Strong's* Inline/Interlinear](#kjv-with-strongs-inlineinterlinear-)
@@ -31,7 +31,7 @@ ____
 * [God's Prophetic Word](#gods-prophetic-word-)
 * [Signs and Powerful Works](#signs-and-powerful-works-)
 * [Timeline of Bible History](#timeline-of-bible-history-)   **UPDATED**
-* [Modern Theocratic History](#modern-theocratic-history-)   **NEW**
+* [Modern Theocratic History](#modern-theocratic-history-)   **UPDATED**
 ### Other
 * [Emerge-Alive](#emerge-alive-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
@@ -105,8 +105,8 @@ ____
 ![preview on Android](screenshots/MTH.gif)
 
 * **Description**: A chronological compilation of the modern history of Jehovah's Witnesses in the context of world events; research and fact-checking by Mysia & Rick W.
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/MTH_1.0)**: [*MTH_1.0*](https://github.com/erykjj/jwpublib/releases/download/MTH_1.0/MTH_1.0.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/MTH_1.0/MTH_1.0.jwpub)
-* **Released**: [2025-06-27](CHANGELOG.md/#mth_10---2025-06-27)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/MTH_1.1)**: [*MTH_1.1*](https://github.com/erykjj/jwpublib/releases/download/MTH_1.1/MTH_1.1.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/MTH_1.1/MTH_1.1.jwpub)
+* **Released**: [2025-07-03](CHANGELOG.md/#mth_11---2025-07-03)
 * **Note**: Tapping on a year in any of the *thematic* timelines, will give you an overview of the whole year in the side/study pane; tapping on a tag will take you to the corresponding thematic timeline. Keep in mind that if you annotate in any way and a future release includes additional historical events, your notes and highlights will no longer match up. This is history in the making, so new events will certainly be added
 * **Traslations**: If interested, please [let me know](https://github.com/erykjj/jwpublib/discussions/93)
 
