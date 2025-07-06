@@ -30,8 +30,8 @@ ____
 ### Research projects
 * [God's Prophetic Word](#gods-prophetic-word-)
 * [Signs and Powerful Works](#signs-and-powerful-works-)
-* [Timeline of Bible History](#timeline-of-bible-history-)   **UPDATED**
-* [Modern Theocratic History](#modern-theocratic-history-)   **UPDATED**
+* [Timeline of Bible History](#timeline-of-bible-history-)
+* [Modern Theocratic History](#modern-theocratic-history-)
 ### Other
 * [Emerge-Alive](#emerge-alive-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
