@@ -22,9 +22,6 @@
 
 ### **MTH**: Modern Theocratic History
 
-- some corrections (thank you, @Nokame895)
-- added more detail and more events (thank you, @Nokame895)
-
 ### **RVS**: *Reina-Valera* with *Strong's* (Spanish)
 
 - source corrections
@@ -43,6 +40,11 @@
 ### **Vst**: VerSet
 
 ____
+## [MTH_1.2] - 2025-07-07
+
+- some corrections (thank you, @Nokame895)
+- added more detail and more events (thank you, @Nokame895)
+
 ## [Vst_1.3] - 2025-07-03
 
 - added another 30 sets
@@ -904,6 +906,7 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[MTH_1.2]:https://github.com/erykjj/jwpublib/releases/tag/MTH_1.2
 [Vst_1.3]:https://github.com/erykjj/jwpublib/releases/tag/Vst_1.3
 [MTH_1.1]:https://github.com/erykjj/jwpublib/releases/tag/MTH_1.1
 [TBH_13.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_13.0
