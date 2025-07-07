@@ -22,6 +22,7 @@
 
 ### **MTH**: Modern Theocratic History
 
+- some corrections (thank you, @Nokame895)
 - added more detail and more events (thank you, @Nokame895)
 
 ### **RVS**: *Reina-Valera* with *Strong's* (Spanish)
