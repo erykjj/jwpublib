@@ -165,8 +165,7 @@ ____
 ![preview](screenshots/RVS.gif)
 
 * **Description**: *Versión Reina-Valera* (1909) con enlaces a [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/RVS_2.0)**: [*RVS_2.0-lineal*](https://github.com/erykjj/jwpublib/releases/download/RVS_2.0/RVS_2.0-lineal.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/RVS_2.0/RVS_2.0-lineal.jwpub) & [*RVS_2.0-interlineal*](https://github.com/erykjj/jwpublib/releases/download/RVS_2.0/RVS_2.0-interlineal.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/RVS_2.0/RVS_2.0-interlineal.jwpub)
-* **Released**: [2025-06-08](CHANGELOG.md/#rvs_20---2025-06-08)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/RVS_3.0)**: [*RVS_3.0-lineal*](https://github.com/erykjj/jwpublib/releases/download/RVS_3.0/RVS_3.0-lineal.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/RVS_3.0/RVS_3.0-lineal.jwpub) & [*RVS_3.0-interlineal*](https://github.com/erykjj/jwpublib/releases/download/RVS_3.0/RVS_3.0-interlineal.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/RVS_3.0/RVS_3.0-interlineal.jwpub)
 
 ____
 ## *Faith on the March* [⇧](#bookshelf)
