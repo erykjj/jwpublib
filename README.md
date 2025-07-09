@@ -84,7 +84,7 @@ ____
 <img src="screenshots/MTH.png" width="100px">
 
 * **Description**: A chronological compilation of the modern history of Jehovah's Witnesses in the context of world events; research and fact-checking by Mysia & Rick W.
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/MTH_2.0)**: [*MTH_2.0*](https://github.com/erykjj/jwpublib/releases/download/MTH_2.0/MTH_2.0_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/MTH_2.0/MTH_2.0_E.jwpub)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/MTH_2.0)**: *MTH_2.0* — [English](https://github.com/erykjj/jwpublib/releases/download/MTH_2.0/MTH_2.0_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/MTH_2.0/MTH_2.0_E.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/MTH_2.0/MTH_2.0_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/MTH_2.0/MTH_2.0_S.jwpub)
 * **Note**: Tapping on a year in any of the *thematic* timelines, will give you an overview of the whole year in the side/study pane; tapping on a tag will take you to the corresponding thematic timeline. Keep in mind that if you annotate in any way and a future release includes additional historical events, your notes and highlights will no longer match up. This is history in the making, so new events will certainly be added
 
 ____
