@@ -1,5 +1,5 @@
 # **This Public Domain library is closing**
-Thank you all for your support (Heb 13:16)
+Thank you all for your support (Heb 13:16).
 
 ____
 ____
