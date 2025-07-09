@@ -53,6 +53,7 @@ ____
 ## [MTH_2.0] - 2025-07-08
 
 - Ω release
+- added Spanish (thank you, @Nokame895)
 
 ## [Fth_4.0] - 2025-07-08
 
