@@ -10,8 +10,6 @@
 
 ### **E-A**: Emerge-Alive
 
-- added Spanish (thank you, @MisaelArciniega) - needs verification
-
 ### **Fth**: *Faith on the March*
 
 ### **GPW**: God's Prophetic Word
@@ -24,14 +22,9 @@
 
 ### **RVS**: *Reina-Valera* with *Strong's* (Spanish)
 
-- source corrections
-- keep intrlinear groups together with non-breaking space
-
 ### **SPW**: Signs and Powerful Works
 
 ### **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*
-
-- adjusted Spanish concordance listings
 
 ### **TBH**: Timeline of Bible History
 
@@ -40,6 +33,73 @@
 ### **Vst**: VerSet
 
 ____
+## [BRS_7.0] - 2025-07-08
+
+- Ω release
+- improved schedules
+- removed 3-month schedules
+- added Memorial schedule
+
+## [RVS_3.0] - 2025-07-08
+
+- Ω release
+- source corrections
+- formatting adjustments
+
+## [KJS_7.0] - 2025-07-08
+
+- Ω release
+
+## [MTH_2.0] - 2025-07-08
+
+- Ω release
+
+## [Fth_4.0] - 2025-07-08
+
+- Ω release
+
+## [Jph_3.0] - 2025-07-08
+
+- Ω release
+
+## [E-A_3.0] - 2025-07-08
+
+- Ω release
+- added Spanish (thank you, @MisaelArciniega)
+
+## [SPW_3.0] - 2025-07-08
+
+- Ω release
+
+## [GPW_7.0] - 2025-07-08
+
+- Ω release
+
+## [VED_7.0] - 2025-07-08
+
+- Ω release
+
+## [Str_7.0] - 2025-07-08
+
+- Ω release
+- adjusted Spanish concordance listings
+
+## [TBH_14.0] - 2025-07-08
+
+- Ω release
+
+## [Vst_2.0] - 2025-07-08
+
+- Ω release
+
+## [BaM_7.0] - 2025-07-08
+
+- Ω release
+
+## [Cnc_7.0] - 2025-07-08
+
+- Ω release
+
 ## [MTH_1.2] - 2025-07-07
 
 - some corrections (thank you, @Nokame895)
@@ -906,6 +966,21 @@ ____
 
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BRS_7.0]:https://github.com/erykjj/jwpublib/releases/tag/BRS_7.0
+[RVS_3.0]:https://github.com/erykjj/jwpublib/releases/tag/RVS_3.0
+[KJS_7.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_7.0
+[MTH_2.0]:https://github.com/erykjj/jwpublib/releases/tag/MTH_2.0
+[Fth_4.0]:https://github.com/erykjj/jwpublib/releases/tag/Fth_4.0
+[Jph_3.0]:https://github.com/erykjj/jwpublib/releases/tag/Jph_3.0
+[E-A_3.0]:https://github.com/erykjj/jwpublib/releases/tag/E-A_3.0
+[SPW_3.0]:https://github.com/erykjj/jwpublib/releases/tag/SPW_3.0
+[GPW_7.0]:https://github.com/erykjj/jwpublib/releases/tag/GPW_7.0
+[VED_7.0]:https://github.com/erykjj/jwpublib/releases/tag/VED_7.0
+[Str_7.0]:https://github.com/erykjj/jwpublib/releases/tag/Str_7.0
+[TBH_14.0]:https://github.com/erykjj/jwpublib/releases/tag/TBH_14.0
+[Vst_2.0]:https://github.com/erykjj/jwpublib/releases/tag/Vst_2.0
+[BaM_7.0]:https://github.com/erykjj/jwpublib/releases/tag/BaM_7.0
+[Cnc_7.0]:https://github.com/erykjj/jwpublib/releases/tag/Cnc_7.0
 [MTH_1.2]:https://github.com/erykjj/jwpublib/releases/tag/MTH_1.2
 [Vst_1.3]:https://github.com/erykjj/jwpublib/releases/tag/Vst_1.3
 [MTH_1.1]:https://github.com/erykjj/jwpublib/releases/tag/MTH_1.1
