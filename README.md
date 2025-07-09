@@ -1,3 +1,9 @@
+# **This Public Domain library is closing**
+Thank you all for your support (Heb 13:16)
+
+____
+____
+
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/erykjj/jwpublib/total?style=plastic)](https://github.com/erykjj/jwpublib/releases) [![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwpublib/releases.atom)
 
 # JWPubLib
@@ -20,7 +26,7 @@ ____
 
 ### Bible reading and study
 * [Bible Reading Schedules](#bible-reading-schedules-)
-* [VerSet](#verset-)   **UPDATED**
+* [VerSet](#verset-)
 ### Bibles and dictionaries
 * [NWT Concordance](#nwt-concordance-)
 * [Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament*](#strongs-hebrew-and-chaldee-dictionary-and-greek-dictionary-of-the-new-testament-)
@@ -31,7 +37,7 @@ ____
 * [God's Prophetic Word](#gods-prophetic-word-)
 * [Signs and Powerful Works](#signs-and-powerful-works-)
 * [Timeline of Bible History](#timeline-of-bible-history-)
-* [Modern Theocratic History](#modern-theocratic-history-)   **UPDATED**
+* [Modern Theocratic History](#modern-theocratic-history-)
 ### Other
 * [Emerge-Alive](#emerge-alive-)
 * [Who Wants to Be a Missionary?](#who-wants-to-be-a-missionary-)
@@ -140,10 +146,7 @@ ____
 ![preview on Android](screenshots/Cnc.gif)
 
 * **Description**: Exhaustive index of words used in the *New World Translation of the Holy Scriptures*[^2]
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Cnc_6.1)**: *Cnc_5.1* & *Cnc_6.1* — [English](https://github.com/erykjj/jwpublib/releases/download/Cnc_6.1/Cnc_6.1_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_6.1/Cnc_6.1_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/Cnc_6.1/Cnc_5.1_F.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_6.1/Cnc_5.1_F.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/Cnc_6.1/Cnc_6.1_I.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_6.1/Cnc_6.1_I.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/Cnc_6.1/Cnc_6.1_P.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_6.1/Cnc_6.1_P.jwpub), [Portuguese (Brazil)](https://github.com/erykjj/jwpublib/releases/download/Cnc_6.1/Cnc_6.1_T.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_6.1/Cnc_6.1_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Cnc_6.1/Cnc_6.1_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_6.1/Cnc_6.1_S.jwpub)
-* **Released**: [2025-06-06](CHANGELOG.md/#cnc_61---2025-06-28)
-* **Note**: The French version does not have the Appendix material (concordance only). See below…
-* **Traslations**: If interested in adding another language, please [let me know](https://github.com/erykjj/jwpublib/discussions/71)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Cnc_7.0)**: *Cnc_6.0* & *Cnc_7.0* — [English](https://github.com/erykjj/jwpublib/releases/download/Cnc_7.0/Cnc_7.0_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_7.0/Cnc_7.0_E.jwpub), [French](https://github.com/erykjj/jwpublib/releases/download/Cnc_7.0/Cnc_6.0_F.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_7.0/Cnc_6.0_F.jwpub), [Italian](https://github.com/erykjj/jwpublib/releases/download/Cnc_7.0/Cnc_7.0_I.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_7.0/Cnc_7.0_I.jwpub), [Polish](https://github.com/erykjj/jwpublib/releases/download/Cnc_7.0/Cnc_7.0_P.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_7.0/Cnc_7.0_P.jwpub), [Portuguese (Brazil)](https://github.com/erykjj/jwpublib/releases/download/Cnc_7.0/Cnc_7.0_T.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_7.0/Cnc_7.0_T.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Cnc_7.0/Cnc_7.0_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Cnc_7.0/Cnc_7.0_S.jwpub)
 
 ____
 ## Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* [⇧](#bookshelf)
