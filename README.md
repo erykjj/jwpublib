@@ -4,8 +4,6 @@ Thank you all for your support (Heb 13:16)
 ____
 ____
 
-[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/erykjj/jwpublib/total?style=plastic)](https://github.com/erykjj/jwpublib/releases) [![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwpublib/releases.atom)
-
 # JWPubLib
 
 This is a collection of Bible reference works and study projects packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] - as one would supplement/complement a physical library (personal or in a Kingdom Hall) with an atlas, dictionaries, and other such secular publications.
