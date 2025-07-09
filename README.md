@@ -176,9 +176,7 @@ ____
 <img src="screenshots/Faith.jpg" width="100px">
 
 * **Description**: By A. H. Macmillan; originally published in 1957
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Fth_3.1)**: [*Fth_3.1*](https://github.com/erykjj/jwpublib/releases/download/Fth_3.1/Fth_3.1.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Fth_3.1/Fth_3.1.jwpub)
-* **Released**: [2025-06-04](CHANGELOG.md/#fth_31---2025-06-04)
-* **Note**: Please report any errors [here](https://github.com/erykjj/jwpublib/issues/54)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Fth_4.0)**: [*Fth_4.0*](https://github.com/erykjj/jwpublib/releases/download/Fth_4.0/Fth_4.0.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Fth_4.0/Fth_4.0.jwpub)
 
 ____
 ## *The Works of Flavius Josephus* [⇧](#bookshelf)
