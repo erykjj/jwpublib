@@ -148,9 +148,7 @@ ____
 ![preview](screenshots/Str.gif)
 
 * **Description**: Hebrew and Greek dictionaries and concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words))
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Str_6.1)**: *Str_6.1* — [English](https://github.com/erykjj/jwpublib/releases/download/Str_6.1/Str_6.1_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_6.1/Str_6.1_E.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Str_6.1/Str_6.1_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_6.1/Str_6.1_S.jwpub)
-* **Released**: [2025-06-04](CHANGELOG.md/#str_61---2025-06-04)
-* **Note**: If the content doesn't render properly, uninstall your current version of *Str*, restart JW Library and install the new *Str.jwpub*
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Str_7.0)**: *Str_7.0* — [English](https://github.com/erykjj/jwpublib/releases/download/Str_7.0/Str_7.0_E.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_7.0/Str_7.0_E.jwpub), [Spanish](https://github.com/erykjj/jwpublib/releases/download/Str_7.0/Str_7.0_S.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Str_7.0/Str_7.0_S.jwpub)
 
 ____
 ## Vine's *Expository Dictionary of New Testament Words* [⇧](#bookshelf)
