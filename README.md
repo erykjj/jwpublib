@@ -20,7 +20,7 @@ These "publications" **will not update automatically**. You will need to check f
 
 ____
 ____
-## Bookshelf
+## Bookshelf - *everything* updated
 
 <img src="screenshots/bookshelf.png" width="100px">
 
