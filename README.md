@@ -185,8 +185,6 @@ ____
 ____
 ## Feedback, etc.
 
-Feel free to [get in touch](https://github.com/erykjj/jwpublib/issues) and post any issues, suggestions, ideas, etc.
-
 My other *JW Library* projects: [**JWLManager**](https://github.com/erykjj/jwlmanager) and [**jwlFusion**](https://github.com/erykjj/jwlFusion)
 
 ____
