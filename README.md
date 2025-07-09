@@ -187,8 +187,7 @@ ____
 ![preview on Android](screenshots/Jph.gif)
 
 * **Description**: *Antiquities of the Jews*, *Jewish War* and *The Life of Flavius Josephus*
-* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Jph_2.1)**: [*Jph_2.1*](https://github.com/erykjj/jwpublib/releases/download/Jph_2.1/Jph_2.1.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Jph_2.1/Jph_2.1.jwpub)
-* **Released**: [2025-06-04](CHANGELOG.md/#jph_21---2025-06-04)
+* **[Latest release](https://github.com/erykjj/jwpublib/releases/tag/Jph_3.0)**: [*Jph_3.0*](https://github.com/erykjj/jwpublib/releases/download/Jph_3.0/Jph_3.0.jwpub)&nbsp;[<img src="screenshots/qr.png" width="16px">](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/erykjj/jwpublib/releases/download/Jph_3.0/Jph_3.0.jwpub)
 
 ____
 ____
