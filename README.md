@@ -4,7 +4,12 @@ JWPubLib is a collection of **Public Domain** Bible reference works and study pr
 
 The material is **not copyrighted** and is packaged with open-source tools and technologies. ([Mt 7:7](https://www.jw.org/finder?bible=40007007))
 
-Special thanks to all the translators!
+<details><summary>Gallery</summary><br/>
+
+![Bible Reading Schedules](screenshots/BRS.gif) ![NWT Concordance](screenshots/Cnc.gif) ![Strong's](screenshots/Str.gif) ![Vine's](screenshots/VED.gif) ![RV con Strong](screenshots/RVS.gif)
+![God's Prophetic Word](screenshots/GPW.gif) ![Signs and Powerful Works](screenshots/SPW.gif) ![Timeline of Bible History](screenshots/TBH.gif) ![Modern Theocratic History](screenshots/MTH.gif) ![VerSet](screenshots/Vst.gif)
+![Emerge-Alive](screenshots/E-A.gif) ![Who Wants to Be a Missionary](screenshots/BaM.gif) ![Works of Josephus](screenshots/Jph.gif)
+</details><br/>
 
 ____
 #### Footnotes:
