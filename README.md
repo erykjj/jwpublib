@@ -9,6 +9,7 @@ The material is **not copyrighted** and is packaged with open-source tools and t
 ![Bible Reading Schedules](screenshots/BRS.gif) ![NWT Concordance](screenshots/Cnc.gif) ![Strong's](screenshots/Str.gif) ![Vine's](screenshots/VED.gif) ![RV con Strong](screenshots/RVS.gif)
 ![God's Prophetic Word](screenshots/GPW.gif) ![Signs and Powerful Works](screenshots/SPW.gif) ![Timeline of Bible History](screenshots/TBH.gif) ![Modern Theocratic History](screenshots/MTH.gif) ![VerSet](screenshots/Vst.gif)
 ![Emerge-Alive](screenshots/E-A.gif) ![Who Wants to Be a Missionary](screenshots/BaM.gif) ![Works of Josephus](screenshots/Jph.gif)
+![KJV with Strong's](screenshots/KJS.gif)
 </details><br/>
 
 ____
