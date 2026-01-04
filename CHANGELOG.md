@@ -4,36 +4,82 @@
 
 - **BaM**: Who Wants to Be a Missionary? (7.1)
   - Cebuano, Chinese (Simplified Mandarin), Danish, Dutch, English, Ewe, French, Italian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Tagalog, Ukrainian
-- **BRS**: Bible Reading Schedules (10.0)
+- **BRS**: Bible Reading Schedules (11.0)
   - Cebuano, Chinese (Simplified Mandarin), Danish, Dutch, English, Ewe, French, German, Hungarian, Indonesian, Italian, Korean, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Tagalog, Ukrainian
-- **Cnc**: NWT Concordance (7.1)
+- **Cnc**: NWT Concordance (8.0)
   - English, French, Italian, Polish, Portuguese, Spanish
-- **E-A**: Emerge-Alive (3.1)
+- **E-A**: Emerge-Alive (4.0)
   - English, Italian, Polish, Spanish, Ukrainian
-- **Fth**: *Faith on the March* (4.1)
+- **Fth**: *Faith on the March* (5.0)
   - English
-- **GPW**: God's Prophetic Word (8.2)
+- **GPW**: God's Prophetic Word (9.0)
   - Cebuano, Danish, Dutch, English, Italian, Polish, Portuguese, Spanish, Swedish, Ukrainian
-- **Jph**: *The Works of Flavius Josephus* (4.0)
+- **Jph**: *The Works of Flavius Josephus* (5.0)
   - English
 - **KJS**: *KJV* with *Strong's* Inline/Interlinear (8.1)
   - English
-- **MTH**: Modern Theocratic History (2.1)
+- **MTH**: Modern Theocratic History (3.0)
   - English, Spanish
 - **RVS**: *Reina-Valera* with *Strong's* (4.0)
   - Spanish
-- **SPW**: Signs and Powerful Works (3.1)
+- **SPW**: Signs and Powerful Works (4.0)
   - English, Polish, Portuguese, Spanish
-- **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* (7.2)
+- **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* (8.0)
   - English, Spanish
-- **TBH**: Timeline of Bible History (14.3)
+- **TBH**: Timeline of Bible History (15.0)
   - Danish, English, French, Italian, Polish, Portuguese, Spanish, Ukrainian
-- **VED**: Vine's *Expository Dictionary of New Testament Words* (7.2)
+- **VED**: Vine's *Expository Dictionary of New Testament Words* (8.0)
   - English
 - **Vst**: VerSet (2.1)
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## MTH v3.0 (2026-01-03)
+
+- added some current events
+- moved to "Other" category (in *Library* section)
+
+## BRS v11.0 (2026-01-03)
+
+- moved to "Other" category
+
+## VED v8.0 (2026-01-03)
+
+- moved to "Other" category
+
+## Str v8.0 (2026-01-03)
+
+- moved to "Other" category
+
+## SPW v4.0 (2026-01-03)
+
+- moved to "Other" category
+
+## GPW v9.0 (2026-01-03)
+
+- moved to "Other" category
+
+## Jph v5.0 (2026-01-03)
+
+- moved to "Other" category
+
+## Fth v5.0 (2026-01-03)
+
+- moved to "Other" category
+
+## E-A v4.0 (2026-01-03)
+
+- moved to "Other" category
+
+## Cnc v8.0 (2026-01-03)
+
+- moved to "Other" category
+- French v7.0
+
+## TBH v15.0 (2026-01-03)
+
+- moved to "Other" category
+
 ## Jph v4.0 (2025-12-13)
 
 - fixed footnotes
