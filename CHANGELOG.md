@@ -2,7 +2,7 @@
 
 ## Legend
 
-- **BaM**: Who Wants to Be a Missionary? (7.1)
+- **BaM**: Who Wants to Be a Missionary? (8.0)
   - Cebuano, Chinese (Simplified Mandarin), Danish, Dutch, English, Ewe, French, Italian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Tagalog, Ukrainian
 - **BRS**: Bible Reading Schedules (11.0)
   - Cebuano, Chinese (Simplified Mandarin), Danish, Dutch, English, Ewe, French, German, Hungarian, Indonesian, Italian, Korean, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Tagalog, Ukrainian
@@ -34,10 +34,17 @@
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## BaM v8.0 (2026-01-04)
+
+- added more scriptures
+  - all 150 games reshuffled
+- various display fixes (Android/iOS)
+- moved to "Other" category (in *Library* section)
+
 ## MTH v3.0 (2026-01-03)
 
 - added some current events
-- moved to "Other" category (in *Library* section)
+- moved to "Other" category
 
 ## BRS v11.0 (2026-01-03)
 
