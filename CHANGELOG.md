@@ -37,7 +37,7 @@ ____
 ## BaM v8.0 (2026-01-04)
 
 - added more scriptures
-  - all 150 games reshuffled
+  - all 150 games reshuffled (your completion history will be reset)
 - various display fixes (Android/iOS)
 - moved to "Other" category (in *Library* section)
 
