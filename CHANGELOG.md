@@ -30,16 +30,22 @@
   - Danish, English, French, Italian, Polish, Portuguese, Spanish, Ukrainian
 - **VED**: Vine's *Expository Dictionary of New Testament Words* (8.0)
   - English
-- **Vst**: VerSet (2.1)
+- **Vst3**: VεrSεt (3.0)
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## Vst3 v3.0 (2026-01-06)
+
+- improved scripture distribution to limit repetition
+  - because of this, instead of replacing the current VerSet (**Vst**, discontinued), this "new" one can co-exist so you don't lose your annotations from the old one
+- moved to "Other" category (in *Library* section)
+
 ## BaM v8.0 (2026-01-04)
 
 - added more scriptures
   - all 150 games reshuffled (your completion history will be reset)
 - various display fixes (Android/iOS)
-- moved to "Other" category (in *Library* section)
+- moved to "Other" category
 
 ## MTH v3.0 (2026-01-03)
 
