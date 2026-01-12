@@ -14,6 +14,7 @@
   - English
 - **GPW**: God's Prophetic Word (9.0)
   - Cebuano, Danish, Dutch, English, Italian, Polish, Portuguese, Spanish, Swedish, Ukrainian
+  - ADDED MORE EVENTS
 - **Jph**: *The Works of Flavius Josephus* (5.0)
   - English
 - **KJS**: *KJV* with *Strong's* Inline/Interlinear (8.1)
