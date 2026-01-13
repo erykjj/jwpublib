@@ -14,6 +14,4 @@ The material is **not copyrighted** and is packaged with open-source tools and t
 
 <p align="center"><img src="screenshots/inf.png" width=50></p>
 
-____
-#### Footnotes:
 [^1]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*
