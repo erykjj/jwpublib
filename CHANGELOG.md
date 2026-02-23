@@ -25,6 +25,7 @@
   - Spanish
 - **SPW**: Signs and Powerful Works (4.0)
   - English, Polish, Portuguese, Spanish
+  - *added another event*
 - **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* (8.0)
   - English, Spanish
 - **TBH**: Timeline of Bible History (15.0)
