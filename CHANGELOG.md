@@ -19,10 +19,12 @@
   - English
 - **KJS**: *KJV* with *Strong's* Inline/Interlinear (8.1)
   - English
+  - *fixes for occasional crashing on Windows 11*
 - **MTH**: Modern Theocratic History (3.0)
   - English, Spanish
 - **RVS**: *Reina-Valera* with *Strong's* (4.0)
   - Spanish
+  - *minor spacing adjustments*
 - **SPW**: Signs and Powerful Works (4.0)
   - English, Polish, Portuguese, Spanish
   - *added another event*
