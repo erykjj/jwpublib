@@ -12,9 +12,8 @@
   - English, Italian, Polish, Spanish, Ukrainian
 - **Fth**: *Faith on the March* (5.0)
   - English
-- **GPW**: God's Prophetic Word (9.0)
+- **GPW**: God's Prophetic Word (9.2)
   - Cebuano, Danish, Dutch, English, Italian, Polish, Portuguese, Spanish, Swedish, Ukrainian
-  - *added more prophecies*
 - **Jph**: *The Works of Flavius Josephus* (5.0)
   - English
 - **KJS**: *KJV* with *Strong's* Inline/Interlinear (8.2)
@@ -37,6 +36,10 @@
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## GPW v9.2 (2026-03-02)
+
+  - added more prophecies
+
 ## KJS 8.2 (2026-03-02)
 
   - fixes for occasional crashes on Windows 11
