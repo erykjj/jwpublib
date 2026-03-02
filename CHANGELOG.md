@@ -14,17 +14,15 @@
   - English
 - **GPW**: God's Prophetic Word (9.0)
   - Cebuano, Danish, Dutch, English, Italian, Polish, Portuguese, Spanish, Swedish, Ukrainian
-  - *added another prophecy*
+  - *added more prophecies*
 - **Jph**: *The Works of Flavius Josephus* (5.0)
   - English
-- **KJS**: *KJV* with *Strong's* Inline/Interlinear (8.1)
+- **KJS**: *KJV* with *Strong's* Inline/Interlinear (8.2)
   - English
-  - *fixes for occasional crashing on Windows 11*
 - **MTH**: Modern Theocratic History (3.0)
   - English, Spanish
-- **RVS**: *Reina-Valera* with *Strong's* (4.0)
+- **RVS**: *Reina-Valera* with *Strong's* (4.1)
   - Spanish
-  - *minor spacing adjustments*
 - **SPW**: Signs and Powerful Works (4.0)
   - English, Polish, Portuguese, Spanish
   - *added another event*
@@ -39,6 +37,14 @@
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## KJS 8.2 (2026-03-02)
+
+  - fixes for occasional crashes on Windows 11
+
+## RVS 4.1 (2026-03-02)
+
+  - minor spacing adjustments
+
 ## GPW v9.1 (2026-01-13)
 
 - added more prophecies
