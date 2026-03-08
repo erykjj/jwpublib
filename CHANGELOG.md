@@ -29,7 +29,7 @@
   - English, Spanish
 - **TBH**: Timeline of Bible History (15.0)
   - Danish, English, French, Italian, Polish, Portuguese, Spanish, Ukrainian
-  - *minor corrections*
+  - *minor corrections and category adjustments*
 - **VED**: Vine's *Expository Dictionary of New Testament Words* (8.0)
   - English
 - **Vst3**: VεrSεt (3.0)
