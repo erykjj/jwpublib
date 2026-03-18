@@ -27,15 +27,18 @@
   - *added another event*
 - **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* (8.0)
   - English, Spanish
-- **TBH**: Timeline of Bible History (15.0)
+- **TBH**: Timeline of Bible History (15.1)
   - Danish, English, French, Italian, Polish, Portuguese, Spanish, Ukrainian
-  - *minor corrections and category adjustments*
 - **VED**: Vine's *Expository Dictionary of New Testament Words* (8.0)
   - English
 - **Vst3**: VεrSεt (3.0)
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## TBH v15.1 (2026-03-18)
+
+- minor corrections and category adjustments
+
 ## BRS v12.0 (2026-03-18)
 
 - chronological & Memorial reading adjustments
