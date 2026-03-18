@@ -22,9 +22,8 @@
   - English, Spanish
 - **RVS**: *Reina-Valera* with *Strong's* (4.1)
   - Spanish
-- **SPW**: Signs and Powerful Works (4.0)
+- **SPW**: Signs and Powerful Works (4.1)
   - English, Polish, Portuguese, Spanish
-  - *added another event*
 - **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* (8.0)
   - English, Spanish
 - **TBH**: Timeline of Bible History (15.1)
@@ -35,6 +34,10 @@
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## SPW v4.1 (2026-03-18)
+
+- added another event
+
 ## TBH v15.1 (2026-03-18)
 
 - minor corrections and category adjustments
