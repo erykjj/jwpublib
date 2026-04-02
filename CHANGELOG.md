@@ -4,7 +4,7 @@
 
 - **BaM**: Who Wants to Be a Missionary? (8.0)
   - Cebuano, Chinese (Simplified Mandarin), Danish, Dutch, English, Ewe, French, Italian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Tagalog, Ukrainian
-- **BRS**: Bible Reading Schedules (12.0)
+- **BRS**: Bible Reading Schedules (12.1)
   - Cebuano, Chinese (Simplified Mandarin), Danish, Dutch, English, Ewe, French, German, Hungarian, Indonesian, Italian, Korean, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Tagalog, Ukrainian
 - **Cnc**: NWT Concordance (8.0)
   - English, French, Italian, Polish, Portuguese, Spanish
@@ -24,6 +24,7 @@
   - Spanish
 - **SPW**: Signs and Powerful Works (4.1)
   - English, Polish, Portuguese, Spanish
+  - *fine-tuned scripture references*
 - **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* (8.0)
   - English, Spanish
 - **TBH**: Timeline of Bible History (15.1)
@@ -34,6 +35,10 @@
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## BRS v12.1 (2026-04-02)
+
+- Memorial reading adjustments
+
 ## SPW v4.1 (2026-03-18)
 
 - added another event
