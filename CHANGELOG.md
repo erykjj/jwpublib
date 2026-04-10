@@ -6,6 +6,7 @@
   - Cebuano, Chinese (Simplified Mandarin), Danish, Dutch, English, Ewe, French, Italian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Tagalog, Ukrainian
 - **BRS**: Bible Reading Schedules (12.1)
   - Cebuano, Chinese (Simplified Mandarin), Danish, Dutch, English, Ewe, French, German, Hungarian, Indonesian, Italian, Korean, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Tagalog, Ukrainian
+- *more chronological schedule adjustments*
 - **Cnc**: NWT Concordance (8.0)
   - English, French, Italian, Polish, Portuguese, Spanish
 - **E-A**: Emerge-Alive (4.0)
