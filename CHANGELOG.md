@@ -32,10 +32,15 @@
   - Danish, English, French, Italian, Polish, Portuguese, Spanish, Ukrainian
 - **VED**: Vine's *Expository Dictionary of New Testament Words* (8.0)
   - English
-- **Vst3**: VεrSεt (3.0)
+- **Vst3**: VεrSεt (3.1)
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## Vst3 v3.1 (2026-04-20)
+
+- added 30 more sets
+- minor UI tweaks
+
 ## BRS v12.1 (2026-04-02)
 
 - Memorial reading adjustments
