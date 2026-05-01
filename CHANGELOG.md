@@ -17,7 +17,7 @@
   - Cebuano, Danish, Dutch, English, Italian, Polish, Portuguese, Spanish, Swedish, Ukrainian
 - **Jph**: *The Works of Flavius Josephus* (5.0)
   - English
-- **KJS**: *KJV* with *Strong's* Inline/Interlinear (8.2)
+- **KJS**: *KJV* with *Strong's* Inline/Interlinear (8.3)
   - English
 - **MTH**: Modern Theocratic History (3.0)
   - English, Spanish
@@ -36,6 +36,10 @@
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## KJS 8.3 (2026-05-01)
+
+  - updated schema
+
 ## Vst3 v3.1 (2026-04-20)
 
 - added 30 more sets
