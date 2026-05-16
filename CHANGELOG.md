@@ -6,7 +6,7 @@
   - Cebuano, Chinese (Simplified Mandarin), Danish, Dutch, English, Ewe, French, Italian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Tagalog, Ukrainian
 - **BRS**: Bible Reading Schedules (12.1)
   - Cebuano, Chinese (Simplified Mandarin), Danish, Dutch, English, Ewe, French, German, Hungarian, Indonesian, Italian, Korean, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Tagalog, Ukrainian
-- *more chronological schedule adjustments*
+  - *more chronological schedule adjustments*
 - **Cnc**: NWT Concordance (8.0)
   - English, French, Italian, Polish, Portuguese, Spanish
 - **E-A**: Emerge-Alive (4.0)
@@ -23,11 +23,13 @@
   - English, Spanish
 - **RVS**: *Reina-Valera* with *Strong's* (4.1)
   - Spanish
+  - *source corrections*
 - **SPW**: Signs and Powerful Works (4.1)
   - English, Polish, Portuguese, Spanish
   - *fine-tuned scripture references*
 - **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* (8.0)
   - English, Spanish
+  - *source corrections*
 - **TBH**: Timeline of Bible History (15.1)
   - Danish, English, French, Italian, Polish, Portuguese, Spanish, Ukrainian
 - **VED**: Vine's *Expository Dictionary of New Testament Words* (8.0)
