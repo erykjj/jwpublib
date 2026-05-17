@@ -17,27 +17,41 @@
   - Cebuano, Danish, Dutch, English, Italian, Polish, Portuguese, Spanish, Swedish, Ukrainian
 - **Jph**: *The Works of Flavius Josephus* (5.0)
   - English
-- **KJS**: *KJV* with *Strong's* Inline/Interlinear (8.3)
+- **KJS**: *KJV* with *Strong's* Inline/Interlinear (8.4)
   - English
 - **MTH**: Modern Theocratic History (3.0)
   - English, Spanish
-- **RVS**: *Reina-Valera* with *Strong's* (4.1)
+- **RVS**: *Reina-Valera* with *Strong's* (4.2)
   - Spanish
-  - *source corrections*
 - **SPW**: Signs and Powerful Works (4.1)
   - English, Polish, Portuguese, Spanish
   - *fine-tuned scripture references*
-- **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* (8.0)
+- **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* (8.1)
   - English, Spanish
-  - *source corrections*
 - **TBH**: Timeline of Bible History (15.1)
   - Danish, English, French, Italian, Polish, Portuguese, Spanish, Ukrainian
-- **VED**: Vine's *Expository Dictionary of New Testament Words* (8.0)
+- **VED**: Vine's *Expository Dictionary of New Testament Words* (8.1)
   - English
 - **Vst3**: VεrSεt (3.1)
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## RVS 4.2 (2026-05-17)
+
+  - source corrections
+
+## KJS 8.4 (2026-05-17)
+
+  - source corrections
+
+## VED 8.1 (2026-05-17)
+
+  - source corrections
+
+## Str 8.1 (2026-05-17)
+
+  - source corrections
+
 ## KJS 8.3 (2026-05-01)
 
   - updated schema
