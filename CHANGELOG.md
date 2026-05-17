@@ -19,7 +19,7 @@
   - English
 - **KJS**: *KJV* with *Strong's* Inline/Interlinear (8.4)
   - English
-- **MTH**: Modern Theocratic History (3.0)
+- **MTH**: Modern Theocratic History (4.0)
   - English, Spanish
 - **RVS**: *Reina-Valera* with *Strong's* (4.2)
   - Spanish
@@ -36,6 +36,10 @@
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## MTH 4.0 (2026-05-17)
+
+  - many new events added (thank you, Nokame)
+
 ## RVS 4.2 (2026-05-17)
 
   - source corrections
@@ -263,7 +267,7 @@ ____
 ## MTH 2.0 (2025-07-08)
 
 - Ω release
-- added Spanish (thank you, @Nokame895)
+- added Spanish (thank you, @Nokame895)@Nokame895
 
 ## Fth 4.0 (2025-07-08)
 
