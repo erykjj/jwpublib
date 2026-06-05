@@ -18,7 +18,7 @@
   - Cebuano, Danish, Dutch, English, Italian, Polish, Portuguese, Spanish, Swedish, Ukrainian
 - **Jph**: *The Works of Flavius Josephus* (5.0)
   - English
-- **KJS**: *KJV* with *Strong's* Inline/Interlinear (8.4)
+- **KJS**: *KJV* with *Strong's* Inline/Interlinear (8.5)
   - English
 - **MTH**: Modern Theocratic History (4.0)
   - English, Spanish
@@ -37,29 +37,33 @@
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## KJS 8.5 (2026-06-05)
+
+- fixed spacing issues
+
 ## MTH 4.0 (2026-05-17)
 
-  - many new events added (thank you, Nokame)
+- many new events added (thank you, Nokame)
 
 ## RVS 4.2 (2026-05-17)
 
-  - source corrections
+- source corrections
 
 ## KJS 8.4 (2026-05-17)
 
-  - source corrections
+- source corrections
 
 ## VED 8.1 (2026-05-17)
 
-  - source corrections
+- source corrections
 
 ## Str 8.1 (2026-05-17)
 
-  - source corrections
+- source corrections
 
 ## KJS 8.3 (2026-05-01)
 
-  - updated schema
+- updated schema
 
 ## Vst3 v3.1 (2026-04-20)
 
