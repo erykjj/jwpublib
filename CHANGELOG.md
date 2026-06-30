@@ -4,10 +4,8 @@
 
 - **BaM**: Who Wants to Be a Missionary? (8.0)
   - Cebuano, Chinese (Simplified Mandarin), Danish, Dutch, English, Ewe, French, Italian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Tagalog, Ukrainian
-- **BRS**: Bible Reading Schedules (12.1)
+- **BRS**: Bible Reading Schedules (12.2)
   - Cebuano, Chinese (Simplified Mandarin), Danish, Dutch, English, Ewe, French, German, Hungarian, Indonesian, Italian, Korean, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Tagalog, Ukrainian
-  - *more chronological schedule adjustments*
-  - *fine-tuning plan lengths by verse length (instead of number of verses)*
 - **Cnc**: NWT Concordance (8.0)
   - English, French, Italian, Polish, Portuguese, Spanish
 - **E-A**: Emerge-Alive (4.0)
@@ -37,6 +35,11 @@
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## BRS v12.2 (2026-06-30)
+
+- More chronological schedule adjustments
+- Fine-tuning plan lengths by verse length (instead of number of verses)
+
 ## KJS 8.5 (2026-06-05)
 
 - fixed spacing issues
