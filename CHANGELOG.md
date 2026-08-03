@@ -20,8 +20,6 @@
   - English
 - **MTH**: Modern Theocratic History (4.1)
   - English, Spanish
-  - *Added many new events (thank you, Nokame)*
-  - *Some small adjustments*
 - **RVS**: *Reina-Valera* with *Strong's* (4.2)
   - Spanish
 - **SPW**: Signs and Powerful Works (4.1)
@@ -37,6 +35,11 @@
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## MTH v4.1 (2026-08-02)
+
+  - Added many new events (thank you, Nokame)
+  - Some small adjustments
+
 ## BRS v12.2 (2026-06-30)
 
 - More chronological schedule adjustments
