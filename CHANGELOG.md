@@ -20,6 +20,9 @@
   - English
 - **MTH**: Modern Theocratic History (4.1)
   - English, Spanish
+  - *Added more events*
+  - *Some categorization adjustments*
+  - *Minor corrections*
 - **RVS**: *Reina-Valera* with *Strong's* (4.2)
   - Spanish
 - **SPW**: Signs and Powerful Works (4.1)
