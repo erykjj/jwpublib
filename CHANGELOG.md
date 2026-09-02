@@ -18,11 +18,8 @@
   - English
 - **KJS**: *KJV* with *Strong's* Inline/Interlinear (8.5)
   - English
-- **MTH**: Modern Theocratic History (4.1)
+- **MTH**: Modern Theocratic History (5.0)
   - English, Spanish
-  - *Added more events (thank you, Nokame)*
-  - *Some categorization adjustments*
-  - *Minor corrections*
 - **RVS**: *Reina-Valera* with *Strong's* (4.2)
   - Spanish
 - **SPW**: Signs and Powerful Works (4.1)
@@ -38,6 +35,12 @@
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## MTH v5.0 (2026-09-02)
+
+  - Added more events (thank you, Nokame)
+  - Some categorization adjustments
+  - Minor corrections
+
 ## MTH v4.1 (2026-08-02)
 
   - Added many new events (thank you, Nokame)
