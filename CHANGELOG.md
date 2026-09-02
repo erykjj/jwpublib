@@ -20,7 +20,7 @@
   - English
 - **MTH**: Modern Theocratic History (4.1)
   - English, Spanish
-  - *Added more events*
+  - *Added more events (thank you, Nokame)*
   - *Some categorization adjustments*
   - *Minor corrections*
 - **RVS**: *Reina-Valera* with *Strong's* (4.2)
