@@ -20,7 +20,7 @@
   - English
 - **MTH**: Modern Theocratic History (5.0)
   - English, Spanish
-- **RVS**: *Reina-Valera* with *Strong's* (4.2)
+- **RVS**: *Reina-Valera* with *Strong's* (4.3)
   - Spanish
 - **SPW**: Signs and Powerful Works (4.1)
   - English, Polish, Portuguese, Spanish
@@ -35,21 +35,25 @@
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## RVS 4.3 (2026-10-01)
+
+- layout fixes
+
 ## MTH v5.0 (2026-09-02)
 
-  - Added more events (thank you, Nokame)
-  - Some categorization adjustments
-  - Minor corrections
+- added more events (thank you, Nokame)
+- some categorization adjustments
+- minor corrections
 
 ## MTH v4.1 (2026-08-02)
 
-  - Added many new events (thank you, Nokame)
-  - Some small adjustments
+- added many new events (thank you, Nokame)
+- some small adjustments
 
 ## BRS v12.2 (2026-06-30)
 
-- More chronological schedule adjustments
-- Fine-tuning plan lengths by verse length (instead of number of verses)
+- more chronological schedule adjustments
+- fine-tuning plan lengths by verse length (instead of number of verses)
 
 ## KJS 8.5 (2026-06-05)
 
