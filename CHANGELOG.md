@@ -20,7 +20,7 @@
   - English
 - **MTH**: Modern Theocratic History (5.0)
   - English, Spanish
-- **RVS**: *Reina-Valera* with *Strong's* (4.3)
+- **RVS**: *Reina-Valera* with *Strong's* (4.4)
   - Spanish
 - **SPW**: Signs and Powerful Works (4.1)
   - English, Polish, Portuguese, Spanish
@@ -35,7 +35,7 @@
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
-## RVS 4.3 (2026-10-01)
+## RVS 4.4 (2026-10-02)
 
 - layout fixes
 
