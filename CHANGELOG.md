@@ -27,18 +27,21 @@
   - *fine-tuned scripture references*
 - **Str**: Strong's *Hebrew and Chaldee Dictionary* and *Greek Dictionary of the New Testament* (8.1)
   - English, Spanish
-- **TBH**: Timeline of Bible History (15.1)
+- **TBH**: Timeline of Bible History (15.3)
   - Danish, English, French, Italian, Polish, Portuguese, Spanish, Ukrainian
-  - *Minor spelling corrections*
 - **VED**: Vine's *Expository Dictionary of New Testament Words* (8.1)
   - English
 - **Vst3**: VεrSεt (3.1)
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## TBH v15.3 (2026-11-02)
+
+- minor corrections
+
 ## GPW v9.3 (2026-11-02)
 
-  - added another prophecy
+- added another prophecy
 
 ## RVS 4.4 (2026-10-02)
 
