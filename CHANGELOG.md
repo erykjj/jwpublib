@@ -12,7 +12,7 @@
   - English, Italian, Polish, Spanish, Ukrainian
 - **Fth**: *Faith on the March* (5.0)
   - English
-- **GPW**: God's Prophetic Word (9.2)
+- **GPW**: God's Prophetic Word (9.3)
   - Cebuano, Danish, Dutch, English, Italian, Polish, Portuguese, Spanish, Swedish, Ukrainian
 - **Jph**: *The Works of Flavius Josephus* (5.0)
   - English
@@ -29,12 +29,17 @@
   - English, Spanish
 - **TBH**: Timeline of Bible History (15.1)
   - Danish, English, French, Italian, Polish, Portuguese, Spanish, Ukrainian
+  - *Minor spelling corrections*
 - **VED**: Vine's *Expository Dictionary of New Testament Words* (8.1)
   - English
 - **Vst3**: VεrSεt (3.1)
   - English, French, Italian, Polish, Portuguese, Spanish
 
 ____
+## GPW v9.3 (2026-11-02)
+
+  - added another prophecy
+
 ## RVS 4.4 (2026-10-02)
 
 - layout fixes
